@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingCategoryDef>
+		<defName>Category_Annelitrice_NeoYokohama</defName>
+		<parent>Apparel</parent>
+		<label>Annelitrice Neo-Yokohama Apparels</label>
+	</ThingCategoryDef>
+
+	<ThingCategoryDef>
+		<defName>Category_Annelitrice_NeoYokohama_Dyed</defName>
+		<parent>Category_Annelitrice_NeoYokohama</parent>
+		<label>Pawn Spawn Neo-Yokohama Apparels</label>
+	</ThingCategoryDef>
+	
+</Defs>

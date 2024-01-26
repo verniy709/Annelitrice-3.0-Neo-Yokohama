@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<!--Adulthood-->
+
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
+		<defName>Anneli_NeoYokohama_ToDo</defName>
+		<title>Annelitrice NeoYokohama ToDo</title>
+		<titleShort>NeoYokohama ToDo</titleShort>
+		<baseDesc>ToDo.</baseDesc>
+		<slot>Adulthood</slot>
+		<skillGains>
+
+		</skillGains>
+		<spawnCategories>
+			<li>Anneli_Story_NeoYokohama</li>
+			<li>Anneli_Story</li>
+		</spawnCategories>
+	</AlienRace.AlienBackstoryDef>
+
+</Defs>

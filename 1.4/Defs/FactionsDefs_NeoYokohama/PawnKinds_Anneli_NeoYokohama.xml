@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<PawnKindDef Name="Anneli_NeoYokohama_KindBase" ParentName="Anneli_KindBase" Abstract="True">
+		<label>Anneli_NeoYokohama_KindBase</label>
+		<itemQuality>Masterwork</itemQuality>
+		<defaultFactionType>Anneli_Faction_NeoYokohama</defaultFactionType>
+		<isFighter>true</isFighter>
+		<combatPower>200</combatPower>
+		<canBeSapper>true</canBeSapper>
+		<backstoryCategories>
+			<li>Anneli_Childhood</li>
+			<li>Anneli_Story</li>
+		</backstoryCategories>
+		<weaponMoney>1500</weaponMoney>
+		<techHediffsChance>1.0</techHediffsChance>
+		<techHediffsMoney>1000</techHediffsMoney>
+		<techHediffsTags>
+			<li>Advanced</li>
+		</techHediffsTags>
+		<apparelAllowHeadgearChance>1.0</apparelAllowHeadgearChance>
+		<gearHealthRange>
+			<min>1.0</min>
+			<max>2.0</max>
+		</gearHealthRange>
+		<inventoryOptions>
+			<skipChance>0.1</skipChance>
+			<subOptionsChooseOne>
+				<li>
+					<choiceChance>100</choiceChance>
+					<thingDef>Silver</thingDef>
+					<countRange>
+						<min>50</min>
+						<max>300</max>
+					</countRange>
+				</li>
+			</subOptionsChooseOne>
+		</inventoryOptions>
+	</PawnKindDef>
+
+	<!-- PawnKindList -->
+
+	<PawnKindDef ParentName="Anneli_NeoYokohama_KindBase">
+		<defName>Anneli_NeoYokohama_Leader</defName>
+		<label>NeoYokohama_CEO</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<factionLeader>true</factionLeader>
+		<apparelRequired>
+
+		</apparelRequired>
+		<apparelTags>
+
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>MedievalMeleeDecent</li>
+			<li>SpacerMelee</li>
+			<li>UltratechMelee</li>
+		</weaponTags>
+	</PawnKindDef>
+
+</Defs>

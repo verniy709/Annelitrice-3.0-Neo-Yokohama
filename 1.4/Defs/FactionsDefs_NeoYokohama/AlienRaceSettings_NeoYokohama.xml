@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<AlienRace.RaceSettings>
+		<defName>Anneli_NeoYokohama_Settings</defName>
+		<pawnKindSettings>		
+			<alienslavekinds>
+				<!-- <li>
+					<kindDefs>
+						<li>ToDo</li>
+					</kindDefs>
+					<chance>1</chance>
+				</li> -->
+				
+			</alienslavekinds>
+			
+			<alienwandererkinds>
+				<li>
+					<pawnKindEntries>
+						<!-- <li>
+							<kindDefs>
+								<li>ToDo</li>
+							</kindDefs>
+							<chance>1</chance>
+						</li> -->
+						
+					</pawnKindEntries>
+					<factionDefs>
+						<li>Anneli_Faction_Player</li> 
+					</factionDefs>
+				</li>
+			</alienwandererkinds>
+
+			<alienrefugeekinds>
+				<!-- <li>
+					<kindDefs>
+						<li>ToDo</li>
+					</kindDefs>
+					<chance>1</chance>
+				</li> -->
+			</alienrefugeekinds>
+
+			<startingColonists>
+				<li>
+					<pawnKindEntries>
+						<!-- <li>
+					<kindDefs>
+						<li>ToDo</li>
+					</kindDefs>
+					<chance>100</chance>
+				</li> -->
+			</pawnKindEntries>
+			<factionDefs>
+				<li>Anneli_Faction_Player</li>
+			</factionDefs>
+		</li>
+	</startingColonists>
+</pawnKindSettings>
+</AlienRace.RaceSettings>
+
+</Defs>
