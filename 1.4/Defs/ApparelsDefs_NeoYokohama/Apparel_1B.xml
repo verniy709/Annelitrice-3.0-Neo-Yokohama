@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef Name="Anneli_NeoYokohama_1B" ParentName="Anneli_1B" Abstract="True">
+		<equippedStatOffsets>
+
+		</equippedStatOffsets>
+		<thingCategories>
+			<li>Category_Annelitrice_NeoYokohama</li>
+		</thingCategories>
+		<recipeMaker>
+			<recipeUsers>
+				<li>Anneli_NeoYokohama_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_Thong-->
+	<ThingDef ParentName="Anneli_NeoYokohama_1B">
+		<defName>Anneli_NeoYokohama_Thong</defName>
+		<description>Dyeable.</description>
+		<label>(NeoYokohama)1B_Thong</label>
+		<graphicData>
+			<texPath>1B/Anneli_NeoYokohama_Thong</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>1B/Anneli_NeoYokohama_Thong</wornGraphicPath>
+			<tags>
+				
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_Underwear-->
+	<ThingDef ParentName="Anneli_NeoYokohama_1B">
+		<defName>Anneli_NeoYokohama_Underwear</defName>
+		<description>Dyeable.</description>
+		<label>(NeoYokohama)1B_Underwear</label>
+		<graphicData>
+			<texPath>1B/Anneli_NeoYokohama_Underwear</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>1B/Anneli_NeoYokohama_Underwear</wornGraphicPath>
+			<tags>
+				
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+	
+</Defs>

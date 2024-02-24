@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef Name="Anneli_NeoYokohama_1A" ParentName="Anneli_1A" Abstract="True">
+		<equippedStatOffsets>
+
+		</equippedStatOffsets>
+		<thingCategories>
+			<li>Category_Annelitrice_NeoYokohama</li>
+		</thingCategories>
+		<recipeMaker>
+			<recipeUsers>
+				<li>Anneli_NeoYokohama_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_Bustier-->
+	<ThingDef ParentName="Anneli_NeoYokohama_1A">
+		<defName>Anneli_NeoYokohama_Bustier</defName>
+		<description>Dyeable.</description>
+		<label>(NeoYokohama)1A_Bustier</label>
+		<graphicData>
+			<texPath>1A/Anneli_NeoYokohama_Bustier</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>1A/Anneli_NeoYokohama_Bustier</wornGraphicPath>
+			<tags>
+				
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_Curtain-->
+	<ThingDef ParentName="Anneli_NeoYokohama_1A">
+		<defName>Anneli_NeoYokohama_Curtain</defName>
+		<description>Dyeable.</description>
+		<label>(NeoYokohama)1A_Curtain</label>
+		<graphicData>
+			<texPath>1A/Anneli_NeoYokohama_Curtain</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>1A/Anneli_NeoYokohama_Curtain</wornGraphicPath>
+			<tags>
+				
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+
+</Defs>

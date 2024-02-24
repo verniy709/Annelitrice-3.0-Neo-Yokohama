@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef Name="Anneli_NeoYokohama_1AB" ParentName="Anneli_1AB" Abstract="True">
+		<equippedStatOffsets>
+
+		</equippedStatOffsets>
+		<thingCategories>
+			<li>Category_Annelitrice_NeoYokohama</li>
+		</thingCategories>
+		<recipeMaker>
+			<recipeUsers>
+				<li>Anneli_NeoYokohama_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_BodysuitA-->
+	<ThingDef ParentName="Anneli_NeoYokohama_1AB">
+		<defName>Anneli_NeoYokohama_BodysuitA</defName>
+		<description>Dyeable.</description>
+		<label>(NeoYokohama)1AB_BodysuitA</label>
+		<graphicData>
+			<texPath>1AB/Anneli_NeoYokohama_BodysuitA</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>1AB/Anneli_NeoYokohama_BodysuitA</wornGraphicPath>
+			<tags>
+
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_BodysuitB-->
+	<ThingDef ParentName="Anneli_NeoYokohama_1AB">
+		<defName>Anneli_NeoYokohama_BodysuitB</defName>
+		<description>Dyeable.</description>
+		<label>(NeoYokohama)1AB_BodysuitB</label>
+		<graphicData>
+			<texPath>1AB/Anneli_NeoYokohama_BodysuitB</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>1AB/Anneli_NeoYokohama_BodysuitB</wornGraphicPath>
+			<tags>
+
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_FishnetBodysuit-->
+	<ThingDef ParentName="Anneli_NeoYokohama_1AB">
+		<defName>Anneli_NeoYokohama_FishnetBodysuit</defName>
+		<description>Dyeable.</description>
+		<label>(NeoYokohama)1AB_FishnetBodysuit</label>
+		<graphicData>
+			<texPath>1AB/Anneli_NeoYokohama_FishnetBodysuit</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>1AB/Anneli_NeoYokohama_FishnetBodysuit</wornGraphicPath>
+			<tags>
+
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_LatexBodysuit-->
+	<ThingDef ParentName="Anneli_NeoYokohama_1AB">
+		<defName>Anneli_NeoYokohama_LatexBodysuit</defName>
+		<description>Dyeable.</description>
+		<label>(NeoYokohama)1AB_LatexBodysuit</label>
+		<graphicData>
+			<texPath>1AB/Anneli_NeoYokohama_LatexBodysuit</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>1AB/Anneli_NeoYokohama_LatexBodysuit</wornGraphicPath>
+			<tags>
+
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+
+</Defs>
