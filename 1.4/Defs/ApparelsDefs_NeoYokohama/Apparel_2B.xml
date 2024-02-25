@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef Name="Anneli_NeoYokohama_2B" ParentName="Anneli_2B" Abstract="True">
+		<equippedStatOffsets>
+
+		</equippedStatOffsets>
+		<thingCategories>
+			<li>Category_Annelitrice_NeoYokohama</li>
+		</thingCategories>
+		<recipeMaker>
+			<recipeUsers>
+				<li>Anneli_NeoYokohama_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_DenimShorts-->
+	<ThingDef ParentName="Anneli_NeoYokohama_2B">
+		<defName>Anneli_NeoYokohama_DenimShorts</defName>
+		<description>Dyeable.</description>
+		<label>(NeoYokohama)2B_DenimShorts</label>
+		<graphicData>
+			<texPath>2B/Anneli_NeoYokohama_DenimShorts</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>2B/Anneli_NeoYokohama_DenimShorts</wornGraphicPath>
+			<tags>
+
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_DressPants-->
+	<ThingDef ParentName="Anneli_NeoYokohama_2B">
+		<defName>Anneli_NeoYokohama_DressPants</defName>
+		<description>Dyeable.</description>
+		<label>(NeoYokohama)2B_DressPants</label>
+		<graphicData>
+			<texPath>2B/Anneli_NeoYokohama_DressPants</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>2B/Anneli_NeoYokohama_DressPants</wornGraphicPath>
+			<tags>
+
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_LeatherPants-->
+	<ThingDef ParentName="Anneli_NeoYokohama_2B">
+		<defName>Anneli_NeoYokohama_LeatherPants</defName>
+		<description>Dyeable.</description>
+		<label>(NeoYokohama)2B_LeatherPants</label>
+		<graphicData>
+			<texPath>2B/Anneli_NeoYokohama_LeatherPants</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>2B/Anneli_NeoYokohama_LeatherPants</wornGraphicPath>
+			<tags>
+
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_Skirt-->
+	<ThingDef ParentName="Anneli_NeoYokohama_2B">
+		<defName>Anneli_NeoYokohama_Skirt</defName>
+		<description>Dyeable.</description>
+		<label>(NeoYokohama)2B_Skirt</label>
+		<graphicData>
+			<texPath>2B/Anneli_NeoYokohama_Skirt</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>2B/Anneli_NeoYokohama_Skirt</wornGraphicPath>
+			<tags>
+
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_TacticalPants-->
+	<ThingDef ParentName="Anneli_NeoYokohama_2B">
+		<defName>Anneli_NeoYokohama_TacticalPants</defName>
+		<description>Dyeable.</description>
+		<label>(NeoYokohama)2B_TacticalPants</label>
+		<graphicData>
+			<texPath>2B/Anneli_NeoYokohama_TacticalPants</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>2B/Anneli_NeoYokohama_TacticalPants</wornGraphicPath>
+			<tags>
+
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+</Defs>
