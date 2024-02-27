@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef Name="Anneli_NeoYokohama_2AB" ParentName="Anneli_2AB" Abstract="True">
+		<equippedStatOffsets>
+			
+		</equippedStatOffsets>
+		<thingCategories>
+			<li>Category_Annelitrice_NeoYokohama</li>
+		</thingCategories>
+		<recipeMaker>
+			<recipeUsers>
+				<li>Anneli_NeoYokohama_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_BunnySuit-->
+	<ThingDef ParentName="Anneli_NeoYokohama_2AB">
+		<defName>Anneli_NeoYokohama_BunnySuit</defName>
+		<description>Dyeable.</description>
+		<label>(NeoYokohama)2AB_BunnySuit</label>
+		<graphicData>
+			<texPath>2AB/Anneli_NeoYokohama_BunnySuit</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>2AB/Anneli_NeoYokohama_BunnySuit</wornGraphicPath>
+			<tags>
+
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_CombatSuitA-->
+	<ThingDef ParentName="Anneli_NeoYokohama_2AB">
+		<defName>Anneli_NeoYokohama_CombatSuitA</defName>
+		<description>Dyeable.</description>
+		<label>(NeoYokohama)2AB_CombatSuitA</label>
+		<graphicData>
+			<texPath>2AB/Anneli_NeoYokohama_CombatSuitA</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>2AB/Anneli_NeoYokohama_CombatSuitA</wornGraphicPath>
+			<tags>
+
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_CombatSuitB-->
+	<ThingDef ParentName="Anneli_NeoYokohama_2AB">
+		<defName>Anneli_NeoYokohama_CombatSuitB</defName>
+		<description>Dyeable.</description>
+		<label>(NeoYokohama)2AB_CombatSuitB</label>
+		<graphicData>
+			<texPath>2AB/Anneli_NeoYokohama_CombatSuitB</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>2AB/Anneli_NeoYokohama_CombatSuitB</wornGraphicPath>
+			<tags>
+
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_Dogi-->
+	<ThingDef ParentName="Anneli_NeoYokohama_2AB">
+		<defName>Anneli_NeoYokohama_Dogi</defName>
+		<description>Dyeable.</description>
+		<label>(NeoYokohama)2AB_Dogi</label>
+		<graphicData>
+			<texPath>2AB/Anneli_NeoYokohama_Dogi</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>2AB/Anneli_NeoYokohama_Dogi</wornGraphicPath>
+			<tags>
+
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_HackerSuitA-->
+	<ThingDef ParentName="Anneli_NeoYokohama_2AB">
+		<defName>Anneli_NeoYokohama_HackerSuitA</defName>
+		<description>Dyeable.</description>
+		<label>(NeoYokohama)2AB_HackerSuitA</label>
+		<graphicData>
+			<texPath>2AB/Anneli_NeoYokohama_HackerSuitA</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>2AB/Anneli_NeoYokohama_HackerSuitA</wornGraphicPath>
+			<tags>
+
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_HackerSuitB-->
+	<ThingDef ParentName="Anneli_NeoYokohama_2AB">
+		<defName>Anneli_NeoYokohama_HackerSuitB</defName>
+		<description>Dyeable.</description>
+		<label>(NeoYokohama)2AB_HackerSuitB</label>
+		<graphicData>
+			<texPath>2AB/Anneli_NeoYokohama_HackerSuitB</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>2AB/Anneli_NeoYokohama_HackerSuitB</wornGraphicPath>
+			<tags>
+
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_MedicalScrub-->
+	<ThingDef ParentName="Anneli_NeoYokohama_2AB">
+		<defName>Anneli_NeoYokohama_MedicalScrub</defName>
+		<description>Dyeable.</description>
+		<label>(NeoYokohama)2AB_MedicalScrub</label>
+		<graphicData>
+			<texPath>2AB/Anneli_NeoYokohama_MedicalScrub</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>2AB/Anneli_NeoYokohama_MedicalScrub</wornGraphicPath>
+			<tags>
+
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_Nagajuban-->
+	<ThingDef ParentName="Anneli_NeoYokohama_2AB">
+		<defName>Anneli_NeoYokohama_Nagajuban</defName>
+		<description>Dyeable.</description>
+		<label>(NeoYokohama)2AB_Nagajuban</label>
+		<graphicData>
+			<texPath>2AB/Anneli_NeoYokohama_Nagajuban</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>2AB/Anneli_NeoYokohama_Nagajuban</wornGraphicPath>
+			<tags>
+
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_ShinobiSuitA-->
+	<ThingDef ParentName="Anneli_NeoYokohama_2AB">
+		<defName>Anneli_NeoYokohama_ShinobiSuitA</defName>
+		<description>Dyeable.</description>
+		<label>(NeoYokohama)2AB_ShinobiSuitA</label>
+		<graphicData>
+			<texPath>2AB/Anneli_NeoYokohama_ShinobiSuitA</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>2AB/Anneli_NeoYokohama_ShinobiSuitA</wornGraphicPath>
+			<tags>
+
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_ShinobiSuitB-->
+	<ThingDef ParentName="Anneli_NeoYokohama_2AB">
+		<defName>Anneli_NeoYokohama_ShinobiSuitB</defName>
+		<description>Dyeable.</description>
+		<label>(NeoYokohama)2AB_ShinobiSuitB</label>
+		<graphicData>
+			<texPath>2AB/Anneli_NeoYokohama_ShinobiSuitB</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>2AB/Anneli_NeoYokohama_ShinobiSuitB</wornGraphicPath>
+			<tags>
+
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+</Defs>
