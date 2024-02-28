@@ -38,17 +38,43 @@
 		</colorGenerator>
 	</ThingDef>
 
-	<!--Anneli_NeoYokohama_FishnetStockings-->
+	<!--Anneli_NeoYokohama_FishnetStockingsA-->
 	<ThingDef ParentName="Anneli_NeoYokohama_1C">
-		<defName>Anneli_NeoYokohama_FishnetStockings</defName>
+		<defName>Anneli_NeoYokohama_FishnetStockingsA</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)1C_FishnetStockings</label>
+		<label>(NeoYokohama)1C_FishnetStockingsA</label>
 		<graphicData>
-			<texPath>1C/Anneli_NeoYokohama_FishnetStockings</texPath>
+			<texPath>1C/Anneli_NeoYokohama_FishnetStockingsA</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>1C/Anneli_NeoYokohama_FishnetStockings</wornGraphicPath>
+			<wornGraphicPath>1C/Anneli_NeoYokohama_FishnetStockingsA</wornGraphicPath>
+			<tags>
+
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_FishnetStockingsB-->
+	<ThingDef ParentName="Anneli_NeoYokohama_1C">
+		<defName>Anneli_NeoYokohama_FishnetStockingsB</defName>
+		<description>Dyeable.</description>
+		<label>(NeoYokohama)1C_FishnetStockingsB</label>
+		<graphicData>
+			<texPath>1C/Anneli_NeoYokohama_FishnetStockingsB</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>1C/Anneli_NeoYokohama_FishnetStockingsB</wornGraphicPath>
 			<tags>
 
 			</tags>
