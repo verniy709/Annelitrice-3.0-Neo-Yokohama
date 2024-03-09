@@ -90,17 +90,43 @@
 		</colorGenerator>
 	</ThingDef>
 
-	<!--Anneli_NeoYokohama_Stockings-->
+	<!--Anneli_NeoYokohama_StockingsA-->
 	<ThingDef ParentName="Anneli_NeoYokohama_1C">
-		<defName>Anneli_NeoYokohama_Stockings</defName>
+		<defName>Anneli_NeoYokohama_StockingsA</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)1C_Stockings</label>
+		<label>(NeoYokohama)1C_StockingsA</label>
 		<graphicData>
-			<texPath>1C/Anneli_NeoYokohama_Stockings</texPath>
+			<texPath>1C/Anneli_NeoYokohama_StockingsA</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>1C/Anneli_NeoYokohama_Stockings</wornGraphicPath>
+			<wornGraphicPath>1C/Anneli_NeoYokohama_StockingsA</wornGraphicPath>
+			<tags>
+
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_StockingsB-->
+	<ThingDef ParentName="Anneli_NeoYokohama_1C">
+		<defName>Anneli_NeoYokohama_StockingsB</defName>
+		<description>Dyeable.</description>
+		<label>(NeoYokohama)1C_StockingsB</label>
+		<graphicData>
+			<texPath>1C/Anneli_NeoYokohama_StockingsB</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>1C/Anneli_NeoYokohama_StockingsB</wornGraphicPath>
 			<tags>
 
 			</tags>
