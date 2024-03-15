@@ -7,7 +7,9 @@
     <match Class="PatchOperationAdd">
       <xpath>/Defs/NareisLib.RenderPlanDef[defName="Anneli_RenderPlanBase"]/plans</xpath>         
       <value>
-        
+        <li>Anneli_NeoYokohama_Blazer</li>
+        <li>Anneli_NeoYokohama_Jacket</li>
+        <li>Anneli_NeoYokohama_ShortCoat</li>
       </value>
     </match>
   </Operation>
