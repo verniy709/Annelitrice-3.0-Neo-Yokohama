@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef Name="Anneli_NeoYokohama_4" ParentName="Anneli_4" Abstract="True">
+		<thingCategories>
+			<li>Category_Annelitrice_NeoYokohama</li>
+		</thingCategories>
+		<recipeMaker>
+			<recipeUsers>
+				<li>Anneli_NeoYokohama_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_BodyArmor-->
+	<ThingDef ParentName="Anneli_NeoYokohama_4">
+		<defName>Anneli_NeoYokohama_BodyArmor</defName>
+		<description>Dyeable.</description>
+		<label>(NeoYokohama)4_BodyArmor</label>
+		<graphicData>
+			<texPath>4/Anneli_NeoYokohama_BodyArmor</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>4/Anneli_NeoYokohama_BodyArmor</wornGraphicPath>
+			<tags>
+
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+</Defs>

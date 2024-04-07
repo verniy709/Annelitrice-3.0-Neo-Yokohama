@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef Name="Anneli_NeoYokohama_5A" ParentName="Anneli_5A" Abstract="True">
+		<thingCategories>
+			<li>Category_Annelitrice_NeoYokohama</li>
+		</thingCategories>
+		<recipeMaker>
+			<recipeUsers>
+				<li>Anneli_NeoYokohama_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_CyborgBustle-->
+	<ThingDef ParentName="Anneli_NeoYokohama_5A">
+		<defName>Anneli_NeoYokohama_CyborgBustle</defName>
+		<description>Dyeable.</description>
+		<label>(NeoYokohama)5A_CyborgBustle</label>
+		<graphicData>
+			<texPath>5A/Anneli_NeoYokohama_CyborgBustle</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>5A/Anneli_NeoYokohama_CyborgBustle</wornGraphicPath>
+			<tags>
+
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_SamuraiCloak-->
+	<ThingDef ParentName="Anneli_NeoYokohama_5A">
+		<defName>Anneli_NeoYokohama_SamuraiCloak</defName>
+		<description>Dyeable.</description>
+		<label>(NeoYokohama)5A_SamuraiCloak</label>
+		<graphicData>
+			<texPath>5A/Anneli_NeoYokohama_SamuraiCloak</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>5A/Anneli_NeoYokohama_SamuraiCloak</wornGraphicPath>
+			<tags>
+
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_Shawl-->
+	<ThingDef ParentName="Anneli_NeoYokohama_5A">
+		<defName>Anneli_NeoYokohama_Shawl</defName>
+		<description>Dyeable.</description>
+		<label>(NeoYokohama)5A_Shawl</label>
+		<graphicData>
+			<texPath>5A/Anneli_NeoYokohama_Shawl</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>5A/Anneli_NeoYokohama_Shawl</wornGraphicPath>
+			<tags>
+
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_ShinobiScarf-->
+	<ThingDef ParentName="Anneli_NeoYokohama_5A">
+		<defName>Anneli_NeoYokohama_ShinobiScarf</defName>
+		<description>Dyeable.</description>
+		<label>(NeoYokohama)5A_ShinobiScarf</label>
+		<graphicData>
+			<texPath>5A/Anneli_NeoYokohama_ShinobiScarf</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>5A/Anneli_NeoYokohama_ShinobiScarf</wornGraphicPath>
+			<tags>
+
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_TacticalVest-->
+	<ThingDef ParentName="Anneli_NeoYokohama_5A">
+		<defName>Anneli_NeoYokohama_TacticalVest</defName>
+		<description>Dyeable.</description>
+		<label>(NeoYokohama)5A_TacticalVest</label>
+		<graphicData>
+			<texPath>5A/Anneli_NeoYokohama_TacticalVest</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>5A/Anneli_NeoYokohama_TacticalVest</wornGraphicPath>
+			<tags>
+
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
+	</ThingDef>
+
+</Defs>
