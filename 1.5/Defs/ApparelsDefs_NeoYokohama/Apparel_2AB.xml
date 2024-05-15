@@ -15,17 +15,43 @@
 		</recipeMaker>
 	</ThingDef>
 
-	<!--Anneli_NeoYokohama_BunnySuit-->
+	<!--Anneli_NeoYokohama_BunnySuitA-->
 	<ThingDef ParentName="Anneli_NeoYokohama_2AB">
-		<defName>Anneli_NeoYokohama_BunnySuit</defName>
+		<defName>Anneli_NeoYokohama_BunnySuitA</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)2AB_BunnySuit</label>
+		<label>(NeoYokohama)2AB_BunnySuitA</label>
 		<graphicData>
-			<texPath>2AB/Anneli_NeoYokohama_BunnySuit</texPath>
+			<texPath>2AB/Anneli_NeoYokohama_BunnySuitA</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>2AB/Anneli_NeoYokohama_BunnySuit</wornGraphicPath>
+			<wornGraphicPath>2AB/Anneli_NeoYokohama_BunnySuitA</wornGraphicPath>
+			<tags>
+
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_BunnySuitB-->
+	<ThingDef ParentName="Anneli_NeoYokohama_2AB">
+		<defName>Anneli_NeoYokohama_BunnySuitB</defName>
+		<description>Dyeable.</description>
+		<label>(NeoYokohama)2AB_BunnySuitB</label>
+		<graphicData>
+			<texPath>2AB/Anneli_NeoYokohama_BunnySuitB</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>2AB/Anneli_NeoYokohama_BunnySuitB</wornGraphicPath>
 			<tags>
 
 			</tags>
@@ -78,6 +104,32 @@
 		</graphicData>
 		<apparel>
 			<wornGraphicPath>2AB/Anneli_NeoYokohama_CombatSuitB</wornGraphicPath>
+			<tags>
+
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_CombatSuitC-->
+	<ThingDef ParentName="Anneli_NeoYokohama_2AB">
+		<defName>Anneli_NeoYokohama_CombatSuitC</defName>
+		<description>Dyeable.</description>
+		<label>(NeoYokohama)2AB_CombatSuitC</label>
+		<graphicData>
+			<texPath>2AB/Anneli_NeoYokohama_CombatSuitC</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>2AB/Anneli_NeoYokohama_CombatSuitC</wornGraphicPath>
 			<tags>
 
 			</tags>

@@ -15,17 +15,17 @@
 		</recipeMaker>
 	</ThingDef>
 
-	<!--Anneli_NeoYokohama_BodysuitA-->
+	<!--Anneli_NeoYokohama_BodyWrap-->
 	<ThingDef ParentName="Anneli_NeoYokohama_1AB">
-		<defName>Anneli_NeoYokohama_BodysuitA</defName>
+		<defName>Anneli_NeoYokohama_BodyWrap</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)1AB_BodysuitA</label>
+		<label>(NeoYokohama)1AB_BodyWrap</label>
 		<graphicData>
-			<texPath>1AB/Anneli_NeoYokohama_BodysuitA</texPath>
+			<texPath>1AB/Anneli_NeoYokohama_BodyWrap</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>1AB/Anneli_NeoYokohama_BodysuitA</wornGraphicPath>
+			<wornGraphicPath>1AB/Anneli_NeoYokohama_BodyWrap</wornGraphicPath>
 			<tags>
 
 			</tags>
@@ -41,17 +41,17 @@
 		</colorGenerator>
 	</ThingDef>
 
-	<!--Anneli_NeoYokohama_BodysuitB-->
+	<!--Anneli_NeoYokohama_Bodysuit-->
 	<ThingDef ParentName="Anneli_NeoYokohama_1AB">
-		<defName>Anneli_NeoYokohama_BodysuitB</defName>
+		<defName>Anneli_NeoYokohama_Bodysuit</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)1AB_BodysuitB</label>
+		<label>(NeoYokohama)1AB_Bodysuit</label>
 		<graphicData>
-			<texPath>1AB/Anneli_NeoYokohama_BodysuitB</texPath>
+			<texPath>1AB/Anneli_NeoYokohama_Bodysuit</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>1AB/Anneli_NeoYokohama_BodysuitB</wornGraphicPath>
+			<wornGraphicPath>1AB/Anneli_NeoYokohama_Bodysuit</wornGraphicPath>
 			<tags>
 
 			</tags>
