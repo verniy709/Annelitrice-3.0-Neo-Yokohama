@@ -2,14 +2,14 @@
 <Defs>
 
 	<ThingCategoryDef>
-		<defName>Category_Annelitrice_NeoYokohama</defName>
+		<defName>Anneli_Category_NeoYokohama</defName>
 		<parent>Apparel</parent>
 		<label>Annelitrice Neo-Yokohama Apparels</label>
 	</ThingCategoryDef>
 
 	<ThingCategoryDef>
-		<defName>Category_Annelitrice_NeoYokohama_Dyed</defName>
-		<parent>Category_Annelitrice_NeoYokohama</parent>
+		<defName>Anneli_Category_NeoYokohama_Dyed</defName>
+		<parent>Anneli_Category_NeoYokohama</parent>
 		<label>Pawn Spawn Neo-Yokohama Apparels</label>
 	</ThingCategoryDef>
 	
