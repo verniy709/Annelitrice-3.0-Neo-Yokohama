@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef Name="Anneli_NeoYokohama_6C" ParentName="Anneli_6C" Abstract="True">
+		<thingCategories>
+			<li>Anneli_Category_NeoYokohama</li>
+		</thingCategories>
+		<recipeMaker>
+			<recipeUsers>
+				<li>Anneli_NeoYokohama_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_Balaclava-->
+	<ThingDef ParentName="Anneli_NeoYokohama_6C">
+		<defName>Anneli_NeoYokohama_Balaclava</defName>
+		<description>Dyeable.</description>
+		<label>(NeoYokohama)6C_Balaclava</label>
+		<graphicData>
+			<texPath>6C/Anneli_NeoYokohama_Balaclava</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>6C/Anneli_NeoYokohama_Balaclava</wornGraphicPath>
+			<tags>
+
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_Mask-->
+	<ThingDef ParentName="Anneli_NeoYokohama_6C">
+		<defName>Anneli_NeoYokohama_Mask</defName>
+		<description>Dyeable.</description>
+		<label>(NeoYokohama)6C_Mask</label>
+		<graphicData>
+			<texPath>6C/Anneli_NeoYokohama_Mask</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>6C/Anneli_NeoYokohama_Mask</wornGraphicPath>
+			<tags>
+
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
+	</ThingDef>
+
+
+</Defs>

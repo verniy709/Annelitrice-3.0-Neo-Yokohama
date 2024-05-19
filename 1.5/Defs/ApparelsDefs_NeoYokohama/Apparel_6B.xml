@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef Name="Anneli_NeoYokohama_6B_NonMetal" ParentName="Anneli_6B_NonMetal" Abstract="True">
+		<equippedStatOffsets>
+
+		</equippedStatOffsets>
+		<thingCategories>
+			<li>Anneli_Category_NeoYokohama</li>
+		</thingCategories>
+		<recipeMaker>
+			<recipeUsers>
+				<li>Anneli_NeoYokohama_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+	</ThingDef>
+
+	<ThingDef Name="Anneli_NeoYokohama_6B_Metal" ParentName="Anneli_6B_Metal" Abstract="True">
+		<equippedStatOffsets>
+
+		</equippedStatOffsets>
+		<thingCategories>
+			<li>Anneli_Category_NeoYokohama</li>
+		</thingCategories>
+		<recipeMaker>
+			<recipeUsers>
+				<li>Anneli_NeoYokohama_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_GogglesA-->
+	<ThingDef ParentName="Anneli_NeoYokohama_6B_NonMetal">
+		<defName>Anneli_NeoYokohama_GogglesA</defName>
+		<description>Dyeable.</description>
+		<label>(NeoYokohama)6B_GogglesA</label>
+		<graphicData>
+			<texPath>6B/Anneli_NeoYokohama_GogglesA</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>6B/Anneli_NeoYokohama_GogglesA</wornGraphicPath>
+			<tags>
+
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+		<generateAllowChance>0.35</generateAllowChance><!--Less Spawn-->
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_GogglesB-->
+	<ThingDef ParentName="Anneli_NeoYokohama_6B_NonMetal">
+		<defName>Anneli_NeoYokohama_GogglesB</defName>
+		<description>Dyeable.</description>
+		<label>(NeoYokohama)6B_GogglesB</label>
+		<graphicData>
+			<texPath>6B/Anneli_NeoYokohama_GogglesB</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>6B/Anneli_NeoYokohama_GogglesB</wornGraphicPath>
+			<tags>
+
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+		<generateAllowChance>0.35</generateAllowChance><!--Less Spawn-->
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_GogglesC-->
+	<ThingDef ParentName="Anneli_NeoYokohama_6B_NonMetal">
+		<defName>Anneli_NeoYokohama_GogglesC</defName>
+		<description>Dyeable.</description>
+		<label>(NeoYokohama)6B_GogglesC</label>
+		<graphicData>
+			<texPath>6B/Anneli_NeoYokohama_GogglesC</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>6B/Anneli_NeoYokohama_GogglesC</wornGraphicPath>
+			<tags>
+
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+		<generateAllowChance>0.35</generateAllowChance><!--Less Spawn-->
+	</ThingDef>
+
+</Defs>

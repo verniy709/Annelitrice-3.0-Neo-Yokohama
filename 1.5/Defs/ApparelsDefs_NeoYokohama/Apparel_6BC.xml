@@ -112,17 +112,44 @@
 		<generateAllowChance>0.3</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
-	<!--Anneli_NeoYokohama_HannyaMask-->
+	<!--Anneli_NeoYokohama_HannyaMaskA-->
 	<ThingDef ParentName="Anneli_NeoYokohama_6BC_NonMetal">
-		<defName>Anneli_NeoYokohama_HannyaMask</defName>
+		<defName>Anneli_NeoYokohama_HannyaMaskA</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)6BC_HannyaMask</label>
+		<label>(NeoYokohama)6BC_HannyaMaskA</label>
 		<graphicData>
-			<texPath>6BC/Anneli_NeoYokohama_HannyaMask</texPath>
+			<texPath>6BC/Anneli_NeoYokohama_HannyaMaskA</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>6BC/Anneli_NeoYokohama_HannyaMask</wornGraphicPath>
+			<wornGraphicPath>6BC/Anneli_NeoYokohama_HannyaMaskA</wornGraphicPath>
+			<tags>
+				
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+		<generateAllowChance>0.3</generateAllowChance><!--Less Spawn-->
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_HannyaMaskB-->
+	<ThingDef ParentName="Anneli_NeoYokohama_6BC_NonMetal">
+		<defName>Anneli_NeoYokohama_HannyaMaskB</defName>
+		<description>Dyeable.</description>
+		<label>(NeoYokohama)6BC_HannyaMaskB</label>
+		<graphicData>
+			<texPath>6BC/Anneli_NeoYokohama_HannyaMaskB</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>6BC/Anneli_NeoYokohama_HannyaMaskB</wornGraphicPath>
 			<tags>
 				
 			</tags>
