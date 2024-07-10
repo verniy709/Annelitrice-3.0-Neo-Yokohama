@@ -4,7 +4,172 @@
 	<!--Adulthood-->
 
 	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
-		<defName>Anneli_NeoYokohama_ToDo</defName>
+		<defName>Anneli_NeoYokohama_1_ToDo</defName>
+		<title>Annelitrice NeoYokohama ToDo</title>
+		<titleShort>NeoYokohama ToDo</titleShort>
+		<baseDesc>ToDo.</baseDesc>
+		<slot>Adulthood</slot>
+		<skillGains>
+
+		</skillGains>
+		<spawnCategories>
+			<li>Anneli_Story_NeoYokohama</li>
+			<li>Anneli_Story</li>
+		</spawnCategories>
+	</AlienRace.AlienBackstoryDef>
+
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
+		<defName>Anneli_NeoYokohama_2_ToDo</defName>
+		<title>Annelitrice NeoYokohama ToDo</title>
+		<titleShort>NeoYokohama ToDo</titleShort>
+		<baseDesc>ToDo.</baseDesc>
+		<slot>Adulthood</slot>
+		<skillGains>
+
+		</skillGains>
+		<spawnCategories>
+			<li>Anneli_Story_NeoYokohama</li>
+			<li>Anneli_Story</li>
+		</spawnCategories>
+	</AlienRace.AlienBackstoryDef>
+
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
+		<defName>Anneli_NeoYokohama_3_ToDo</defName>
+		<title>Annelitrice NeoYokohama ToDo</title>
+		<titleShort>NeoYokohama ToDo</titleShort>
+		<baseDesc>ToDo.</baseDesc>
+		<slot>Adulthood</slot>
+		<skillGains>
+
+		</skillGains>
+		<spawnCategories>
+			<li>Anneli_Story_NeoYokohama</li>
+			<li>Anneli_Story</li>
+		</spawnCategories>
+	</AlienRace.AlienBackstoryDef>
+
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
+		<defName>Anneli_NeoYokohama_4_ToDo</defName>
+		<title>Annelitrice NeoYokohama ToDo</title>
+		<titleShort>NeoYokohama ToDo</titleShort>
+		<baseDesc>ToDo.</baseDesc>
+		<slot>Adulthood</slot>
+		<skillGains>
+
+		</skillGains>
+		<spawnCategories>
+			<li>Anneli_Story_NeoYokohama</li>
+			<li>Anneli_Story</li>
+		</spawnCategories>
+	</AlienRace.AlienBackstoryDef>
+
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
+		<defName>Anneli_NeoYokohama_5_ToDo</defName>
+		<title>Annelitrice NeoYokohama ToDo</title>
+		<titleShort>NeoYokohama ToDo</titleShort>
+		<baseDesc>ToDo.</baseDesc>
+		<slot>Adulthood</slot>
+		<skillGains>
+
+		</skillGains>
+		<spawnCategories>
+			<li>Anneli_Story_NeoYokohama</li>
+			<li>Anneli_Story</li>
+		</spawnCategories>
+	</AlienRace.AlienBackstoryDef>
+
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
+		<defName>Anneli_NeoYokohama_6_ToDo</defName>
+		<title>Annelitrice NeoYokohama ToDo</title>
+		<titleShort>NeoYokohama ToDo</titleShort>
+		<baseDesc>ToDo.</baseDesc>
+		<slot>Adulthood</slot>
+		<skillGains>
+
+		</skillGains>
+		<spawnCategories>
+			<li>Anneli_Story_NeoYokohama</li>
+			<li>Anneli_Story</li>
+		</spawnCategories>
+	</AlienRace.AlienBackstoryDef>
+
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
+		<defName>Anneli_NeoYokohama_7_ToDo</defName>
+		<title>Annelitrice NeoYokohama ToDo</title>
+		<titleShort>NeoYokohama ToDo</titleShort>
+		<baseDesc>ToDo.</baseDesc>
+		<slot>Adulthood</slot>
+		<skillGains>
+
+		</skillGains>
+		<spawnCategories>
+			<li>Anneli_Story_NeoYokohama</li>
+			<li>Anneli_Story</li>
+		</spawnCategories>
+	</AlienRace.AlienBackstoryDef>
+
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
+		<defName>Anneli_NeoYokohama_8_ToDo</defName>
+		<title>Annelitrice NeoYokohama ToDo</title>
+		<titleShort>NeoYokohama ToDo</titleShort>
+		<baseDesc>ToDo.</baseDesc>
+		<slot>Adulthood</slot>
+		<skillGains>
+
+		</skillGains>
+		<spawnCategories>
+			<li>Anneli_Story_NeoYokohama</li>
+			<li>Anneli_Story</li>
+		</spawnCategories>
+	</AlienRace.AlienBackstoryDef>
+
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
+		<defName>Anneli_NeoYokohama_9_ToDo</defName>
+		<title>Annelitrice NeoYokohama ToDo</title>
+		<titleShort>NeoYokohama ToDo</titleShort>
+		<baseDesc>ToDo.</baseDesc>
+		<slot>Adulthood</slot>
+		<skillGains>
+
+		</skillGains>
+		<spawnCategories>
+			<li>Anneli_Story_NeoYokohama</li>
+			<li>Anneli_Story</li>
+		</spawnCategories>
+	</AlienRace.AlienBackstoryDef>
+
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
+		<defName>Anneli_NeoYokohama_10_ToDo</defName>
+		<title>Annelitrice NeoYokohama ToDo</title>
+		<titleShort>NeoYokohama ToDo</titleShort>
+		<baseDesc>ToDo.</baseDesc>
+		<slot>Adulthood</slot>
+		<skillGains>
+
+		</skillGains>
+		<spawnCategories>
+			<li>Anneli_Story_NeoYokohama</li>
+			<li>Anneli_Story</li>
+		</spawnCategories>
+	</AlienRace.AlienBackstoryDef>
+
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
+		<defName>Anneli_NeoYokohama_11_ToDo</defName>
+		<title>Annelitrice NeoYokohama ToDo</title>
+		<titleShort>NeoYokohama ToDo</titleShort>
+		<baseDesc>ToDo.</baseDesc>
+		<slot>Adulthood</slot>
+		<skillGains>
+
+		</skillGains>
+		<spawnCategories>
+			<li>Anneli_Story_NeoYokohama</li>
+			<li>Anneli_Story</li>
+		</spawnCategories>
+	</AlienRace.AlienBackstoryDef>
+
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
+		<defName>Anneli_NeoYokohama_12_ToDo</defName>
 		<title>Annelitrice NeoYokohama ToDo</title>
 		<titleShort>NeoYokohama ToDo</titleShort>
 		<baseDesc>ToDo.</baseDesc>

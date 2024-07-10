@@ -24,7 +24,8 @@
 		<apparel>
 			<wornGraphicPath>6C/Anneli_NeoYokohama_Balaclava</wornGraphicPath>
 			<tags>
-
+				<li>Anneli_NeoYokohama_TacticalOperator</li>
+				<li>Anneli_NeoYokohama_CyborgCombatantA</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -51,7 +52,9 @@
 		<apparel>
 			<wornGraphicPath>6C/Anneli_NeoYokohama_Mask</wornGraphicPath>
 			<tags>
-
+				<li>Anneli_NeoYokohama_HomelessPerson</li>
+				<li>Anneli_NeoYokohama_Thug</li>
+				<li>Anneli_NeoYokohama_Civilian</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>

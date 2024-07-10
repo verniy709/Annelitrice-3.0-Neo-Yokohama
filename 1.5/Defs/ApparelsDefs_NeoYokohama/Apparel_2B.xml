@@ -27,7 +27,7 @@
 		<apparel>
 			<wornGraphicPath>2B/Anneli_NeoYokohama_DenimShorts</wornGraphicPath>
 			<tags>
-
+				<li>Anneli_NeoYokohama_Thug</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -35,7 +35,7 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(50,45,50,255)</only>
+					<only>(105,115,155,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
@@ -53,7 +53,7 @@
 		<apparel>
 			<wornGraphicPath>2B/Anneli_NeoYokohama_DressPants</wornGraphicPath>
 			<tags>
-
+				<li>Anneli_NeoYokohama_Salaryperson</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -61,7 +61,7 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(50,45,50,255)</only>
+					<only>(60,80,130,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
@@ -79,7 +79,7 @@
 		<apparel>
 			<wornGraphicPath>2B/Anneli_NeoYokohama_LeatherPants</wornGraphicPath>
 			<tags>
-
+				<li>Anneli_NeoYokohama_Thug</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -105,7 +105,7 @@
 		<apparel>
 			<wornGraphicPath>2B/Anneli_NeoYokohama_Skirt</wornGraphicPath>
 			<tags>
-
+				<li>Anneli_NeoYokohama_Salaryperson</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -113,7 +113,7 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(50,45,50,255)</only>
+					<only>(60,80,130,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
@@ -131,7 +131,7 @@
 		<apparel>
 			<wornGraphicPath>2B/Anneli_NeoYokohama_TacticalPants</wornGraphicPath>
 			<tags>
-
+				<li>Anneli_NeoYokohama_TacticalOperator</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>

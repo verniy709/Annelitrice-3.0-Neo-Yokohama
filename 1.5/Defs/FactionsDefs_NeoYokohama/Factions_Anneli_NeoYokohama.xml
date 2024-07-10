@@ -31,7 +31,7 @@
 		<canMakeRandomly>true</canMakeRandomly>
 		<canSiege>True</canSiege>
 		<canStageAttacks>true</canStageAttacks>
-		<leaderTitle>Chief Executive Officer</leaderTitle>
+		<leaderTitle>Gestalt</leaderTitle>
 		<factionNameMaker>NamerFactionOutlander</factionNameMaker>
 		<settlementNameMaker>NamerSettlementOutlander</settlementNameMaker>
 		<backstoryFilters>
@@ -68,24 +68,77 @@
 			<max>75</max>
 		</allowedArrivalTemperatureRange>
 		<pawnGroupMakers>
-			<!-- Warband -->
+			<!-- Tech Scavenger -->
 			<li>
 				<kindDef>Combat</kindDef>
 				<commonality>100</commonality>
 				<options>
-
+					<Anneli_NeoYokohama_Leader>1</Anneli_NeoYokohama_Leader>
+					<Anneli_NeoYokohama_SalarypersonA>2</Anneli_NeoYokohama_SalarypersonA>
+					<Anneli_NeoYokohama_SalarypersonB>2</Anneli_NeoYokohama_SalarypersonB>
+					<Anneli_NeoYokohama_Cop>3</Anneli_NeoYokohama_Cop>
+					<Anneli_NeoYokohama_TacticalOperator>4</Anneli_NeoYokohama_TacticalOperator>
+					<Anneli_NeoYokohama_HomelessPerson>2</Anneli_NeoYokohama_HomelessPerson>
+					<Anneli_NeoYokohama_Civilian>3</Anneli_NeoYokohama_Civilian>
+					<Anneli_NeoYokohama_ThugA>2</Anneli_NeoYokohama_ThugA>
+					<Anneli_NeoYokohama_ThugB>2</Anneli_NeoYokohama_ThugB>
+					<Anneli_NeoYokohama_BunnyGirlA>2</Anneli_NeoYokohama_BunnyGirlA>
+					<Anneli_NeoYokohama_BunnyGirlB>2</Anneli_NeoYokohama_BunnyGirlB>
+					<Anneli_NeoYokohama_HackerA>2</Anneli_NeoYokohama_HackerA>
+					<Anneli_NeoYokohama_HackerB>2</Anneli_NeoYokohama_HackerB>
+					<Anneli_NeoYokohama_Doctor>3</Anneli_NeoYokohama_Doctor>
+					<Anneli_NeoYokohama_CyborgCombatantA>3</Anneli_NeoYokohama_CyborgCombatantA>
+					<Anneli_NeoYokohama_CyborgCombatantB>3</Anneli_NeoYokohama_CyborgCombatantB>
+					<Anneli_NeoYokohama_CyborgCombatantC>3</Anneli_NeoYokohama_CyborgCombatantC>
+					<Anneli_NeoYokohama_ShominA>2</Anneli_NeoYokohama_ShominA>
+					<Anneli_NeoYokohama_ShominB>2</Anneli_NeoYokohama_ShominB>
+					<Anneli_NeoYokohama_ShominC>1</Anneli_NeoYokohama_ShominC>
+					<Anneli_NeoYokohama_Ronin>2</Anneli_NeoYokohama_Ronin>
+					<Anneli_NeoYokohama_Shinobi>3</Anneli_NeoYokohama_Shinobi>
+					<Anneli_NeoYokohama_GeishaA>2</Anneli_NeoYokohama_GeishaA>
+					<Anneli_NeoYokohama_GeishaB>2</Anneli_NeoYokohama_GeishaB>
+					<Anneli_NeoYokohama_SamuraiA>3</Anneli_NeoYokohama_SamuraiA>
+					<Anneli_NeoYokohama_SamuraiB>1</Anneli_NeoYokohama_SamuraiB>
 				</options>
 			</li>
 			<li>
 				<kindDef>Peaceful</kindDef>
 				<options>
-
+					<Anneli_NeoYokohama_SalarypersonA>1</Anneli_NeoYokohama_SalarypersonA>
+					<Anneli_NeoYokohama_SalarypersonB>1</Anneli_NeoYokohama_SalarypersonB>
+					<Anneli_NeoYokohama_Cop>1</Anneli_NeoYokohama_Cop>
+					<Anneli_NeoYokohama_TacticalOperator>1</Anneli_NeoYokohama_TacticalOperator>
+					<Anneli_NeoYokohama_HomelessPerson>1</Anneli_NeoYokohama_HomelessPerson>
+					<Anneli_NeoYokohama_Civilian>1</Anneli_NeoYokohama_Civilian>
+					<Anneli_NeoYokohama_ThugA>1</Anneli_NeoYokohama_ThugA>
+					<Anneli_NeoYokohama_ThugB>1</Anneli_NeoYokohama_ThugB>
+					<Anneli_NeoYokohama_BunnyGirlA>1</Anneli_NeoYokohama_BunnyGirlA>
+					<Anneli_NeoYokohama_BunnyGirlB>1</Anneli_NeoYokohama_BunnyGirlB>
+					<Anneli_NeoYokohama_HackerA>1</Anneli_NeoYokohama_HackerA>
+					<Anneli_NeoYokohama_HackerB>1</Anneli_NeoYokohama_HackerB>
+					<Anneli_NeoYokohama_Doctor>1</Anneli_NeoYokohama_Doctor>
+					<Anneli_NeoYokohama_CyborgCombatantA>1</Anneli_NeoYokohama_CyborgCombatantA>
+					<Anneli_NeoYokohama_CyborgCombatantB>1</Anneli_NeoYokohama_CyborgCombatantB>
+					<Anneli_NeoYokohama_CyborgCombatantC>1</Anneli_NeoYokohama_CyborgCombatantC>
+					<Anneli_NeoYokohama_ShominA>1</Anneli_NeoYokohama_ShominA>
+					<Anneli_NeoYokohama_ShominB>1</Anneli_NeoYokohama_ShominB>
+					<Anneli_NeoYokohama_ShominC>1</Anneli_NeoYokohama_ShominC>
+					<Anneli_NeoYokohama_Ronin>1</Anneli_NeoYokohama_Ronin>
+					<Anneli_NeoYokohama_Shinobi>1</Anneli_NeoYokohama_Shinobi>
+					<Anneli_NeoYokohama_GeishaA>1</Anneli_NeoYokohama_GeishaA>
+					<Anneli_NeoYokohama_GeishaB>1</Anneli_NeoYokohama_GeishaB>
+					<Anneli_NeoYokohama_SamuraiA>1</Anneli_NeoYokohama_SamuraiA>
+					<Anneli_NeoYokohama_SamuraiB>1</Anneli_NeoYokohama_SamuraiB>
 				</options>
 			</li>
 			<li>
 				<kindDef>Trader</kindDef>
 				<traders>
-
+					<Anneli_NeoYokohama_SalarypersonA>1</Anneli_NeoYokohama_SalarypersonA>
+					<Anneli_NeoYokohama_SalarypersonB>1</Anneli_NeoYokohama_SalarypersonB>
+					<Anneli_NeoYokohama_GeishaA>1</Anneli_NeoYokohama_GeishaA>
+					<Anneli_NeoYokohama_GeishaB>1</Anneli_NeoYokohama_GeishaB>
+					<!-- ToDo -->
 				</traders>
 				<carriers>
 					<Muffalo>3</Muffalo>
@@ -94,41 +147,182 @@
 					<Elephant>2</Elephant>
 				</carriers>
 				<guards>
-
+					<Anneli_NeoYokohama_Cop>1</Anneli_NeoYokohama_Cop>
+					<Anneli_NeoYokohama_TacticalOperator>1</Anneli_NeoYokohama_TacticalOperator>
+					<Anneli_NeoYokohama_HomelessPerson>1</Anneli_NeoYokohama_HomelessPerson>
+					<Anneli_NeoYokohama_Civilian>1</Anneli_NeoYokohama_Civilian>
+					<Anneli_NeoYokohama_ThugA>1</Anneli_NeoYokohama_ThugA>
+					<Anneli_NeoYokohama_ThugB>1</Anneli_NeoYokohama_ThugB>
+					<Anneli_NeoYokohama_BunnyGirlA>1</Anneli_NeoYokohama_BunnyGirlA>
+					<Anneli_NeoYokohama_BunnyGirlB>1</Anneli_NeoYokohama_BunnyGirlB>
+					<Anneli_NeoYokohama_HackerA>1</Anneli_NeoYokohama_HackerA>
+					<Anneli_NeoYokohama_HackerB>1</Anneli_NeoYokohama_HackerB>
+					<Anneli_NeoYokohama_Doctor>1</Anneli_NeoYokohama_Doctor>
+					<Anneli_NeoYokohama_CyborgCombatantA>1</Anneli_NeoYokohama_CyborgCombatantA>
+					<Anneli_NeoYokohama_CyborgCombatantB>1</Anneli_NeoYokohama_CyborgCombatantB>
+					<Anneli_NeoYokohama_CyborgCombatantC>1</Anneli_NeoYokohama_CyborgCombatantC>
+					<Anneli_NeoYokohama_ShominA>1</Anneli_NeoYokohama_ShominA>
+					<Anneli_NeoYokohama_ShominB>1</Anneli_NeoYokohama_ShominB>
+					<Anneli_NeoYokohama_ShominC>1</Anneli_NeoYokohama_ShominC>
+					<Anneli_NeoYokohama_Ronin>1</Anneli_NeoYokohama_Ronin>
+					<Anneli_NeoYokohama_Shinobi>1</Anneli_NeoYokohama_Shinobi>
+					<Anneli_NeoYokohama_SamuraiA>1</Anneli_NeoYokohama_SamuraiA>
+					<Anneli_NeoYokohama_SamuraiB>1</Anneli_NeoYokohama_SamuraiB>
 				</guards>
 			</li>
 			<li>
 				<kindDef>Settlement</kindDef>
 				<options>
-
+					<Anneli_NeoYokohama_Leader>1</Anneli_NeoYokohama_Leader>
+					<Anneli_NeoYokohama_SalarypersonA>2</Anneli_NeoYokohama_SalarypersonA>
+					<Anneli_NeoYokohama_SalarypersonB>2</Anneli_NeoYokohama_SalarypersonB>
+					<Anneli_NeoYokohama_Cop>3</Anneli_NeoYokohama_Cop>
+					<Anneli_NeoYokohama_TacticalOperator>4</Anneli_NeoYokohama_TacticalOperator>
+					<Anneli_NeoYokohama_HomelessPerson>2</Anneli_NeoYokohama_HomelessPerson>
+					<Anneli_NeoYokohama_Civilian>3</Anneli_NeoYokohama_Civilian>
+					<Anneli_NeoYokohama_ThugA>2</Anneli_NeoYokohama_ThugA>
+					<Anneli_NeoYokohama_ThugB>2</Anneli_NeoYokohama_ThugB>
+					<Anneli_NeoYokohama_BunnyGirlA>2</Anneli_NeoYokohama_BunnyGirlA>
+					<Anneli_NeoYokohama_BunnyGirlB>2</Anneli_NeoYokohama_BunnyGirlB>
+					<Anneli_NeoYokohama_HackerA>2</Anneli_NeoYokohama_HackerA>
+					<Anneli_NeoYokohama_HackerB>2</Anneli_NeoYokohama_HackerB>
+					<Anneli_NeoYokohama_Doctor>3</Anneli_NeoYokohama_Doctor>
+					<Anneli_NeoYokohama_CyborgCombatantA>3</Anneli_NeoYokohama_CyborgCombatantA>
+					<Anneli_NeoYokohama_CyborgCombatantB>3</Anneli_NeoYokohama_CyborgCombatantB>
+					<Anneli_NeoYokohama_CyborgCombatantC>3</Anneli_NeoYokohama_CyborgCombatantC>
+					<Anneli_NeoYokohama_ShominA>2</Anneli_NeoYokohama_ShominA>
+					<Anneli_NeoYokohama_ShominB>2</Anneli_NeoYokohama_ShominB>
+					<Anneli_NeoYokohama_ShominC>1</Anneli_NeoYokohama_ShominC>
+					<Anneli_NeoYokohama_Ronin>2</Anneli_NeoYokohama_Ronin>
+					<Anneli_NeoYokohama_Shinobi>3</Anneli_NeoYokohama_Shinobi>
+					<Anneli_NeoYokohama_GeishaA>2</Anneli_NeoYokohama_GeishaA>
+					<Anneli_NeoYokohama_GeishaB>2</Anneli_NeoYokohama_GeishaB>
+					<Anneli_NeoYokohama_SamuraiA>3</Anneli_NeoYokohama_SamuraiA>
+					<Anneli_NeoYokohama_SamuraiB>1</Anneli_NeoYokohama_SamuraiB>
 				</options>
 			</li>
 			<li MayRequire="Ludeon.RimWorld.Ideology">
 				<kindDef>Miners</kindDef>
 				<commonality>1</commonality>
 				<options>
-
+					<Anneli_NeoYokohama_SalarypersonA>1</Anneli_NeoYokohama_SalarypersonA>
+					<Anneli_NeoYokohama_SalarypersonB>1</Anneli_NeoYokohama_SalarypersonB>
+					<Anneli_NeoYokohama_Cop>1</Anneli_NeoYokohama_Cop>
+					<Anneli_NeoYokohama_TacticalOperator>1</Anneli_NeoYokohama_TacticalOperator>
+					<Anneli_NeoYokohama_HomelessPerson>1</Anneli_NeoYokohama_HomelessPerson>
+					<Anneli_NeoYokohama_Civilian>1</Anneli_NeoYokohama_Civilian>
+					<Anneli_NeoYokohama_ThugA>1</Anneli_NeoYokohama_ThugA>
+					<Anneli_NeoYokohama_ThugB>1</Anneli_NeoYokohama_ThugB>
+					<Anneli_NeoYokohama_BunnyGirlA>1</Anneli_NeoYokohama_BunnyGirlA>
+					<Anneli_NeoYokohama_BunnyGirlB>1</Anneli_NeoYokohama_BunnyGirlB>
+					<Anneli_NeoYokohama_HackerA>1</Anneli_NeoYokohama_HackerA>
+					<Anneli_NeoYokohama_HackerB>1</Anneli_NeoYokohama_HackerB>
+					<Anneli_NeoYokohama_Doctor>1</Anneli_NeoYokohama_Doctor>
+					<Anneli_NeoYokohama_CyborgCombatantA>1</Anneli_NeoYokohama_CyborgCombatantA>
+					<Anneli_NeoYokohama_CyborgCombatantB>1</Anneli_NeoYokohama_CyborgCombatantB>
+					<Anneli_NeoYokohama_CyborgCombatantC>1</Anneli_NeoYokohama_CyborgCombatantC>
+					<Anneli_NeoYokohama_ShominA>1</Anneli_NeoYokohama_ShominA>
+					<Anneli_NeoYokohama_ShominB>1</Anneli_NeoYokohama_ShominB>
+					<Anneli_NeoYokohama_ShominC>1</Anneli_NeoYokohama_ShominC>
+					<Anneli_NeoYokohama_Ronin>1</Anneli_NeoYokohama_Ronin>
+					<Anneli_NeoYokohama_Shinobi>1</Anneli_NeoYokohama_Shinobi>
+					<Anneli_NeoYokohama_GeishaA>1</Anneli_NeoYokohama_GeishaA>
+					<Anneli_NeoYokohama_GeishaB>1</Anneli_NeoYokohama_GeishaB>
+					<Anneli_NeoYokohama_SamuraiA>1</Anneli_NeoYokohama_SamuraiA>
+					<Anneli_NeoYokohama_SamuraiB>1</Anneli_NeoYokohama_SamuraiB>
 				</options>
 			</li>
 			<li MayRequire="Ludeon.RimWorld.Ideology">
 				<kindDef>Hunters</kindDef>
 				<commonality>1</commonality>
 				<options>
-
+					<Anneli_NeoYokohama_SalarypersonA>1</Anneli_NeoYokohama_SalarypersonA>
+					<Anneli_NeoYokohama_SalarypersonB>1</Anneli_NeoYokohama_SalarypersonB>
+					<Anneli_NeoYokohama_Cop>1</Anneli_NeoYokohama_Cop>
+					<Anneli_NeoYokohama_TacticalOperator>1</Anneli_NeoYokohama_TacticalOperator>
+					<Anneli_NeoYokohama_HomelessPerson>1</Anneli_NeoYokohama_HomelessPerson>
+					<Anneli_NeoYokohama_Civilian>1</Anneli_NeoYokohama_Civilian>
+					<Anneli_NeoYokohama_ThugA>1</Anneli_NeoYokohama_ThugA>
+					<Anneli_NeoYokohama_ThugB>1</Anneli_NeoYokohama_ThugB>
+					<Anneli_NeoYokohama_BunnyGirlA>1</Anneli_NeoYokohama_BunnyGirlA>
+					<Anneli_NeoYokohama_BunnyGirlB>1</Anneli_NeoYokohama_BunnyGirlB>
+					<Anneli_NeoYokohama_HackerA>1</Anneli_NeoYokohama_HackerA>
+					<Anneli_NeoYokohama_HackerB>1</Anneli_NeoYokohama_HackerB>
+					<Anneli_NeoYokohama_Doctor>1</Anneli_NeoYokohama_Doctor>
+					<Anneli_NeoYokohama_CyborgCombatantA>1</Anneli_NeoYokohama_CyborgCombatantA>
+					<Anneli_NeoYokohama_CyborgCombatantB>1</Anneli_NeoYokohama_CyborgCombatantB>
+					<Anneli_NeoYokohama_CyborgCombatantC>1</Anneli_NeoYokohama_CyborgCombatantC>
+					<Anneli_NeoYokohama_ShominA>1</Anneli_NeoYokohama_ShominA>
+					<Anneli_NeoYokohama_ShominB>1</Anneli_NeoYokohama_ShominB>
+					<Anneli_NeoYokohama_ShominC>1</Anneli_NeoYokohama_ShominC>
+					<Anneli_NeoYokohama_Ronin>1</Anneli_NeoYokohama_Ronin>
+					<Anneli_NeoYokohama_Shinobi>1</Anneli_NeoYokohama_Shinobi>
+					<Anneli_NeoYokohama_GeishaA>1</Anneli_NeoYokohama_GeishaA>
+					<Anneli_NeoYokohama_GeishaB>1</Anneli_NeoYokohama_GeishaB>
+					<Anneli_NeoYokohama_SamuraiA>1</Anneli_NeoYokohama_SamuraiA>
+					<Anneli_NeoYokohama_SamuraiB>1</Anneli_NeoYokohama_SamuraiB>
 				</options>
 			</li>
 			<li MayRequire="Ludeon.RimWorld.Ideology">
 				<kindDef>Loggers</kindDef>
 				<commonality>1</commonality>
 				<options>
-
+					<Anneli_NeoYokohama_SalarypersonA>1</Anneli_NeoYokohama_SalarypersonA>
+					<Anneli_NeoYokohama_SalarypersonB>1</Anneli_NeoYokohama_SalarypersonB>
+					<Anneli_NeoYokohama_Cop>1</Anneli_NeoYokohama_Cop>
+					<Anneli_NeoYokohama_TacticalOperator>1</Anneli_NeoYokohama_TacticalOperator>
+					<Anneli_NeoYokohama_HomelessPerson>1</Anneli_NeoYokohama_HomelessPerson>
+					<Anneli_NeoYokohama_Civilian>1</Anneli_NeoYokohama_Civilian>
+					<Anneli_NeoYokohama_ThugA>1</Anneli_NeoYokohama_ThugA>
+					<Anneli_NeoYokohama_ThugB>1</Anneli_NeoYokohama_ThugB>
+					<Anneli_NeoYokohama_BunnyGirlA>1</Anneli_NeoYokohama_BunnyGirlA>
+					<Anneli_NeoYokohama_BunnyGirlB>1</Anneli_NeoYokohama_BunnyGirlB>
+					<Anneli_NeoYokohama_HackerA>1</Anneli_NeoYokohama_HackerA>
+					<Anneli_NeoYokohama_HackerB>1</Anneli_NeoYokohama_HackerB>
+					<Anneli_NeoYokohama_Doctor>1</Anneli_NeoYokohama_Doctor>
+					<Anneli_NeoYokohama_CyborgCombatantA>1</Anneli_NeoYokohama_CyborgCombatantA>
+					<Anneli_NeoYokohama_CyborgCombatantB>1</Anneli_NeoYokohama_CyborgCombatantB>
+					<Anneli_NeoYokohama_CyborgCombatantC>1</Anneli_NeoYokohama_CyborgCombatantC>
+					<Anneli_NeoYokohama_ShominA>1</Anneli_NeoYokohama_ShominA>
+					<Anneli_NeoYokohama_ShominB>1</Anneli_NeoYokohama_ShominB>
+					<Anneli_NeoYokohama_ShominC>1</Anneli_NeoYokohama_ShominC>
+					<Anneli_NeoYokohama_Ronin>1</Anneli_NeoYokohama_Ronin>
+					<Anneli_NeoYokohama_Shinobi>1</Anneli_NeoYokohama_Shinobi>
+					<Anneli_NeoYokohama_GeishaA>1</Anneli_NeoYokohama_GeishaA>
+					<Anneli_NeoYokohama_GeishaB>1</Anneli_NeoYokohama_GeishaB>
+					<Anneli_NeoYokohama_SamuraiA>1</Anneli_NeoYokohama_SamuraiA>
+					<Anneli_NeoYokohama_SamuraiB>1</Anneli_NeoYokohama_SamuraiB>
 				</options>
 			</li>
 			<li MayRequire="Ludeon.RimWorld.Ideology">
 				<kindDef>Farmers</kindDef>
 				<commonality>1</commonality>
 				<options>
-
+					<Anneli_NeoYokohama_SalarypersonA>1</Anneli_NeoYokohama_SalarypersonA>
+					<Anneli_NeoYokohama_SalarypersonB>1</Anneli_NeoYokohama_SalarypersonB>
+					<Anneli_NeoYokohama_Cop>1</Anneli_NeoYokohama_Cop>
+					<Anneli_NeoYokohama_TacticalOperator>1</Anneli_NeoYokohama_TacticalOperator>
+					<Anneli_NeoYokohama_HomelessPerson>1</Anneli_NeoYokohama_HomelessPerson>
+					<Anneli_NeoYokohama_Civilian>1</Anneli_NeoYokohama_Civilian>
+					<Anneli_NeoYokohama_ThugA>1</Anneli_NeoYokohama_ThugA>
+					<Anneli_NeoYokohama_ThugB>1</Anneli_NeoYokohama_ThugB>
+					<Anneli_NeoYokohama_BunnyGirlA>1</Anneli_NeoYokohama_BunnyGirlA>
+					<Anneli_NeoYokohama_BunnyGirlB>1</Anneli_NeoYokohama_BunnyGirlB>
+					<Anneli_NeoYokohama_HackerA>1</Anneli_NeoYokohama_HackerA>
+					<Anneli_NeoYokohama_HackerB>1</Anneli_NeoYokohama_HackerB>
+					<Anneli_NeoYokohama_Doctor>1</Anneli_NeoYokohama_Doctor>
+					<Anneli_NeoYokohama_CyborgCombatantA>1</Anneli_NeoYokohama_CyborgCombatantA>
+					<Anneli_NeoYokohama_CyborgCombatantB>1</Anneli_NeoYokohama_CyborgCombatantB>
+					<Anneli_NeoYokohama_CyborgCombatantC>1</Anneli_NeoYokohama_CyborgCombatantC>
+					<Anneli_NeoYokohama_ShominA>1</Anneli_NeoYokohama_ShominA>
+					<Anneli_NeoYokohama_ShominB>1</Anneli_NeoYokohama_ShominB>
+					<Anneli_NeoYokohama_ShominC>1</Anneli_NeoYokohama_ShominC>
+					<Anneli_NeoYokohama_Ronin>1</Anneli_NeoYokohama_Ronin>
+					<Anneli_NeoYokohama_Shinobi>1</Anneli_NeoYokohama_Shinobi>
+					<Anneli_NeoYokohama_GeishaA>1</Anneli_NeoYokohama_GeishaA>
+					<Anneli_NeoYokohama_GeishaB>1</Anneli_NeoYokohama_GeishaB>
+					<Anneli_NeoYokohama_SamuraiA>1</Anneli_NeoYokohama_SamuraiA>
+					<Anneli_NeoYokohama_SamuraiB>1</Anneli_NeoYokohama_SamuraiB>
 				</options>
 			</li>
 		</pawnGroupMakers>

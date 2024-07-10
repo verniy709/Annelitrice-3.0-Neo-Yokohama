@@ -27,7 +27,7 @@
 		<apparel>
 			<wornGraphicPath>2AB/Anneli_NeoYokohama_BunnySuitA</wornGraphicPath>
 			<tags>
-
+				<li>Anneli_NeoYokohama_BunnyGirl</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -35,7 +35,7 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(50,45,50,255)</only>
+					<only>(200,60,60,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
@@ -53,7 +53,7 @@
 		<apparel>
 			<wornGraphicPath>2AB/Anneli_NeoYokohama_BunnySuitB</wornGraphicPath>
 			<tags>
-
+				<li>Anneli_NeoYokohama_BunnyGirl</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -79,7 +79,7 @@
 		<apparel>
 			<wornGraphicPath>2AB/Anneli_NeoYokohama_CombatSuitA</wornGraphicPath>
 			<tags>
-
+				<li>Anneli_NeoYokohama_CyborgCombatant</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -105,7 +105,7 @@
 		<apparel>
 			<wornGraphicPath>2AB/Anneli_NeoYokohama_CombatSuitB</wornGraphicPath>
 			<tags>
-
+				<li>Anneli_NeoYokohama_CyborgCombatant</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -131,7 +131,7 @@
 		<apparel>
 			<wornGraphicPath>2AB/Anneli_NeoYokohama_CombatSuitC</wornGraphicPath>
 			<tags>
-
+				<li>Anneli_NeoYokohama_CyborgCombatant</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -157,7 +157,7 @@
 		<apparel>
 			<wornGraphicPath>2AB/Anneli_NeoYokohama_Dress</wornGraphicPath>
 			<tags>
-
+				<li>Anneli_NeoYokohama_Civilian</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -183,33 +183,7 @@
 		<apparel>
 			<wornGraphicPath>2AB/Anneli_NeoYokohama_HackerSuitA</wornGraphicPath>
 			<tags>
-
-			</tags>
-			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
-		</apparel>
-		<colorGenerator Class="ColorGenerator_Options">
-			<options>
-				<li>
-					<weight>10</weight>
-					<only>(50,45,50,255)</only>
-				</li>
-			</options>
-		</colorGenerator>
-	</ThingDef>
-
-	<!--Anneli_NeoYokohama_Hanjuban-->
-	<ThingDef ParentName="Anneli_NeoYokohama_2AB">
-		<defName>Anneli_NeoYokohama_Hanjuban</defName>
-		<description>Dyeable.</description>
-		<label>(NeoYokohama)2AB_Hanjuban</label>
-		<graphicData>
-			<texPath>2AB/Anneli_NeoYokohama_Hanjuban</texPath>
-			<graphicClass>Graphic_Single</graphicClass>
-		</graphicData>
-		<apparel>
-			<wornGraphicPath>2AB/Anneli_NeoYokohama_Hanjuban</wornGraphicPath>
-			<tags>
-
+				<li>Anneli_NeoYokohama_Hacker</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -235,7 +209,33 @@
 		<apparel>
 			<wornGraphicPath>2AB/Anneli_NeoYokohama_HackerSuitB</wornGraphicPath>
 			<tags>
+				<li>Anneli_NeoYokohama_Hacker</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(255,245,245,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
 
+	<!--Anneli_NeoYokohama_Hanjuban-->
+	<ThingDef ParentName="Anneli_NeoYokohama_2AB">
+		<defName>Anneli_NeoYokohama_Hanjuban</defName>
+		<description>Dyeable.</description>
+		<label>(NeoYokohama)2AB_Hanjuban</label>
+		<graphicData>
+			<texPath>2AB/Anneli_NeoYokohama_Hanjuban</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>2AB/Anneli_NeoYokohama_Hanjuban</wornGraphicPath>
+			<tags>
+				<li>Anneli_NeoYokohama_Shomin</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -244,6 +244,14 @@
 				<li>
 					<weight>10</weight>
 					<only>(50,45,50,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(200,60,60,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(160,150,200,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
@@ -261,7 +269,7 @@
 		<apparel>
 			<wornGraphicPath>2AB/Anneli_NeoYokohama_JudogiA</wornGraphicPath>
 			<tags>
-
+				<li>Anneli_NeoYokohama_Samurai</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -287,7 +295,7 @@
 		<apparel>
 			<wornGraphicPath>2AB/Anneli_NeoYokohama_JudogiB</wornGraphicPath>
 			<tags>
-
+				<li>Anneli_NeoYokohama_Shinobi</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -296,6 +304,44 @@
 				<li>
 					<weight>10</weight>
 					<only>(50,45,50,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(200,60,60,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_JudogiC-->
+	<ThingDef ParentName="Anneli_NeoYokohama_2AB">
+		<defName>Anneli_NeoYokohama_JudogiC</defName>
+		<description>Dyeable.</description>
+		<label>(NeoYokohama)2AB_JudogiC</label>
+		<graphicData>
+			<texPath>2AB/Anneli_NeoYokohama_JudogiC</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>2AB/Anneli_NeoYokohama_JudogiC</wornGraphicPath>
+			<tags>
+				<li>Anneli_NeoYokohama_Shomin</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(130,100,80,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(175,200,240,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(180,205,190,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
@@ -313,7 +359,7 @@
 		<apparel>
 			<wornGraphicPath>2AB/Anneli_NeoYokohama_MedicalScrub</wornGraphicPath>
 			<tags>
-
+				<li>Anneli_NeoYokohama_Doctor</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -321,7 +367,7 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(50,45,50,255)</only>
+					<only>(255,245,245,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
@@ -339,7 +385,8 @@
 		<apparel>
 			<wornGraphicPath>2AB/Anneli_NeoYokohama_Nagajuban</wornGraphicPath>
 			<tags>
-
+				<li>Anneli_NeoYokohama_Shomin</li>
+				<li>Anneli_NeoYokohama_Geisha</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -347,7 +394,15 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(50,45,50,255)</only>
+					<only>(255,245,245,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(175,200,240,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(180,205,190,255)</only>
 				</li>
 			</options>
 		</colorGenerator>

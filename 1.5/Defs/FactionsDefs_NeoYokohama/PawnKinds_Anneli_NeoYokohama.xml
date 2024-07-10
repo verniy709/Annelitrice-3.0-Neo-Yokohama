@@ -51,10 +51,344 @@
 		<trader>true</trader>
 		<factionLeader>true</factionLeader>
 		<apparelRequired>
-
+			<li>Anneli_NeoYokohama_Top</li>
+			<li>Anneli_NeoYokohama_DressPants</li>
+			<li>Anneli_NeoYokohama_LeatherShoes</li>
 		</apparelRequired>
 		<apparelTags>
+			<li>Anneli_NeoYokohama_Salaryperson</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>IndustrialGunAdvanced</li>
+			<li>GunHeavy</li>
+			<li>SpacerGun</li>
+		</weaponTags>
+	</PawnKindDef>
 
+	<PawnKindDef ParentName="Anneli_NeoYokohama_KindBase">
+		<defName>Anneli_NeoYokohama_SalarypersonA</defName>
+		<label>NeoYokohama_Salaryperson</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_NeoYokohama_Top</li>
+			<li>Anneli_NeoYokohama_DressPants</li>
+			<li>Anneli_NeoYokohama_LeatherShoes</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_NeoYokohama_Salaryperson</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>SimpleGun</li>
+			<li>Revolver</li>
+			<li>IndustrialGunAdvanced</li>
+		</weaponTags>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_NeoYokohama_KindBase">
+		<defName>Anneli_NeoYokohama_SalarypersonB</defName>
+		<label>NeoYokohama_Salaryperson</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_NeoYokohama_Top</li>
+			<li>Anneli_NeoYokohama_Skirt</li>
+			<li>Anneli_NeoYokohama_LeatherShoes</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_NeoYokohama_Salaryperson</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>SimpleGun</li>
+			<li>Revolver</li>
+			<li>IndustrialGunAdvanced</li>
+		</weaponTags>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_NeoYokohama_KindBase">
+		<defName>Anneli_NeoYokohama_Cop</defName>
+		<label>NeoYokohama_Cop</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_NeoYokohama_Catsuit</li>
+			<li>Anneli_NeoYokohama_DutyShirt</li>
+			<li>Anneli_NeoYokohama_Skirt</li>
+			<li>Anneli_NeoYokohama_Boots</li>
+			<li>Anneli_NeoYokohama_PoliceHat</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_NeoYokohama_Cop</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>SimpleGun</li>
+			<li>Revolver</li>
+			<li>IndustrialGunAdvanced</li>
+		</weaponTags>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_NeoYokohama_KindBase">
+		<defName>Anneli_NeoYokohama_TacticalOperator</defName>
+		<label>NeoYokohama_TacticalOperator</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_NeoYokohama_TankTopA</li>
+			<li>Anneli_NeoYokohama_TacticalPants</li>
+			<li>Anneli_NeoYokohama_TacticalCoat</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_NeoYokohama_TacticalOperator</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>SimpleGun</li>
+			<li>Revolver</li>
+			<li>IndustrialGunAdvanced</li>
+		</weaponTags>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_NeoYokohama_KindBase">
+		<defName>Anneli_NeoYokohama_HomelessPerson</defName>
+		<label>NeoYokohama_HomelessPerson</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_NeoYokohama_Curtain</li>
+			<li>Anneli_NeoYokohama_Thong</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_NeoYokohama_HomelessPerson</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>NeolithicMeleeBasic</li>
+			<li>MedievalMeleeBasic</li>
+			<li>SimpleGun</li>
+			<li>Revolver</li>
+		</weaponTags>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_NeoYokohama_KindBase">
+		<defName>Anneli_NeoYokohama_Civilian</defName>
+		<label>NeoYokohama_Civilian</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_NeoYokohama_Dress</li>
+			<li>Anneli_NeoYokohama_Boots</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_NeoYokohama_Civilian</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>NeolithicMeleeBasic</li>
+			<li>MedievalMeleeBasic</li>
+			<li>SimpleGun</li>
+			<li>Revolver</li>
+		</weaponTags>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_NeoYokohama_KindBase">
+		<defName>Anneli_NeoYokohama_ThugA</defName>
+		<label>NeoYokohama_Thug</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_NeoYokohama_TankTopB</li>
+			<li>Anneli_NeoYokohama_LeatherPants</li>
+			<li>Anneli_NeoYokohama_Boots</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_NeoYokohama_Thug</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>NeolithicMeleeBasic</li>
+			<li>MedievalMeleeBasic</li>
+			<li>SimpleGun</li>
+			<li>Revolver</li>
+		</weaponTags>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_NeoYokohama_KindBase">
+		<defName>Anneli_NeoYokohama_ThugB</defName>
+		<label>NeoYokohama_Thug</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_NeoYokohama_TankTopA</li>
+			<li>Anneli_NeoYokohama_DenimShorts</li>
+			<li>Anneli_NeoYokohama_Sneakers</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_NeoYokohama_Thug</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>NeolithicMeleeBasic</li>
+			<li>MedievalMeleeBasic</li>
+			<li>SimpleGun</li>
+			<li>Revolver</li>
+		</weaponTags>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_NeoYokohama_KindBase">
+		<defName>Anneli_NeoYokohama_BunnyGirlA</defName>
+		<label>NeoYokohama_BunnyGirl</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_NeoYokohama_FishnetPantyhose</li>
+			<li>Anneli_NeoYokohama_BunnySuitA</li>
+			<li>Anneli_NeoYokohama_BunnyHeels</li>
+			<li>Anneli_NeoYokohama_BunnyEars</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_NeoYokohama_BunnyGirl</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>SimpleGun</li>
+			<li>Revolver</li>
+			<li>IndustrialGunAdvanced</li>
+		</weaponTags>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_NeoYokohama_KindBase">
+		<defName>Anneli_NeoYokohama_BunnyGirlB</defName>
+		<label>NeoYokohama_BunnyGirl</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_NeoYokohama_FishnetPantyhose</li>
+			<li>Anneli_NeoYokohama_BunnySuitB</li>
+			<li>Anneli_NeoYokohama_BunnyHeels</li>
+			<li>Anneli_NeoYokohama_BunnyEars</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_NeoYokohama_BunnyGirl</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>SimpleGun</li>
+			<li>Revolver</li>
+			<li>IndustrialGunAdvanced</li>
+		</weaponTags>
+		<apparelColor>(50,45,50)</apparelColor><!--Fixed apparel color generation-->
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_NeoYokohama_KindBase">
+		<defName>Anneli_NeoYokohama_HackerA</defName>
+		<label>NeoYokohama_Hacker</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_NeoYokohama_HackerSuitA</li>
+			<li>Anneli_NeoYokohama_TacticalBoots</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_NeoYokohama_Hacker</li>
+			<li>Anneli_NeoYokohama_HackerA</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>SimpleGun</li>
+			<li>Revolver</li>
+			<li>IndustrialGunAdvanced</li>
+			<li>SpacerGun</li>
+		</weaponTags>
+		<apparelColor>(50,45,50)</apparelColor><!--Fixed apparel color generation-->
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_NeoYokohama_KindBase">
+		<defName>Anneli_NeoYokohama_HackerB</defName>
+		<label>NeoYokohama_Hacker</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_NeoYokohama_HackerSuitB</li>
+			<li>Anneli_NeoYokohama_LongBoots</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_NeoYokohama_Hacker</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>SimpleGun</li>
+			<li>Revolver</li>
+			<li>IndustrialGunAdvanced</li>
+			<li>SpacerGun</li>
+		</weaponTags>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_NeoYokohama_KindBase">
+		<defName>Anneli_NeoYokohama_Doctor</defName>
+		<label>NeoYokohama_Doctor</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_NeoYokohama_Catsuit</li>
+			<li>Anneli_NeoYokohama_MedicalScrub</li>
+			<li>Anneli_NeoYokohama_NurseCap</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_NeoYokohama_Doctor</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>SimpleGun</li>
+			<li>Revolver</li>
+			<li>IndustrialGunAdvanced</li>
+			<li>SpacerGun</li>
+		</weaponTags>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_NeoYokohama_KindBase">
+		<defName>Anneli_NeoYokohama_CyborgCombatantA</defName>
+		<label>NeoYokohama_CyborgCombatant</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_NeoYokohama_LatexCatsuit</li>
+			<li>Anneli_NeoYokohama_CombatSuitC</li>
+			<li>Anneli_NeoYokohama_Boots</li>
+			<li>Anneli_NeoYokohama_CyborgArmorA</li>
+			<li>Anneli_NeoYokohama_Helmet</li>
+			<li>Anneli_NeoYokohama_GogglesB</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_NeoYokohama_CyborgCombatant</li>
+			<li>Anneli_NeoYokohama_CyborgCombatantA</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>IndustrialGunAdvanced</li>
+			<li>GunHeavy</li>
+			<li>SpacerGun</li>
+		</weaponTags>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_NeoYokohama_KindBase">
+		<defName>Anneli_NeoYokohama_CyborgCombatantB</defName>
+		<label>NeoYokohama_CyborgCombatant</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_NeoYokohama_LatexBodysuit</li>
+			<li>Anneli_NeoYokohama_CombatSuitA</li>
+			<li>Anneli_NeoYokohama_LongSollerets</li>
+			<li>Anneli_NeoYokohama_CyborgArmorA</li>
+			<li>Anneli_NeoYokohama_TacticalHeadsetA</li>
+			<li>Anneli_NeoYokohama_CyborgMask</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_NeoYokohama_CyborgCombatant</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
@@ -62,6 +396,255 @@
 			<li>SpacerMelee</li>
 			<li>UltratechMelee</li>
 		</weaponTags>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_NeoYokohama_KindBase">
+		<defName>Anneli_NeoYokohama_CyborgCombatantC</defName>
+		<label>NeoYokohama_CyborgCombatant</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_NeoYokohama_Bodysuit</li>
+			<li>Anneli_NeoYokohama_CombatSuitB</li>
+			<li>Anneli_NeoYokohama_Sollerets</li>
+			<li>Anneli_NeoYokohama_CyborgArmorB</li>
+			<li>Anneli_NeoYokohama_CyborgBustle</li>
+			<li>Anneli_NeoYokohama_TacticalHeadsetB</li>
+			<li>Anneli_NeoYokohama_GasMask</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_NeoYokohama_CyborgCombatant</li>
+			<li>Anneli_NeoYokohama_CyborgCombatantC</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>MedievalMeleeDecent</li>
+			<li>SpacerMelee</li>
+			<li>UltratechMelee</li>
+		</weaponTags>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_NeoYokohama_KindBase">
+		<defName>Anneli_NeoYokohama_ShominA</defName>
+		<label>NeoYokohama_Shomin</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_NeoYokohama_Hanjuban</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_NeoYokohama_Shomin</li>
+			<li>Anneli_NeoYokohama_ShominA</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>NeolithicRangedBasic</li>
+			<li>NeolithicRangedDecent</li>
+			<li>NeolithicRangedHeavy</li>
+			<li>NeolithicRangedChief</li>
+			<li>MedievalRanged</li>
+			<li>MedievalRangedHeavy</li>
+		</weaponTags>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_NeoYokohama_KindBase">
+		<defName>Anneli_NeoYokohama_ShominB</defName>
+		<label>NeoYokohama_Shomin</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_NeoYokohama_JudogiC</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_NeoYokohama_Shomin</li>
+			<li>Anneli_NeoYokohama_ShominB</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>NeolithicRangedBasic</li>
+			<li>NeolithicRangedDecent</li>
+			<li>NeolithicRangedHeavy</li>
+			<li>NeolithicRangedChief</li>
+			<li>MedievalRanged</li>
+			<li>MedievalRangedHeavy</li>
+		</weaponTags>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_NeoYokohama_KindBase">
+		<defName>Anneli_NeoYokohama_ShominC</defName>
+		<label>NeoYokohama_Shomin</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_NeoYokohama_Tabi</li>
+			<li>Anneli_NeoYokohama_Nagajuban</li>
+			<li>Anneli_NeoYokohama_Geta</li>
+			<li>Anneli_NeoYokohama_KimonoB</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_NeoYokohama_Shomin</li>
+			<li>Anneli_NeoYokohama_ShominC</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>NeolithicRangedBasic</li>
+			<li>NeolithicRangedDecent</li>
+			<li>NeolithicRangedHeavy</li>
+			<li>NeolithicRangedChief</li>
+			<li>MedievalRanged</li>
+			<li>MedievalRangedHeavy</li>
+		</weaponTags>
+		<apparelColor>(255,245,245,255)</apparelColor><!--Fixed apparel color generation-->
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_NeoYokohama_KindBase">
+		<defName>Anneli_NeoYokohama_Ronin</defName>
+		<label>NeoYokohama_Ronin</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_NeoYokohama_BodyWrap</li>
+			<li>Anneli_NeoYokohama_Dogi</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_NeoYokohama_Ronin</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>NeolithicMeleeBasic</li>
+			<li>NeolithicMeleeDecent</li>
+			<li>NeolithicMeleeAdvanced</li>
+			<li>MedievalMeleeBasic</li>
+			<li>MedievalMeleeDecent</li>
+			<li>MedievalMeleeAdvanced</li>
+		</weaponTags>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_NeoYokohama_KindBase">
+		<defName>Anneli_NeoYokohama_Shinobi</defName>
+		<label>NeoYokohama_Shinobi</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_NeoYokohama_JudogiB</li>
+			<li>Anneli_NeoYokohama_ShinobiSandals</li>
+			<li>Anneli_NeoYokohama_Headband</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_NeoYokohama_Shinobi</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>NeolithicMeleeAdvanced</li>
+			<li>MedievalMeleeBasic</li>
+			<li>MedievalMeleeDecent</li>
+			<li>MedievalMeleeAdvanced</li>
+			<li>SpacerMelee</li>
+			<li>UltratechMelee</li>
+		</weaponTags>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_NeoYokohama_KindBase">
+		<defName>Anneli_NeoYokohama_GeishaA</defName>
+		<label>NeoYokohama_Geisha</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_NeoYokohama_Tabi</li>
+			<li>Anneli_NeoYokohama_Nagajuban</li>
+			<li>Anneli_NeoYokohama_Geta</li>
+			<li>Anneli_NeoYokohama_KimonoA</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_NeoYokohama_Geisha</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>NeolithicMeleeAdvanced</li>
+			<li>MedievalMeleeBasic</li>
+			<li>MedievalMeleeDecent</li>
+			<li>MedievalMeleeAdvanced</li>
+			<li>SpacerMelee</li>
+			<li>UltratechMelee</li>
+		</weaponTags>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_NeoYokohama_KindBase">
+		<defName>Anneli_NeoYokohama_GeishaB</defName>
+		<label>NeoYokohama_Geisha</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_NeoYokohama_Tabi</li>
+			<li>Anneli_NeoYokohama_Nagajuban</li>
+			<li>Anneli_NeoYokohama_Geta</li>
+			<li>Anneli_NeoYokohama_KimonoB</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_NeoYokohama_Geisha</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>NeolithicMeleeAdvanced</li>
+			<li>MedievalMeleeBasic</li>
+			<li>MedievalMeleeDecent</li>
+			<li>MedievalMeleeAdvanced</li>
+			<li>SpacerMelee</li>
+			<li>UltratechMelee</li>
+		</weaponTags>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_NeoYokohama_KindBase">
+		<defName>Anneli_NeoYokohama_SamuraiA</defName>
+		<label>NeoYokohama_Samurai</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_NeoYokohama_Tabi</li>
+			<li>Anneli_NeoYokohama_JudogiA</li>
+			<li>Anneli_NeoYokohama_Sandals</li>
+			<li>Anneli_NeoYokohama_SamuraiArmor</li>
+			<li>Anneli_NeoYokohama_Kabuto</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_NeoYokohama_Samurai</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>NeolithicMeleeAdvanced</li>
+			<li>MedievalMeleeBasic</li>
+			<li>MedievalMeleeDecent</li>
+			<li>MedievalMeleeAdvanced</li>
+			<li>SpacerMelee</li>
+			<li>UltratechMelee</li>
+		</weaponTags>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_NeoYokohama_KindBase">
+		<defName>Anneli_NeoYokohama_SamuraiB</defName>
+		<label>NeoYokohama_Samurai</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_NeoYokohama_Tabi</li>
+			<li>Anneli_NeoYokohama_JudogiA</li>
+			<li>Anneli_NeoYokohama_ShinobiSandals</li>
+			<li>Anneli_NeoYokohama_SamuraiArmor</li>
+			<li>Anneli_NeoYokohama_Kabuto</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_NeoYokohama_Samurai</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>NeolithicMeleeAdvanced</li>
+			<li>MedievalMeleeBasic</li>
+			<li>MedievalMeleeDecent</li>
+			<li>MedievalMeleeAdvanced</li>
+			<li>SpacerMelee</li>
+			<li>UltratechMelee</li>
+		</weaponTags>
+		<apparelColor>(200,60,60,255)</apparelColor><!--Fixed apparel color generation-->
 	</PawnKindDef>
 
 </Defs>

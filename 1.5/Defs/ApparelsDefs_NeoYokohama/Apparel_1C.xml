@@ -24,7 +24,8 @@
 		<apparel>
 			<wornGraphicPath>1C/Anneli_NeoYokohama_FishnetPantyhose</wornGraphicPath>
 			<tags>
-
+				<li>Anneli_NeoYokohama_BunnyGirl</li>
+				<li>Anneli_NeoYokohama_Civilian</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -50,7 +51,11 @@
 		<apparel>
 			<wornGraphicPath>1C/Anneli_NeoYokohama_FishnetStockingsA</wornGraphicPath>
 			<tags>
-
+				<li>Anneli_NeoYokohama_Salaryperson</li>
+				<li>Anneli_NeoYokohama_HomelessPerson</li>
+				<li>Anneli_NeoYokohama_Thug</li>
+				<li>Anneli_NeoYokohama_Hacker</li>
+				<li>Anneli_NeoYokohama_Civilian</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -76,7 +81,10 @@
 		<apparel>
 			<wornGraphicPath>1C/Anneli_NeoYokohama_FishnetStockingsB</wornGraphicPath>
 			<tags>
-
+				<li>Anneli_NeoYokohama_HomelessPerson</li>
+				<li>Anneli_NeoYokohama_Thug</li>
+				<li>Anneli_NeoYokohama_Hacker</li>
+				<li>Anneli_NeoYokohama_Civilian</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -102,7 +110,9 @@
 		<apparel>
 			<wornGraphicPath>1C/Anneli_NeoYokohama_StockingsA</wornGraphicPath>
 			<tags>
-
+				<li>Anneli_NeoYokohama_Shomin</li>
+				<li>Anneli_NeoYokohama_Ronin</li>
+				<li>Anneli_NeoYokohama_Shinobi</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -110,7 +120,7 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(50,45,50,255)</only>
+					<only>(255,245,245,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
@@ -128,7 +138,9 @@
 		<apparel>
 			<wornGraphicPath>1C/Anneli_NeoYokohama_StockingsB</wornGraphicPath>
 			<tags>
-
+				<li>Anneli_NeoYokohama_TacticalOperator</li>
+				<li>Anneli_NeoYokohama_Hacker</li>
+				<li>Anneli_NeoYokohama_CyborgCombatant</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -154,7 +166,10 @@
 		<apparel>
 			<wornGraphicPath>1C/Anneli_NeoYokohama_Tabi</wornGraphicPath>
 			<tags>
-
+				<li>Anneli_NeoYokohama_Shomin</li>
+				<li>Anneli_NeoYokohama_Ronin</li>
+				<li>Anneli_NeoYokohama_Geisha</li>
+				<li>Anneli_NeoYokohama_Samurai</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -162,7 +177,7 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(50,45,50,255)</only>
+					<only>(255,245,245,255)</only>
 				</li>
 			</options>
 		</colorGenerator>

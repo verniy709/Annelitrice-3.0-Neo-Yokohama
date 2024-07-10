@@ -24,7 +24,7 @@
 		<apparel>
 			<wornGraphicPath>5A/Anneli_NeoYokohama_CyborgBustle</wornGraphicPath>
 			<tags>
-
+				<li>Anneli_NeoYokohama_CyborgCombatantC</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -51,7 +51,7 @@
 		<apparel>
 			<wornGraphicPath>5A/Anneli_NeoYokohama_SamuraiCloak</wornGraphicPath>
 			<tags>
-
+				<li>Anneli_NeoYokohama_Samurai</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -78,7 +78,7 @@
 		<apparel>
 			<wornGraphicPath>5A/Anneli_NeoYokohama_Shawl</wornGraphicPath>
 			<tags>
-
+				<li>Anneli_NeoYokohama_Geisha</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -86,7 +86,7 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(50,45,50,255)</only>
+					<only>(255,245,245,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
@@ -105,7 +105,7 @@
 		<apparel>
 			<wornGraphicPath>5A/Anneli_NeoYokohama_ShinobiScarf</wornGraphicPath>
 			<tags>
-
+				<li>Anneli_NeoYokohama_Shinobi</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -113,7 +113,7 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(50,45,50,255)</only>
+					<only>(200,60,60,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
@@ -132,7 +132,7 @@
 		<apparel>
 			<wornGraphicPath>5A/Anneli_NeoYokohama_TacticalVest</wornGraphicPath>
 			<tags>
-
+				<li>Anneli_NeoYokohama_TacticalOperator</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>

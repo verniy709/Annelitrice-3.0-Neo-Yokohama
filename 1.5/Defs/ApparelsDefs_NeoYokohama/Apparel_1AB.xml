@@ -27,7 +27,11 @@
 		<apparel>
 			<wornGraphicPath>1AB/Anneli_NeoYokohama_BodyWrap</wornGraphicPath>
 			<tags>
-
+				<li>Anneli_NeoYokohama_Shomin</li>
+				<li>Anneli_NeoYokohama_Ronin</li>
+				<li>Anneli_NeoYokohama_Shinobi</li>
+				<li>Anneli_NeoYokohama_Geisha</li>
+				<li>Anneli_NeoYokohama_Samurai</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -35,7 +39,7 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(50,45,50,255)</only>
+					<only>(255,245,245,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
@@ -53,7 +57,8 @@
 		<apparel>
 			<wornGraphicPath>1AB/Anneli_NeoYokohama_Bodysuit</wornGraphicPath>
 			<tags>
-
+				<li>Anneli_NeoYokohama_TacticalOperator</li>
+				<li>Anneli_NeoYokohama_CyborgCombatant</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -79,7 +84,7 @@
 		<apparel>
 			<wornGraphicPath>1AB/Anneli_NeoYokohama_FishnetBodysuit</wornGraphicPath>
 			<tags>
-
+				<li>Anneli_NeoYokohama_Thug</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -105,7 +110,8 @@
 		<apparel>
 			<wornGraphicPath>1AB/Anneli_NeoYokohama_LatexBodysuit</wornGraphicPath>
 			<tags>
-
+				<li>Anneli_NeoYokohama_TacticalOperator</li>
+				<li>Anneli_NeoYokohama_CyborgCombatant</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>

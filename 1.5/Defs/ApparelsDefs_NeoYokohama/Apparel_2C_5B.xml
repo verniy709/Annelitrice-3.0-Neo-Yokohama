@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef Name="Anneli_NeoYokohama_2C_5B_NonMetal" ParentName="Anneli_2C_5B_NonMetal" Abstract="True">
+		<thingCategories>
+			<li>Anneli_Category_NeoYokohama</li>
+		</thingCategories>
+		<recipeMaker>
+			<recipeUsers>
+				<li>Anneli_NeoYokohama_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+	</ThingDef>
+
+	<ThingDef Name="Anneli_NeoYokohama_2C_5B_Metal" ParentName="Anneli_2C_5B_Metal" Abstract="True">
+		<thingCategories>
+			<li>Anneli_Category_NeoYokohama</li>
+		</thingCategories>
+		<recipeMaker>
+			<recipeUsers>
+				<li>Anneli_NeoYokohama_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_LongSollerets-->
+	<ThingDef ParentName="Anneli_NeoYokohama_2C_5B_Metal">
+		<defName>Anneli_NeoYokohama_LongSollerets</defName>
+		<description>Dyeable.</description>
+		<label>(NeoYokohama)2C_LongSollerets</label>
+		<graphicData>
+			<texPath>2C/Anneli_NeoYokohama_LongSollerets</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>2C/Anneli_NeoYokohama_LongSollerets</wornGraphicPath>
+			<tags>
+				<li>Anneli_NeoYokohama_CyborgCombatant</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+</Defs>
