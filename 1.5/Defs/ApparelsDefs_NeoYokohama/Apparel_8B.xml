@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef Name="Anneli_NeoYokohama_8B" ParentName="Anneli_8B" Abstract="True">
+		<thingCategories>
+			<li>Anneli_Category_NeoYokohama</li>
+		</thingCategories>
+		<recipeMaker>
+			<recipeUsers>
+				<li>Anneli_NeoYokohama_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+	</ThingDef>
+
+	<!-- Anneli_NeoYokohama_CyborgWing_Bullet-->
+
+	<ThingDef ParentName="BaseBullet">
+		<defName>Anneli_NeoYokohama_CyborgWing_Bullet</defName>
+		<label>cyborg wing bullet</label>
+		<graphicData>
+			<texPath>Things/Projectile/Charge_Small</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<projectile>
+			<damageDef>Bullet</damageDef>
+			<damageAmountBase>8</damageAmountBase>
+			<speed>65</speed>
+		</projectile>
+	</ThingDef>
+
+	<ThingDef ParentName="Anneli_NeoYokohama_8B">
+		<defName>Anneli_NeoYokohama_CyborgWing</defName>
+		<description>Dyeable.</description>
+		<label>(NeoYokohama)8B_CyborgWing</label>
+		<graphicData>
+			<texPath>8B/Anneli_NeoYokohama_CyborgWing</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>8B/Anneli_NeoYokohama_CyborgWing</wornGraphicPath>
+			<tags>
+				<li>Anneli_NeoYokohama_CyborgCombatantB</li>
+				<li>Anneli_NeoYokohama_CyborgCombatantC</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(140,0,20,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+		<generateAllowChance>0.3</generateAllowChance><!--Less Spawn-->
+		<costStuffCount>100</costStuffCount>
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+		<statBases>
+			<WorkToMake>1000</WorkToMake>
+			<Mass>2</Mass>
+			<StuffEffectMultiplierArmor>0.05</StuffEffectMultiplierArmor>
+			<StuffEffectMultiplierInsulation_Cold>0.05</StuffEffectMultiplierInsulation_Cold>
+			<StuffEffectMultiplierInsulation_Heat>0.05</StuffEffectMultiplierInsulation_Heat>
+			<EquipDelay>1</EquipDelay>
+			<Flammability>0.15</Flammability>
+			<AccuracyTouch>0.6</AccuracyTouch>
+			<AccuracyShort>0.7</AccuracyShort>
+			<AccuracyMedium>0.8</AccuracyMedium>
+			<AccuracyLong>0.5</AccuracyLong>
+			<RangedWeapon_Cooldown>3.0</RangedWeapon_Cooldown>
+		</statBases>
+		<tickerType>Normal</tickerType><!--tickerType-->
+		<verbs>
+			<li>
+				<verbClass>Verb_Shoot</verbClass>
+				<label>Wing</label>
+				<defaultProjectile>Anneli_NeoYokohama_CyborgWing_Bullet</defaultProjectile>
+				<warmupTime>2.0</warmupTime>
+				<range>31.9</range>
+				<burstShotCount>20</burstShotCount>
+				<ticksBetweenBurstShots>3</ticksBetweenBurstShots>
+				<soundCast>Shot_ChargeRifle</soundCast>
+				<soundCastTail>GunTail_Medium</soundCastTail>
+				<muzzleFlashScale>9</muzzleFlashScale>
+				<hasStandardCommand>true</hasStandardCommand>
+			</li>
+		</verbs>
+		<comps>
+			<li Class="MVCF.Comps.CompProperties_VerbGiver">
+				<verbProps>
+					<li>
+						<label>Wing</label>
+						<draw>false</draw>
+						<description>Wing.</description>
+						<canBeToggled>true</canBeToggled>
+						<comps>
+							<li Class="MVCF.VerbComps.VerbCompProperties_Turret">
+								<compClass>MVCF.VerbComps.VerbComp_Turret</compClass>
+								<graphic>
+									<texPath>Anneli_Null/Anneli_Null</texPath>
+									<graphicClass>Graphic_Single</graphicClass>
+								</graphic>
+							</li>
+						</comps>
+					</li>
+				</verbProps>
+			</li>
+		</comps>
+	</ThingDef>
+
+	<!-- Anneli_NeoYokohama_Drone_Bullet-->
+
+	<ThingDef ParentName="BaseBullet">
+		<defName>Anneli_NeoYokohama_Drone_Bullet</defName>
+		<label>Drone bullet</label>
+		<graphicData>
+			<texPath>Things/Projectile/Bullet_Small</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<projectile>
+			<damageDef>Bullet</damageDef>
+			<damageAmountBase>8</damageAmountBase>
+			<speed>65</speed>
+		</projectile>
+	</ThingDef>
+
+	<ThingDef ParentName="Anneli_NeoYokohama_8B">
+		<defName>Anneli_NeoYokohama_Drone</defName>
+		<description>Dyeable.</description>
+		<label>(NeoYokohama)8B_Drone</label>
+		<graphicData>
+			<texPath>8B/Anneli_NeoYokohama_Drone</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>8B/Anneli_NeoYokohama_Drone</wornGraphicPath>
+			<tags>
+				<li>Anneli_NeoYokohama_Cop</li>
+				<li>Anneli_NeoYokohama_TacticalOperator</li>
+				<li>Anneli_NeoYokohama_Hacker</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(140,0,20,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+		<generateAllowChance>0.3</generateAllowChance><!--Less Spawn-->
+		<costStuffCount>100</costStuffCount>
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+		<statBases>
+			<WorkToMake>1000</WorkToMake>
+			<Mass>2</Mass>
+			<StuffEffectMultiplierArmor>0.05</StuffEffectMultiplierArmor>
+			<StuffEffectMultiplierInsulation_Cold>0.05</StuffEffectMultiplierInsulation_Cold>
+			<StuffEffectMultiplierInsulation_Heat>0.05</StuffEffectMultiplierInsulation_Heat>
+			<EquipDelay>1</EquipDelay>
+			<Flammability>0.15</Flammability>
+			<AccuracyTouch>0.6</AccuracyTouch>
+			<AccuracyShort>0.7</AccuracyShort>
+			<AccuracyMedium>0.8</AccuracyMedium>
+			<AccuracyLong>0.5</AccuracyLong>
+			<RangedWeapon_Cooldown>3.0</RangedWeapon_Cooldown>
+		</statBases>
+		<tickerType>Normal</tickerType><!--tickerType-->
+		<verbs>
+			<li>
+				<verbClass>Verb_Shoot</verbClass>
+				<label>Drone</label>
+				<defaultProjectile>Anneli_NeoYokohama_Drone_Bullet</defaultProjectile>
+				<warmupTime>2.0</warmupTime>
+				<range>31.9</range>
+				<burstShotCount>20</burstShotCount>
+				<ticksBetweenBurstShots>3</ticksBetweenBurstShots>
+				<soundCast>Shot_MachinePistol</soundCast>
+				<soundCastTail>GunTail_Light</soundCastTail>
+				<muzzleFlashScale>9</muzzleFlashScale>
+				<hasStandardCommand>true</hasStandardCommand>
+			</li>
+		</verbs>
+		<comps>
+			<li Class="MVCF.Comps.CompProperties_VerbGiver">
+				<verbProps>
+					<li>
+						<label>Drone</label>
+						<draw>false</draw>
+						<description>Drone.</description>
+						<canBeToggled>true</canBeToggled>
+						<comps>
+							<li Class="MVCF.VerbComps.VerbCompProperties_Turret">
+								<compClass>MVCF.VerbComps.VerbComp_Turret</compClass>
+								<graphic>
+									<texPath>Anneli_Null/Anneli_Null</texPath>
+									<graphicClass>Graphic_Single</graphicClass>
+								</graphic>
+							</li>
+						</comps>
+					</li>
+				</verbProps>
+			</li>
+		</comps>
+	</ThingDef>
+
+	<!-- Anneli_NeoYokohama_Wagasa_Bullet-->
+
+	<ThingDef ParentName="BaseBullet">
+		<defName>Anneli_NeoYokohama_Wagasa_Bullet</defName>
+		<label>Wagasa bullet</label>
+		<graphicData>
+			<texPath>Projectiles/Anneli_NeoYokohama_Wagasa_Bullet</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<projectile>
+			<damageDef>RangedStab</damageDef>
+			<damageAmountBase>8</damageAmountBase>
+			<speed>65</speed>
+		</projectile>
+	</ThingDef>
+
+	<!-- Anneli_NeoYokohama_Wagasa_Sound-->
+	<SoundDef>
+		<defName>Anneli_NeoYokohama_Wagasa_Sound</defName>
+		<context>MapOnly</context>
+		<maxSimultaneous>1</maxSimultaneous>
+		<subSounds>
+			<li>
+				<grains>
+					<li Class="AudioGrain_Clip">
+						<clipPath>Anneli_NeoYokohama_Wagasa_Sound</clipPath>
+					</li>
+				</grains>
+				<volumeRange>
+					<min>18</min>
+					<max>20</max>
+				</volumeRange>
+				<pitchRange>
+					<min>0.95</min>
+					<max>1.05</max>
+				</pitchRange>
+			</li>
+		</subSounds>
+	</SoundDef>
+
+	<ThingDef ParentName="Anneli_NeoYokohama_8B">
+		<defName>Anneli_NeoYokohama_Wagasa</defName>
+		<description>Dyeable.</description>
+		<label>(NeoYokohama)8B_Wagasa</label>
+		<graphicData>
+			<texPath>8B/Anneli_NeoYokohama_Wagasa</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>8B/Anneli_NeoYokohama_Wagasa</wornGraphicPath>
+			<tags>
+				<li>Anneli_NeoYokohama_Shomin</li>
+				<li>Anneli_NeoYokohama_Geisha</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(140,0,20,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+		<generateAllowChance>0.3</generateAllowChance><!--Less Spawn-->
+		<costStuffCount>100</costStuffCount>
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+		<statBases>
+			<WorkToMake>1000</WorkToMake>
+			<Mass>2</Mass>
+			<StuffEffectMultiplierArmor>0.05</StuffEffectMultiplierArmor>
+			<StuffEffectMultiplierInsulation_Cold>0.05</StuffEffectMultiplierInsulation_Cold>
+			<StuffEffectMultiplierInsulation_Heat>0.05</StuffEffectMultiplierInsulation_Heat>
+			<EquipDelay>1</EquipDelay>
+			<Flammability>0.15</Flammability>
+			<AccuracyTouch>0.6</AccuracyTouch>
+			<AccuracyShort>0.7</AccuracyShort>
+			<AccuracyMedium>0.8</AccuracyMedium>
+			<AccuracyLong>0.5</AccuracyLong>
+			<RangedWeapon_Cooldown>3.0</RangedWeapon_Cooldown>
+		</statBases>
+		<tickerType>Normal</tickerType><!--tickerType-->
+		<verbs>
+			<li>
+				<verbClass>Verb_Shoot</verbClass>
+				<label>Wagasa</label>
+				<defaultProjectile>Anneli_NeoYokohama_Wagasa_Bullet</defaultProjectile>
+				<warmupTime>2.0</warmupTime>
+				<range>31.9</range>
+				<burstShotCount>20</burstShotCount>
+				<ticksBetweenBurstShots>3</ticksBetweenBurstShots>
+				<soundCast>Anneli_NeoYokohama_Wagasa_Sound</soundCast>
+				<soundCastTail>GunTail_Medium</soundCastTail>
+				<muzzleFlashScale>9</muzzleFlashScale>
+				<hasStandardCommand>true</hasStandardCommand>
+			</li>
+		</verbs>
+		<comps>
+			<li Class="MVCF.Comps.CompProperties_VerbGiver">
+				<verbProps>
+					<li>
+						<label>Wagasa</label>
+						<draw>false</draw>
+						<description>Wagasa.</description>
+						<canBeToggled>true</canBeToggled>
+						<comps>
+							<li Class="MVCF.VerbComps.VerbCompProperties_Turret">
+								<compClass>MVCF.VerbComps.VerbComp_Turret</compClass>
+								<graphic>
+									<texPath>Anneli_Null/Anneli_Null</texPath>
+									<graphicClass>Graphic_Single</graphicClass>
+								</graphic>
+							</li>
+						</comps>
+					</li>
+				</verbProps>
+			</li>
+		</comps>
+	</ThingDef>
+
+</Defs>

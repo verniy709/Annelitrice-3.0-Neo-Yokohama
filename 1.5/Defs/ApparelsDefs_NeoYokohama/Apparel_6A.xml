@@ -53,6 +53,7 @@
 				</li>
 			</options>
 		</colorGenerator>
+		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_NeoYokohama_BunnyEars-->
@@ -157,6 +158,10 @@
 				<li>
 					<weight>10</weight>
 					<only>(50,45,50,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(200,60,60,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
