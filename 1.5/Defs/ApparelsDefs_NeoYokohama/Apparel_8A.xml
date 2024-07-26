@@ -65,12 +65,21 @@
 		</graphicData>
 		<apparel>
 			<wornGraphicPath>8A/Anneli_NeoYokohama_ElectricGuitar</wornGraphicPath>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
 				<li>
 					<weight>10</weight>
 					<only>(255,245,245,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(200,60,60,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(75,80,100,255)</only>
 				</li>
 			</options>
 		</colorGenerator>

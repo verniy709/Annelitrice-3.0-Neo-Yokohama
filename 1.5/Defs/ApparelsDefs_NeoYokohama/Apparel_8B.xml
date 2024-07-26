@@ -48,7 +48,7 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(140,0,20,255)</only>
+					<only>(50,45,50,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
@@ -140,6 +140,7 @@
 				<li>Anneli_NeoYokohama_Cop</li>
 				<li>Anneli_NeoYokohama_TacticalOperator</li>
 				<li>Anneli_NeoYokohama_Hacker</li>
+				<li>Anneli_NeoYokohama_CyborgCombatantA</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -147,7 +148,7 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(140,0,20,255)</only>
+					<only>(50,45,50,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
@@ -269,7 +270,23 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(140,0,20,255)</only>
+					<only>(255,245,245,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(220,160,140,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(180,225,250,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(160,150,200,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(175,200,135,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
