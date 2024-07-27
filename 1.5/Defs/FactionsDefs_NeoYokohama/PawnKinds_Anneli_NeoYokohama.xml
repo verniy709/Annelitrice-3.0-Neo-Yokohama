@@ -121,6 +121,7 @@
 			<li>Anneli_NeoYokohama_PoliceHat</li>
 		</apparelRequired>
 		<apparelTags>
+			<li>BeltDefensePop</li>
 			<li>Anneli_NeoYokohama_Cop</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
@@ -142,6 +143,7 @@
 			<li>Anneli_NeoYokohama_TacticalCoat</li>
 		</apparelRequired>
 		<apparelTags>
+			<li>BeltDefensePop</li>
 			<li>Anneli_NeoYokohama_TacticalOperator</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
@@ -293,6 +295,7 @@
 			<li>Anneli_NeoYokohama_TacticalBoots</li>
 		</apparelRequired>
 		<apparelTags>
+			<li>BeltDefensePop</li>
 			<li>Anneli_NeoYokohama_Hacker</li>
 			<li>Anneli_NeoYokohama_HackerA</li>
 		</apparelTags>
@@ -316,6 +319,7 @@
 			<li>Anneli_NeoYokohama_LongBoots</li>
 		</apparelRequired>
 		<apparelTags>
+			<li>BeltDefensePop</li>
 			<li>Anneli_NeoYokohama_Hacker</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
@@ -363,6 +367,7 @@
 			<li>Anneli_NeoYokohama_GogglesB</li>
 		</apparelRequired>
 		<apparelTags>
+			<li>Anneli_ShieldBelt</li>
 			<li>Anneli_NeoYokohama_CyborgCombatant</li>
 			<li>Anneli_NeoYokohama_CyborgCombatantA</li>
 		</apparelTags>
@@ -384,10 +389,11 @@
 			<li>Anneli_NeoYokohama_CombatSuitA</li>
 			<li>Anneli_NeoYokohama_LongSollerets</li>
 			<li>Anneli_NeoYokohama_CyborgArmorA</li>
-			<li>Anneli_NeoYokohama_TacticalHeadsetA</li>
+			<li>Anneli_NeoYokohama_TacticalHeadsetB</li>
 			<li>Anneli_NeoYokohama_CyborgMask</li>
 		</apparelRequired>
 		<apparelTags>
+			<li>Anneli_ShieldBelt</li>
 			<li>Anneli_NeoYokohama_CyborgCombatant</li>
 			<li>Anneli_NeoYokohama_CyborgCombatantB</li>
 		</apparelTags>
@@ -410,10 +416,11 @@
 			<li>Anneli_NeoYokohama_Sollerets</li>
 			<li>Anneli_NeoYokohama_CyborgArmorB</li>
 			<li>Anneli_NeoYokohama_CyborgBustle</li>
-			<li>Anneli_NeoYokohama_TacticalHeadsetB</li>
+			<li>Anneli_NeoYokohama_TacticalHeadsetA</li>
 			<li>Anneli_NeoYokohama_GasMask</li>
 		</apparelRequired>
 		<apparelTags>
+			<li>Anneli_ShieldBelt</li>
 			<li>Anneli_NeoYokohama_CyborgCombatant</li>
 			<li>Anneli_NeoYokohama_CyborgCombatantC</li>
 		</apparelTags>
@@ -608,7 +615,9 @@
 			<li>Anneli_NeoYokohama_Kabuto</li>
 		</apparelRequired>
 		<apparelTags>
+			<li>BeltDefense</li>
 			<li>Anneli_NeoYokohama_Samurai</li>
+			<li>Anneli_NeoYokohama_SamuraiA</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
@@ -634,7 +643,9 @@
 			<li>Anneli_NeoYokohama_Kabuto</li>
 		</apparelRequired>
 		<apparelTags>
+			<li>BeltDefense</li>
 			<li>Anneli_NeoYokohama_Samurai</li>
+			<li>Anneli_NeoYokohama_SamuraiB</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>

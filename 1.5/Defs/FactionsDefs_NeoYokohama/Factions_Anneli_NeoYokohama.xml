@@ -4,7 +4,7 @@
 	<FactionDef ParentName="Anneli_FactionBase">
 		<defName>Anneli_Faction_NeoYokohama</defName>
 		<label>Anneli Faction Neo-Yokohama Syndicate</label>
-		<description>ToDo.</description>
+		<description>"All birds are drones used by the archotechnological deities to surveil and restrict our freedom!" Conspiracy theorists hired by a dark mega-corporation wave their flyers, making people believe that the entire world is controlled by three evil archotechnological deities. They propagated that to avoid being enslaved by these gods, all material and information exchanges with the untrustworthy must be completely cut off.\n\nBelievers of the conspiracy theory thus moved to Neo Yokohama underground city, a completely isolated sanctuary. However, from the beginning, this city has shown clear class divisions. Corporate executives and high-tech samurai enjoy high salaries and benefits, while the ordinary people face death from overwork, drug abuse, and harsh working conditions. Neo Yokohama also enforces an isolationist policy, proclaiming that all outsiders are spies controlled by the archotechnological deities.\n\nThe movie depicts the uprising of citizens in New-Yokohama and the gradual revelation of the city's truth: the so-called archotechnological deities are merely a means to deceive people into becoming slave laborers for the corporation.</description>
 		<colorSpectrum>
 			<li>(1.00, 0.06, 0.09)</li>
 		</colorSpectrum>
@@ -18,20 +18,21 @@
 			<li MayRequire="Ludeon.RimWorld.Ideology">Transhumanist</li>
 		</requiredMemes>
 		<maxConfigurableAtWorldCreation>1</maxConfigurableAtWorldCreation>
+		<naturalEnemy>true</naturalEnemy>
 		<techLevel>Spacer</techLevel>
 		<allowedCultures>
-			<li>Anneli_Cultures_Kriminul</li>
+			<li>Anneli_Cultures_Sophian</li>
 		</allowedCultures>
 		<settlementTexturePath>Anneli_Factions/Anneli_NeoYokohama</settlementTexturePath>
 		<factionIconPath>Anneli_Factions/Anneli_NeoYokohama</factionIconPath>
 		<listOrderPriority>30</listOrderPriority>
-		<settlementGenerationWeight>0.5</settlementGenerationWeight>
+		<settlementGenerationWeight>1</settlementGenerationWeight>
 		<requiredCountAtGameStart>1</requiredCountAtGameStart>
 		<maxCountAtGameStart>1</maxCountAtGameStart>
 		<canMakeRandomly>true</canMakeRandomly>
 		<canSiege>True</canSiege>
 		<canStageAttacks>true</canStageAttacks>
-		<leaderTitle>Gestalt</leaderTitle>
+		<leaderTitle>Chief Executive Officer</leaderTitle>
 		<factionNameMaker>NamerFactionOutlander</factionNameMaker>
 		<settlementNameMaker>NamerSettlementOutlander</settlementNameMaker>
 		<backstoryFilters>
@@ -138,7 +139,6 @@
 					<Anneli_NeoYokohama_SalarypersonB>1</Anneli_NeoYokohama_SalarypersonB>
 					<Anneli_NeoYokohama_GeishaA>1</Anneli_NeoYokohama_GeishaA>
 					<Anneli_NeoYokohama_GeishaB>1</Anneli_NeoYokohama_GeishaB>
-					<!-- ToDo -->
 				</traders>
 				<carriers>
 					<Muffalo>3</Muffalo>

@@ -122,11 +122,11 @@
 	</ThingDef>	
 
 
-	<!--Anneli_NeoYokohama_Sashimono-->
+	<!--Anneli_NeoYokohama_SashimonoA-->
 	<ThingDef ParentName="Anneli_NeoYokohama_8A">
-		<defName>Anneli_NeoYokohama_Sashimono</defName>
+		<defName>Anneli_NeoYokohama_SashimonoA</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)8A_Sashimono</label>
+		<label>(NeoYokohama)8A_SashimonoA</label>
 		<costStuffCount>20</costStuffCount>
 		<stuffCategories>
 			<li>Metallic</li>
@@ -143,13 +143,66 @@
 		<equippedStatOffsets>
 		</equippedStatOffsets>
 		<graphicData>
-			<texPath>8A/Anneli_NeoYokohama_Sashimono</texPath>
+			<texPath>8A/Anneli_NeoYokohama_SashimonoA</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>8A/Anneli_NeoYokohama_Sashimono</wornGraphicPath>
+			<wornGraphicPath>8A/Anneli_NeoYokohama_SashimonoA</wornGraphicPath>
 			<tags>
-				<li>Anneli_NeoYokohama_Samurai</li>
+				<li>Anneli_NeoYokohama_SamuraiA</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+		<generateAllowChance>0.15</generateAllowChance><!--Less Spawn-->
+		<tickerType>Normal</tickerType>
+		<comps>
+			<li Class="Annelitrice.CompProperties_ApparelCauseHediff_AoE">
+				<hediff>Anneli_Aura_Honor</hediff>
+				<range>21.9</range>
+				<canTargetSelf>true</canTargetSelf>
+				<drawLines>false</drawLines>
+				<ignoreMechs>true</ignoreMechs>
+				<checkInterval>500</checkInterval>
+			</li>
+		</comps>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_SashimonoB-->
+	<ThingDef ParentName="Anneli_NeoYokohama_8A">
+		<defName>Anneli_NeoYokohama_SashimonoB</defName>
+		<description>Dyeable.</description>
+		<label>(NeoYokohama)8A_SashimonoB</label>
+		<costStuffCount>20</costStuffCount>
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+		<statBases>
+			<WorkToMake>200</WorkToMake>
+			<Mass>1</Mass>
+			<StuffEffectMultiplierArmor>0.01</StuffEffectMultiplierArmor>
+			<StuffEffectMultiplierInsulation_Cold>0.01</StuffEffectMultiplierInsulation_Cold>
+			<StuffEffectMultiplierInsulation_Heat>0.01</StuffEffectMultiplierInsulation_Heat>
+			<EquipDelay>1</EquipDelay>
+			<Flammability>0.15</Flammability>
+		</statBases>
+		<equippedStatOffsets>
+		</equippedStatOffsets>
+		<graphicData>
+			<texPath>8A/Anneli_NeoYokohama_SashimonoB</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>8A/Anneli_NeoYokohama_SashimonoB</wornGraphicPath>
+			<tags>
+				<li>Anneli_NeoYokohama_SamuraiB</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>

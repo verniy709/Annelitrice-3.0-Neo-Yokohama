@@ -4,13 +4,15 @@
 	<!--Adulthood-->
 
 	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
-		<defName>Anneli_NeoYokohama_1_ToDo</defName>
-		<title>Annelitrice NeoYokohama ToDo</title>
-		<titleShort>NeoYokohama ToDo</titleShort>
-		<baseDesc>ToDo.</baseDesc>
+		<defName>Anneli_NeoYokohama_HomelyShinobi</defName>
+		<title>Homely Shinobi</title>
+		<titleShort>Ninja</titleShort>
+		<baseDesc>[PAWN_nameDef] acts as a homely shinobi. She used her talents to create a peaceful and nurturing environment at home.</baseDesc>
 		<slot>Adulthood</slot>
 		<skillGains>
-
+			<Construction>2</Construction>
+			<Cooking>2</Cooking>
+			<Medicine>4</Medicine>
 		</skillGains>
 		<spawnCategories>
 			<li>Anneli_Story_NeoYokohama</li>
@@ -19,13 +21,14 @@
 	</AlienRace.AlienBackstoryDef>
 
 	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
-		<defName>Anneli_NeoYokohama_2_ToDo</defName>
-		<title>Annelitrice NeoYokohama ToDo</title>
-		<titleShort>NeoYokohama ToDo</titleShort>
-		<baseDesc>ToDo.</baseDesc>
+		<defName>Anneli_NeoYokohama_FearsomeShinobi</defName>
+		<title>Fearsome Shinobi</title>
+		<titleShort>Shinobi</titleShort>
+		<baseDesc>[PAWN_nameDef] acts as a a master of stealth and assassination.</baseDesc>
 		<slot>Adulthood</slot>
 		<skillGains>
-
+			<Melee>6</Melee>
+			<Medicine>2</Medicine>
 		</skillGains>
 		<spawnCategories>
 			<li>Anneli_Story_NeoYokohama</li>
@@ -34,13 +37,14 @@
 	</AlienRace.AlienBackstoryDef>
 
 	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
-		<defName>Anneli_NeoYokohama_3_ToDo</defName>
-		<title>Annelitrice NeoYokohama ToDo</title>
-		<titleShort>NeoYokohama ToDo</titleShort>
-		<baseDesc>ToDo.</baseDesc>
+		<defName>Anneli_NeoYokohama_HaikuSamurai</defName>
+		<title>Haiku Samurai</title>
+		<titleShort>Samurai</titleShort>
+		<baseDesc>[PAWN_nameDef] acts as a samurai and a poet.</baseDesc>
 		<slot>Adulthood</slot>
 		<skillGains>
-
+			<Artistic>4</Artistic>
+			<Social>4</Social>
 		</skillGains>
 		<spawnCategories>
 			<li>Anneli_Story_NeoYokohama</li>
@@ -49,13 +53,14 @@
 	</AlienRace.AlienBackstoryDef>
 
 	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
-		<defName>Anneli_NeoYokohama_4_ToDo</defName>
-		<title>Annelitrice NeoYokohama ToDo</title>
-		<titleShort>NeoYokohama ToDo</titleShort>
-		<baseDesc>ToDo.</baseDesc>
+		<defName>Anneli_NeoYokohama_VersatileSamurai</defName>
+		<title>Versatile Samurai</title>
+		<titleShort>Samurai</titleShort>
+		<baseDesc>[PAWN_nameDef] acts as a samurai. She seamlessly blends traditional martial art skills with cutting-edge technology, like laser muskets.</baseDesc>
 		<slot>Adulthood</slot>
 		<skillGains>
-
+			<Shooting>4</Shooting>
+			<Melee>4</Melee>
 		</skillGains>
 		<spawnCategories>
 			<li>Anneli_Story_NeoYokohama</li>
@@ -64,13 +69,14 @@
 	</AlienRace.AlienBackstoryDef>
 
 	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
-		<defName>Anneli_NeoYokohama_5_ToDo</defName>
-		<title>Annelitrice NeoYokohama ToDo</title>
-		<titleShort>NeoYokohama ToDo</titleShort>
-		<baseDesc>ToDo.</baseDesc>
+		<defName>Anneli_NeoYokohama_WinnerSalaryman</defName>
+		<title>Winner Salaryman</title>
+		<titleShort>Salaryman</titleShort>
+		<baseDesc>[PAWN_nameDef] acts as a consumable, but successful corporate manager.</baseDesc>
 		<slot>Adulthood</slot>
 		<skillGains>
-
+			<Social>4</Social>
+			<Intellectual>4</Intellectual>
 		</skillGains>
 		<spawnCategories>
 			<li>Anneli_Story_NeoYokohama</li>
@@ -79,13 +85,15 @@
 	</AlienRace.AlienBackstoryDef>
 
 	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
-		<defName>Anneli_NeoYokohama_6_ToDo</defName>
-		<title>Annelitrice NeoYokohama ToDo</title>
-		<titleShort>NeoYokohama ToDo</titleShort>
-		<baseDesc>ToDo.</baseDesc>
+		<defName>Anneli_NeoYokohama_NormalSalaryman</defName>
+		<title>Normal Salaryman</title>
+		<titleShort>Salaryman</titleShort>
+		<baseDesc>[PAWN_nameDef] acts as a consumable salaryman. Her passion for botany exceeds her interest in daily work.</baseDesc>
 		<slot>Adulthood</slot>
-		<skillGains>
-
+		<skillGains>	
+			<Plants>4</Plants>
+			<Social>2</Social>
+			<Intellectual>2</Intellectual>
 		</skillGains>
 		<spawnCategories>
 			<li>Anneli_Story_NeoYokohama</li>
@@ -94,13 +102,16 @@
 	</AlienRace.AlienBackstoryDef>
 
 	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
-		<defName>Anneli_NeoYokohama_7_ToDo</defName>
-		<title>Annelitrice NeoYokohama ToDo</title>
-		<titleShort>NeoYokohama ToDo</titleShort>
-		<baseDesc>ToDo.</baseDesc>
+		<defName>Anneli_NeoYokohama_LoserSalaryman</defName>
+		<title>Loser Salaryman</title>
+		<titleShort>Salaryman</titleShort>
+		<baseDesc>[PAWN_nameDef] acts as an unemployed salaryman. She found solace in the companionship of her cat, the only one who truly loves her.</baseDesc>
 		<slot>Adulthood</slot>
 		<skillGains>
-
+			<Cooking>2</Cooking>
+			<Plants>2</Plants>
+			<Animals>8</Animals>
+			<Social>-4</Social>
 		</skillGains>
 		<spawnCategories>
 			<li>Anneli_Story_NeoYokohama</li>
@@ -109,13 +120,15 @@
 	</AlienRace.AlienBackstoryDef>
 
 	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
-		<defName>Anneli_NeoYokohama_8_ToDo</defName>
-		<title>Annelitrice NeoYokohama ToDo</title>
-		<titleShort>NeoYokohama ToDo</titleShort>
-		<baseDesc>ToDo.</baseDesc>
+		<defName>Anneli_NeoYokohama_ConstructionWorker</defName>
+		<title>Construction Worker</title>
+		<titleShort>Worker</titleShort>
+		<baseDesc>[PAWN_nameDef] acts as an employee of a construction company. She managed to stealing and selling company assets.</baseDesc>
 		<slot>Adulthood</slot>
 		<skillGains>
-
+			<Construction>4</Construction>
+			<Crafting>2</Crafting>
+			<Mining>2</Mining>
 		</skillGains>
 		<spawnCategories>
 			<li>Anneli_Story_NeoYokohama</li>
@@ -124,13 +137,14 @@
 	</AlienRace.AlienBackstoryDef>
 
 	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
-		<defName>Anneli_NeoYokohama_9_ToDo</defName>
-		<title>Annelitrice NeoYokohama ToDo</title>
-		<titleShort>NeoYokohama ToDo</titleShort>
-		<baseDesc>ToDo.</baseDesc>
+		<defName>Anneli_NeoYokohama_RevolutionaryWorker</defName>
+		<title>Revolutionary Worker</title>
+		<titleShort>Worker</titleShort>
+		<baseDesc>[PAWN_nameDef] acts as a fervent revolutionary proletariat. Formerly a laborer in the mining industry, she has become an expert in crafting homemade bombs.</baseDesc>
 		<slot>Adulthood</slot>
 		<skillGains>
-
+			<Crafting>4</Crafting>
+			<Mining>4</Mining>
 		</skillGains>
 		<spawnCategories>
 			<li>Anneli_Story_NeoYokohama</li>
@@ -139,13 +153,14 @@
 	</AlienRace.AlienBackstoryDef>
 
 	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
-		<defName>Anneli_NeoYokohama_10_ToDo</defName>
-		<title>Annelitrice NeoYokohama ToDo</title>
-		<titleShort>NeoYokohama ToDo</titleShort>
-		<baseDesc>ToDo.</baseDesc>
+		<defName>Anneli_NeoYokohama_Punk</defName>
+		<title>Punk</title>
+		<titleShort>Punk</titleShort>
+		<baseDesc>[PAWN_nameDef] acts as a local gangster, who has a knack for shooting and a swagger that says she's the next rap queen.</baseDesc>
 		<slot>Adulthood</slot>
 		<skillGains>
-
+			<Shooting>4</Shooting>
+			<Artistic>4</Artistic>
 		</skillGains>
 		<spawnCategories>
 			<li>Anneli_Story_NeoYokohama</li>
@@ -154,13 +169,14 @@
 	</AlienRace.AlienBackstoryDef>
 
 	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
-		<defName>Anneli_NeoYokohama_11_ToDo</defName>
-		<title>Annelitrice NeoYokohama ToDo</title>
-		<titleShort>NeoYokohama ToDo</titleShort>
-		<baseDesc>ToDo.</baseDesc>
+		<defName>Anneli_NeoYokohama_UnlicensedDoctor</defName>
+		<title>Unlicensed Doctor</title>
+		<titleShort>Doctor</titleShort>
+		<baseDesc>[PAWN_nameDef] acts as a doctor, with a 50% chance of saving lives or ending them.</baseDesc>
 		<slot>Adulthood</slot>
 		<skillGains>
-
+			<Melee>4</Melee>
+			<Medicine>4</Medicine>
 		</skillGains>
 		<spawnCategories>
 			<li>Anneli_Story_NeoYokohama</li>
@@ -169,13 +185,14 @@
 	</AlienRace.AlienBackstoryDef>
 
 	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
-		<defName>Anneli_NeoYokohama_12_ToDo</defName>
-		<title>Annelitrice NeoYokohama ToDo</title>
-		<titleShort>NeoYokohama ToDo</titleShort>
-		<baseDesc>ToDo.</baseDesc>
+		<defName>Anneli_NeoYokohama_SewerDweller</defName>
+		<title>Sewer Dweller</title>
+		<titleShort>Sewer Dweller</titleShort>
+		<baseDesc>[PAWN_nameDef] acts as a homeless person in the depths of the city's underbelly, hunting bio-rats to sustain herself.</baseDesc>
 		<slot>Adulthood</slot>
 		<skillGains>
-
+			<Animals>4</Animals>
+			<Mining>4</Mining>
 		</skillGains>
 		<spawnCategories>
 			<li>Anneli_Story_NeoYokohama</li>

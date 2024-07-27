@@ -27,10 +27,7 @@
 		<apparel>
 			<wornGraphicPath>1AB/Anneli_NeoYokohama_BodyWrap</wornGraphicPath>
 			<tags>
-				<li>Anneli_NeoYokohama_Shomin</li>
 				<li>Anneli_NeoYokohama_Ronin</li>
-				<li>Anneli_NeoYokohama_Shinobi</li>
-				<li>Anneli_NeoYokohama_Geisha</li>
 				<li>Anneli_NeoYokohama_Samurai</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
@@ -120,6 +117,42 @@
 				<li>
 					<weight>10</weight>
 					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_Rope-->
+	<ThingDef ParentName="Anneli_NeoYokohama_1AB">
+		<defName>Anneli_NeoYokohama_Rope</defName>
+		<description>Dyeable.</description>
+		<label>(NeoYokohama)1AB_Rope</label>
+		<graphicData>
+			<texPath>1AB/Anneli_NeoYokohama_Rope</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>1AB/Anneli_NeoYokohama_Rope</wornGraphicPath>
+			<tags>
+				<li>Anneli_NeoYokohama_Shomin</li>
+				<li>Anneli_NeoYokohama_Shinobi</li>
+				<li>Anneli_NeoYokohama_Geisha</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(255,245,245,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(200,60,60,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(185,160,110,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
