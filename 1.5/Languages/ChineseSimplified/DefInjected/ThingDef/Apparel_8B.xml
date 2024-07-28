@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Anneli_NeoYokohama_CyborgWing_Bullet -->
+
+  <Anneli_NeoYokohama_CyborgWing_Bullet.label>cyborg wing bullet</Anneli_NeoYokohama_CyborgWing_Bullet.label>
+
+  <Anneli_NeoYokohama_CyborgWing.description>Dyeable.</Anneli_NeoYokohama_CyborgWing.description>
+  <Anneli_NeoYokohama_CyborgWing.label>(NeoYokohama)8B_CyborgWing</Anneli_NeoYokohama_CyborgWing.label>
+  <Anneli_NeoYokohama_CyborgWing.verbs.0.label>Wing</Anneli_NeoYokohama_CyborgWing.verbs.0.label>
+  <Anneli_NeoYokohama_CyborgWing.comps.0.verbProps.0.label>Wing</Anneli_NeoYokohama_CyborgWing.comps.0.verbProps.0.label>
+  <Anneli_NeoYokohama_CyborgWing.comps.0.verbProps.0.description>Wing.</Anneli_NeoYokohama_CyborgWing.comps.0.verbProps.0.description>
+
+
+  <!-- Anneli_NeoYokohama_Drone_Bullet -->
+
+  <Anneli_NeoYokohama_Drone_Bullet.label>Drone bullet</Anneli_NeoYokohama_Drone_Bullet.label>
+
+  <Anneli_NeoYokohama_Drone.description>Dyeable.</Anneli_NeoYokohama_Drone.description>
+  <Anneli_NeoYokohama_Drone.label>(NeoYokohama)8B_Drone</Anneli_NeoYokohama_Drone.label>
+  <Anneli_NeoYokohama_Drone.verbs.0.label>Drone</Anneli_NeoYokohama_Drone.verbs.0.label>
+  <Anneli_NeoYokohama_Drone.comps.0.verbProps.0.label>Drone</Anneli_NeoYokohama_Drone.comps.0.verbProps.0.label>
+  <Anneli_NeoYokohama_Drone.comps.0.verbProps.0.description>Drone.</Anneli_NeoYokohama_Drone.comps.0.verbProps.0.description>
+
+
+  <!-- Anneli_NeoYokohama_Wagasa_Bullet -->
+
+  <Anneli_NeoYokohama_Wagasa_Bullet.label>Wagasa bullet</Anneli_NeoYokohama_Wagasa_Bullet.label>
+
+
+  <!-- Anneli_NeoYokohama_Wagasa_Sound -->
+
+  <Anneli_NeoYokohama_Wagasa.description>Dyeable.</Anneli_NeoYokohama_Wagasa.description>
+  <Anneli_NeoYokohama_Wagasa.label>(NeoYokohama)8B_Wagasa</Anneli_NeoYokohama_Wagasa.label>
+  <Anneli_NeoYokohama_Wagasa.verbs.0.label>Wagasa</Anneli_NeoYokohama_Wagasa.verbs.0.label>
+  <Anneli_NeoYokohama_Wagasa.comps.0.verbProps.0.label>Wagasa</Anneli_NeoYokohama_Wagasa.comps.0.verbProps.0.label>
+  <Anneli_NeoYokohama_Wagasa.comps.0.verbProps.0.description>Wagasa.</Anneli_NeoYokohama_Wagasa.comps.0.verbProps.0.description>
+
+
+</LanguageData>
