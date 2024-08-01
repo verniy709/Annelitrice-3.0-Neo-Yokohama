@@ -3,32 +3,32 @@
 
   <!-- PawnKindList -->
 
-  <Anneli_NeoYokohama_Leader.label>NeoYokohama_CEO</Anneli_NeoYokohama_Leader.label>
-  <Anneli_NeoYokohama_SalarypersonA.label>NeoYokohama_Salaryperson</Anneli_NeoYokohama_SalarypersonA.label>
-  <Anneli_NeoYokohama_SalarypersonB.label>NeoYokohama_Salaryperson</Anneli_NeoYokohama_SalarypersonB.label>
-  <Anneli_NeoYokohama_Cop.label>NeoYokohama_Cop</Anneli_NeoYokohama_Cop.label>
-  <Anneli_NeoYokohama_TacticalOperator.label>NeoYokohama_TacticalOperator</Anneli_NeoYokohama_TacticalOperator.label>
-  <Anneli_NeoYokohama_HomelessPerson.label>NeoYokohama_HomelessPerson</Anneli_NeoYokohama_HomelessPerson.label>
-  <Anneli_NeoYokohama_Civilian.label>NeoYokohama_Civilian</Anneli_NeoYokohama_Civilian.label>
-  <Anneli_NeoYokohama_ThugA.label>NeoYokohama_Thug</Anneli_NeoYokohama_ThugA.label>
-  <Anneli_NeoYokohama_ThugB.label>NeoYokohama_Thug</Anneli_NeoYokohama_ThugB.label>
-  <Anneli_NeoYokohama_BunnyGirlA.label>NeoYokohama_BunnyGirl</Anneli_NeoYokohama_BunnyGirlA.label>
-  <Anneli_NeoYokohama_BunnyGirlB.label>NeoYokohama_BunnyGirl</Anneli_NeoYokohama_BunnyGirlB.label>
-  <Anneli_NeoYokohama_HackerA.label>NeoYokohama_Hacker</Anneli_NeoYokohama_HackerA.label>
-  <Anneli_NeoYokohama_HackerB.label>NeoYokohama_Hacker</Anneli_NeoYokohama_HackerB.label>
-  <Anneli_NeoYokohama_Doctor.label>NeoYokohama_Doctor</Anneli_NeoYokohama_Doctor.label>
-  <Anneli_NeoYokohama_CyborgCombatantA.label>NeoYokohama_CyborgCombatant</Anneli_NeoYokohama_CyborgCombatantA.label>
-  <Anneli_NeoYokohama_CyborgCombatantB.label>NeoYokohama_CyborgCombatant</Anneli_NeoYokohama_CyborgCombatantB.label>
-  <Anneli_NeoYokohama_CyborgCombatantC.label>NeoYokohama_CyborgCombatant</Anneli_NeoYokohama_CyborgCombatantC.label>
-  <Anneli_NeoYokohama_ShominA.label>NeoYokohama_Shomin</Anneli_NeoYokohama_ShominA.label>
-  <Anneli_NeoYokohama_ShominB.label>NeoYokohama_Shomin</Anneli_NeoYokohama_ShominB.label>
-  <Anneli_NeoYokohama_ShominC.label>NeoYokohama_Shomin</Anneli_NeoYokohama_ShominC.label>
-  <Anneli_NeoYokohama_Ronin.label>NeoYokohama_Ronin</Anneli_NeoYokohama_Ronin.label>
-  <Anneli_NeoYokohama_Shinobi.label>NeoYokohama_Shinobi</Anneli_NeoYokohama_Shinobi.label>
-  <Anneli_NeoYokohama_GeishaA.label>NeoYokohama_Geisha</Anneli_NeoYokohama_GeishaA.label>
-  <Anneli_NeoYokohama_GeishaB.label>NeoYokohama_Geisha</Anneli_NeoYokohama_GeishaB.label>
-  <Anneli_NeoYokohama_SamuraiA.label>NeoYokohama_Samurai</Anneli_NeoYokohama_SamuraiA.label>
-  <Anneli_NeoYokohama_SamuraiB.label>NeoYokohama_Samurai</Anneli_NeoYokohama_SamuraiB.label>
+  <Anneli_NeoYokohama_Leader.label>新横滨_CEO</Anneli_NeoYokohama_Leader.label>
+  <Anneli_NeoYokohama_SalarypersonA.label>新横滨_上班族</Anneli_NeoYokohama_SalarypersonA.label>
+  <Anneli_NeoYokohama_SalarypersonB.label>新横滨_上班族</Anneli_NeoYokohama_SalarypersonB.label>
+  <Anneli_NeoYokohama_Cop.label>新横滨_警察</Anneli_NeoYokohama_Cop.label>
+  <Anneli_NeoYokohama_TacticalOperator.label>新横滨_特勤干员</Anneli_NeoYokohama_TacticalOperator.label>
+  <Anneli_NeoYokohama_HomelessPerson.label>新横滨_无家可归者</Anneli_NeoYokohama_HomelessPerson.label>
+  <Anneli_NeoYokohama_Civilian.label>新横滨_平民</Anneli_NeoYokohama_Civilian.label>
+  <Anneli_NeoYokohama_ThugA.label>新横滨_恶棍</Anneli_NeoYokohama_ThugA.label>
+  <Anneli_NeoYokohama_ThugB.label>新横滨_恶棍</Anneli_NeoYokohama_ThugB.label>
+  <Anneli_NeoYokohama_BunnyGirlA.label>新横滨_兔女郎</Anneli_NeoYokohama_BunnyGirlA.label>
+  <Anneli_NeoYokohama_BunnyGirlB.label>新横滨_兔女郎</Anneli_NeoYokohama_BunnyGirlB.label>
+  <Anneli_NeoYokohama_HackerA.label>新横滨_黑客</Anneli_NeoYokohama_HackerA.label>
+  <Anneli_NeoYokohama_HackerB.label>新横滨_黑客</Anneli_NeoYokohama_HackerB.label>
+  <Anneli_NeoYokohama_Doctor.label>新横滨_医生</Anneli_NeoYokohama_Doctor.label>
+  <Anneli_NeoYokohama_CyborgCombatantA.label>新横滨_改造战斗员</Anneli_NeoYokohama_CyborgCombatantA.label>
+  <Anneli_NeoYokohama_CyborgCombatantB.label>新横滨_改造战斗员</Anneli_NeoYokohama_CyborgCombatantB.label>
+  <Anneli_NeoYokohama_CyborgCombatantC.label>新横滨_改造战斗员</Anneli_NeoYokohama_CyborgCombatantC.label>
+  <Anneli_NeoYokohama_ShominA.label>新横滨_庶民</Anneli_NeoYokohama_ShominA.label>
+  <Anneli_NeoYokohama_ShominB.label>新横滨_庶民</Anneli_NeoYokohama_ShominB.label>
+  <Anneli_NeoYokohama_ShominC.label>新横滨_庶民</Anneli_NeoYokohama_ShominC.label>
+  <Anneli_NeoYokohama_Ronin.label>新横滨_浪人</Anneli_NeoYokohama_Ronin.label>
+  <Anneli_NeoYokohama_Shinobi.label>新横滨_忍者</Anneli_NeoYokohama_Shinobi.label>
+  <Anneli_NeoYokohama_GeishaA.label>新横滨_艺妓</Anneli_NeoYokohama_GeishaA.label>
+  <Anneli_NeoYokohama_GeishaB.label>新横滨_艺妓</Anneli_NeoYokohama_GeishaB.label>
+  <Anneli_NeoYokohama_SamuraiA.label>新横滨_武士</Anneli_NeoYokohama_SamuraiA.label>
+  <Anneli_NeoYokohama_SamuraiB.label>新横滨_武士</Anneli_NeoYokohama_SamuraiB.label>
 
 
 </LanguageData>

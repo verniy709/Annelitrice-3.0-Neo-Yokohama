@@ -6,7 +6,7 @@
 	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
 		<defName>Anneli_NeoYokohama_HomelyShinobi</defName>
 		<title>Homely Shinobi</title>
-		<titleShort>Ninja</titleShort>
+		<titleShort>Shinobi</titleShort>
 		<baseDesc>[PAWN_nameDef] acts as a homely shinobi. She used her talents to create a peaceful and nurturing environment at home.</baseDesc>
 		<slot>Adulthood</slot>
 		<skillGains>

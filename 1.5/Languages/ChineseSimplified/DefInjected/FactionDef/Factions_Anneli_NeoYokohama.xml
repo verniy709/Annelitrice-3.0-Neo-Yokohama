@@ -1,11 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Anneli_Faction_NeoYokohama.label>Anneli Faction Neo-Yokohama Syndicate</Anneli_Faction_NeoYokohama.label>
-  <Anneli_Faction_NeoYokohama.description>"All birds are drones used by the archotechnological deities to surveil and restrict our freedom!" Conspiracy theorists hired by a dark mega-corporation wave their flyers, making people believe that the entire world is controlled by three evil archotechnological deities. They propagated that to avoid being enslaved by these gods, all material and information exchanges with the untrustworthy must be completely cut off.\n\nBelievers of the conspiracy theory thus moved to Neo Yokohama underground city, a completely isolated sanctuary. However, from the beginning, this city has shown clear class divisions. Corporate executives and high-tech samurai enjoy high salaries and benefits, while the ordinary people face death from overwork, drug abuse, and harsh working conditions. Neo Yokohama also enforces an isolationist policy, proclaiming that all outsiders are spies controlled by the archotechnological deities.\n\nThe movie depicts the uprising of citizens in New-Yokohama and the gradual revelation of the city's truth: the so-called archotechnological deities are merely a means to deceive people into becoming slave laborers for the corporation.</Anneli_Faction_NeoYokohama.description>
-  <Anneli_Faction_NeoYokohama.pawnsPlural>Annelitrice</Anneli_Faction_NeoYokohama.pawnsPlural>
-  <Anneli_Faction_NeoYokohama.fixedName>Forged Syndicate</Anneli_Faction_NeoYokohama.fixedName>
-  <Anneli_Faction_NeoYokohama.leaderTitle>Chief Executive Officer</Anneli_Faction_NeoYokohama.leaderTitle>
+  <Anneli_Faction_NeoYokohama.label>安妮莉特丝新横滨财团</Anneli_Faction_NeoYokohama.label>
+  <Anneli_Faction_NeoYokohama.description>“所有鸟类都是超凡机械神明用来监视和限制我们自由的无人机！”暗黑企业所雇佣的阴谋论者挥舞着传单，使人们相信整个世界都被三个邪恶的机械神明所控制。在她们的宣传中，为了避免被这些神明奴役，最好的方法就是尽力切断与外界的物质和信息交流。\n\n于是，信奉这些阴谋论的人们迁移到了新横滨地下城市，一处隐蔽的避难所。然而，从一开始，这座城市就表现出明显的阶级分化。企业高管和科技武士享受高薪和优厚福利，而普通人则面临过劳死、药物滥用和恶劣工作条件的威胁。新横滨还推行排外的孤立主义政策，因为任何外来者都可能是被神明所操纵的间谍。\n\n这部电影描绘了新横滨市民的起义，以及对城市真相的逐步揭露：所谓的超凡机械神明根本是无稽之谈，这只是用来吓唬普通人，让她们自以为危在旦夕并为暗黑企业卖命。</Anneli_Faction_NeoYokohama.description>
+  <Anneli_Faction_NeoYokohama.pawnsPlural>安妮莉特丝</Anneli_Faction_NeoYokohama.pawnsPlural>
+  <Anneli_Faction_NeoYokohama.fixedName>伪造的财团</Anneli_Faction_NeoYokohama.fixedName>
+  <Anneli_Faction_NeoYokohama.leaderTitle>首席执行官</Anneli_Faction_NeoYokohama.leaderTitle>
 
 
 </LanguageData>
