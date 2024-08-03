@@ -403,6 +403,17 @@
 			<li>SpacerMelee</li>
 			<li>UltratechMelee</li>
 		</weaponTags>
+		<modExtensions Inherit="False">
+			<li Class="VFECore.PawnKindDefExtension">
+				<shieldMoney>
+					<min>100</min>
+					<max>400</max>
+				</shieldMoney>
+				<shieldTags>
+					<li>NeoYokohama_CyborgShield</li>
+				</shieldTags>
+			</li>
+		</modExtensions>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_NeoYokohama_KindBase">
@@ -430,6 +441,17 @@
 			<li>SpacerMelee</li>
 			<li>UltratechMelee</li>
 		</weaponTags>
+		<modExtensions Inherit="False">
+			<li Class="VFECore.PawnKindDefExtension">
+				<shieldMoney>
+					<min>100</min>
+					<max>400</max>
+				</shieldMoney>
+				<shieldTags>
+					<li>NeoYokohama_CyborgShield</li>
+				</shieldTags>
+			</li>
+		</modExtensions>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_NeoYokohama_KindBase">

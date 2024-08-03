@@ -27,7 +27,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_2C_NonMetal">
 		<defName>Anneli_NeoYokohama_Boots</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)2C_Boots</label>
+		<label>(NeoY)2C_Boots</label>
 		<graphicData>
 			<texPath>2C/Anneli_NeoYokohama_Boots</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -57,7 +57,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_2C_NonMetal">
 		<defName>Anneli_NeoYokohama_BunnyHeels</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)2C_BunnyHeels</label>
+		<label>(NeoY)2C_BunnyHeels</label>
 		<graphicData>
 			<texPath>2C/Anneli_NeoYokohama_BunnyHeels</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -83,7 +83,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_2C_NonMetal">
 		<defName>Anneli_NeoYokohama_Geta</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)2C_Geta</label>
+		<label>(NeoY)2C_Geta</label>
 		<graphicData>
 			<texPath>2C/Anneli_NeoYokohama_Geta</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -123,7 +123,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_2C_NonMetal">
 		<defName>Anneli_NeoYokohama_LeatherShoes</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)2C_LeatherShoes</label>
+		<label>(NeoY)2C_LeatherShoes</label>
 		<graphicData>
 			<texPath>2C/Anneli_NeoYokohama_LeatherShoes</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -158,7 +158,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_2C_NonMetal">
 		<defName>Anneli_NeoYokohama_LongBoots</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)2C_LongBoots</label>
+		<label>(NeoY)2C_LongBoots</label>
 		<graphicData>
 			<texPath>2C/Anneli_NeoYokohama_LongBoots</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -185,7 +185,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_2C_NonMetal">
 		<defName>Anneli_NeoYokohama_Sandals</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)2C_Sandals</label>
+		<label>(NeoY)2C_Sandals</label>
 		<graphicData>
 			<texPath>2C/Anneli_NeoYokohama_Sandals</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -221,7 +221,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_2C_NonMetal">
 		<defName>Anneli_NeoYokohama_ShinobiSandals</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)2C_ShinobiSandals</label>
+		<label>(NeoY)2C_ShinobiSandals</label>
 		<graphicData>
 			<texPath>2C/Anneli_NeoYokohama_ShinobiSandals</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -254,7 +254,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_2C_NonMetal">
 		<defName>Anneli_NeoYokohama_Sneakers</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)2C_Sneakers</label>
+		<label>(NeoY)2C_Sneakers</label>
 		<graphicData>
 			<texPath>2C/Anneli_NeoYokohama_Sneakers</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -281,7 +281,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_2C_NonMetal">
 		<defName>Anneli_NeoYokohama_TacticalBoots</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)2C_TacticalBoots</label>
+		<label>(NeoY)2C_TacticalBoots</label>
 		<graphicData>
 			<texPath>2C/Anneli_NeoYokohama_TacticalBoots</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -308,7 +308,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_2C_Metal">
 		<defName>Anneli_NeoYokohama_Sollerets</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)2C_Sollerets</label>
+		<label>(NeoY)2C_Sollerets</label>
 		<graphicData>
 			<texPath>2C/Anneli_NeoYokohama_Sollerets</texPath>
 			<graphicClass>Graphic_Single</graphicClass>

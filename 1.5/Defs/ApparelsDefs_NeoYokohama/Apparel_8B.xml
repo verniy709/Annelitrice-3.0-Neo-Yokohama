@@ -31,7 +31,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_8B">
 		<defName>Anneli_NeoYokohama_CyborgWing</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)8B_CyborgWing</label>
+		<label>(NeoY)8B_CyborgWing</label>
 		<graphicData>
 			<texPath>8B/Anneli_NeoYokohama_CyborgWing</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -129,7 +129,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_8B">
 		<defName>Anneli_NeoYokohama_Drone</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)8B_Drone</label>
+		<label>(NeoY)8B_Drone</label>
 		<graphicData>
 			<texPath>8B/Anneli_NeoYokohama_Drone</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -253,7 +253,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_8B">
 		<defName>Anneli_NeoYokohama_Wagasa</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)8B_Wagasa</label>
+		<label>(NeoY)8B_Wagasa</label>
 		<graphicData>
 			<texPath>8B/Anneli_NeoYokohama_Wagasa</texPath>
 			<graphicClass>Graphic_Single</graphicClass>

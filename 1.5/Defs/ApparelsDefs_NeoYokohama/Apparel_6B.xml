@@ -33,7 +33,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_6B_NonMetal">
 		<defName>Anneli_NeoYokohama_GogglesA</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)6B_GogglesA</label>
+		<label>(NeoY)6B_GogglesA</label>
 		<graphicData>
 			<texPath>6B/Anneli_NeoYokohama_GogglesA</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -62,7 +62,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_6B_NonMetal">
 		<defName>Anneli_NeoYokohama_GogglesB</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)6B_GogglesB</label>
+		<label>(NeoY)6B_GogglesB</label>
 		<graphicData>
 			<texPath>6B/Anneli_NeoYokohama_GogglesB</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -91,7 +91,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_6B_NonMetal">
 		<defName>Anneli_NeoYokohama_GogglesC</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)6B_GogglesC</label>
+		<label>(NeoY)6B_GogglesC</label>
 		<graphicData>
 			<texPath>6B/Anneli_NeoYokohama_GogglesC</texPath>
 			<graphicClass>Graphic_Single</graphicClass>

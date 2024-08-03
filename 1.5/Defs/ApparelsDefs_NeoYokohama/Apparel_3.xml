@@ -19,7 +19,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_3">
 		<defName>Anneli_NeoYokohama_Blazer</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)3_Blazer</label>
+		<label>(NeoY)3_Blazer</label>
 		<graphicData>
 			<texPath>3/Anneli_NeoYokohama_Blazer</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -45,7 +45,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_3">
 		<defName>Anneli_NeoYokohama_Dogi</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)3_Dogi</label>
+		<label>(NeoY)3_Dogi</label>
 		<graphicData>
 			<texPath>3/Anneli_NeoYokohama_Dogi</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -83,7 +83,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_3">
 		<defName>Anneli_NeoYokohama_KimonoA</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)3_KimonoA</label>
+		<label>(NeoY)3_KimonoA</label>
 		<graphicData>
 			<texPath>3/Anneli_NeoYokohama_KimonoA</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -121,7 +121,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_3">
 		<defName>Anneli_NeoYokohama_KimonoB</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)3_KimonoB</label>
+		<label>(NeoY)3_KimonoB</label>
 		<graphicData>
 			<texPath>3/Anneli_NeoYokohama_KimonoB</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -156,7 +156,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_3">
 		<defName>Anneli_NeoYokohama_Jacket</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)3_Jacket</label>
+		<label>(NeoY)3_Jacket</label>
 		<graphicData>
 			<texPath>3/Anneli_NeoYokohama_Jacket</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -182,7 +182,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_3">
 		<defName>Anneli_NeoYokohama_ShortCoat</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)3_ShortCoat</label>
+		<label>(NeoY)3_ShortCoat</label>
 		<graphicData>
 			<texPath>3/Anneli_NeoYokohama_ShortCoat</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -209,7 +209,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_3">
 		<defName>Anneli_NeoYokohama_TacticalCoat</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)3_TacticalCoat</label>
+		<label>(NeoY)3_TacticalCoat</label>
 		<graphicData>
 			<texPath>3/Anneli_NeoYokohama_TacticalCoat</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -235,7 +235,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_3">
 		<defName>Anneli_NeoYokohama_TrenchCoat</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)3_TrenchCoat</label>
+		<label>(NeoY)3_TrenchCoat</label>
 		<graphicData>
 			<texPath>3/Anneli_NeoYokohama_TrenchCoat</texPath>
 			<graphicClass>Graphic_Single</graphicClass>

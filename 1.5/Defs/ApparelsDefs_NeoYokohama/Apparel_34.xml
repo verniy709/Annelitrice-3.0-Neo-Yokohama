@@ -19,7 +19,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_34">
 		<defName>Anneli_NeoYokohama_CyborgArmorA</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)34_CyborgArmorA</label>
+		<label>(NeoY)34_CyborgArmorA</label>
 		<graphicData>
 			<texPath>34/Anneli_NeoYokohama_CyborgArmorA</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -45,7 +45,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_34">
 		<defName>Anneli_NeoYokohama_CyborgArmorB</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)34_CyborgArmorB</label>
+		<label>(NeoY)34_CyborgArmorB</label>
 		<graphicData>
 			<texPath>34/Anneli_NeoYokohama_CyborgArmorB</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -71,7 +71,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_34">
 		<defName>Anneli_NeoYokohama_SamuraiArmor</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)34_SamuraiArmor</label>
+		<label>(NeoY)34_SamuraiArmor</label>
 		<graphicData>
 			<texPath>34/Anneli_NeoYokohama_SamuraiArmor</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -97,7 +97,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_34">
 		<defName>Anneli_NeoYokohama_ShinobiArmor</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)34_ShinobiArmor</label>
+		<label>(NeoY)34_ShinobiArmor</label>
 		<graphicData>
 			<texPath>34/Anneli_NeoYokohama_ShinobiArmor</texPath>
 			<graphicClass>Graphic_Single</graphicClass>

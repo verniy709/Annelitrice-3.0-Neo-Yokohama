@@ -58,7 +58,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_8A">
 		<defName>Anneli_NeoYokohama_ElectricGuitar</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)8A_ElectricGuitar</label>
+		<label>(NeoY)8A_ElectricGuitar</label>
 		<graphicData>
 			<texPath>8A/Anneli_NeoYokohama_ElectricGuitar</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -126,7 +126,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_8A">
 		<defName>Anneli_NeoYokohama_SashimonoA</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)8A_SashimonoA</label>
+		<label>(NeoY)8A_SashimonoA</label>
 		<costStuffCount>20</costStuffCount>
 		<stuffCategories>
 			<li>Metallic</li>
@@ -179,7 +179,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_8A">
 		<defName>Anneli_NeoYokohama_SashimonoB</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)8A_SashimonoB</label>
+		<label>(NeoY)8A_SashimonoB</label>
 		<costStuffCount>20</costStuffCount>
 		<stuffCategories>
 			<li>Metallic</li>

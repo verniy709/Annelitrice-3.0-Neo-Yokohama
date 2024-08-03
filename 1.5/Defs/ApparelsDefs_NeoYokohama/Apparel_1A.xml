@@ -19,7 +19,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_1A">
 		<defName>Anneli_NeoYokohama_Bustier</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)1A_Bustier</label>
+		<label>(NeoY)1A_Bustier</label>
 		<graphicData>
 			<texPath>1A/Anneli_NeoYokohama_Bustier</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -46,7 +46,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_1A">
 		<defName>Anneli_NeoYokohama_Curtain</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)1A_Curtain</label>
+		<label>(NeoY)1A_Curtain</label>
 		<graphicData>
 			<texPath>1A/Anneli_NeoYokohama_Curtain</texPath>
 			<graphicClass>Graphic_Single</graphicClass>

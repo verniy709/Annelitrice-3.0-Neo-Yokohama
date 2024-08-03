@@ -27,7 +27,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_2C_5B_Metal">
 		<defName>Anneli_NeoYokohama_LongSollerets</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)2C_LongSollerets</label>
+		<label>(NeoY)2C_LongSollerets</label>
 		<graphicData>
 			<texPath>2C/Anneli_NeoYokohama_LongSollerets</texPath>
 			<graphicClass>Graphic_Single</graphicClass>

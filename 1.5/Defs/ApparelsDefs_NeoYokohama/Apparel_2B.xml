@@ -19,7 +19,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_2B">
 		<defName>Anneli_NeoYokohama_DenimShorts</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)2B_DenimShorts</label>
+		<label>(NeoY)2B_DenimShorts</label>
 		<graphicData>
 			<texPath>2B/Anneli_NeoYokohama_DenimShorts</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -45,7 +45,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_2B">
 		<defName>Anneli_NeoYokohama_DressPants</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)2B_DressPants</label>
+		<label>(NeoY)2B_DressPants</label>
 		<graphicData>
 			<texPath>2B/Anneli_NeoYokohama_DressPants</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -71,7 +71,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_2B">
 		<defName>Anneli_NeoYokohama_LeatherPants</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)2B_LeatherPants</label>
+		<label>(NeoY)2B_LeatherPants</label>
 		<graphicData>
 			<texPath>2B/Anneli_NeoYokohama_LeatherPants</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -97,7 +97,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_2B">
 		<defName>Anneli_NeoYokohama_Skirt</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)2B_Skirt</label>
+		<label>(NeoY)2B_Skirt</label>
 		<graphicData>
 			<texPath>2B/Anneli_NeoYokohama_Skirt</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -123,7 +123,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_2B">
 		<defName>Anneli_NeoYokohama_TacticalPants</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)2B_TacticalPants</label>
+		<label>(NeoY)2B_TacticalPants</label>
 		<graphicData>
 			<texPath>2B/Anneli_NeoYokohama_TacticalPants</texPath>
 			<graphicClass>Graphic_Single</graphicClass>

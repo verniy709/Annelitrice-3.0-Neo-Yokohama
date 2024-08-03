@@ -27,7 +27,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_5B_NonMetal">
 		<defName>Anneli_NeoYokohama_Suneate</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)5B_Suneate</label>
+		<label>(NeoY)5B_Suneate</label>
 		<graphicData>
 			<texPath>5B/Anneli_NeoYokohama_Suneate</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -55,7 +55,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_5B_Metal">
 		<defName>Anneli_NeoYokohama_LegRig</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)5B_LegRig</label>
+		<label>(NeoY)5B_LegRig</label>
 		<graphicData>
 			<texPath>5B/Anneli_NeoYokohama_LegRig</texPath>
 			<graphicClass>Graphic_Single</graphicClass>

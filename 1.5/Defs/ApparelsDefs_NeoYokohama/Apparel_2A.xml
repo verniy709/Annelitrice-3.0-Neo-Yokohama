@@ -19,7 +19,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_2A">
 		<defName>Anneli_NeoYokohama_DutyShirt</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)2A_DutyShirt</label>
+		<label>(NeoY)2A_DutyShirt</label>
 		<graphicData>
 			<texPath>2A/Anneli_NeoYokohama_DutyShirt</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -45,7 +45,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_2A">
 		<defName>Anneli_NeoYokohama_TankTopA</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)2A_TankTopA</label>
+		<label>(NeoY)2A_TankTopA</label>
 		<graphicData>
 			<texPath>2A/Anneli_NeoYokohama_TankTopA</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -71,7 +71,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_2A">
 		<defName>Anneli_NeoYokohama_TankTopB</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)2A_TankTopB</label>
+		<label>(NeoY)2A_TankTopB</label>
 		<graphicData>
 			<texPath>2A/Anneli_NeoYokohama_TankTopB</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -97,7 +97,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_2A">
 		<defName>Anneli_NeoYokohama_TankTopC</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)2A_TankTopC</label>
+		<label>(NeoY)2A_TankTopC</label>
 		<graphicData>
 			<texPath>2A/Anneli_NeoYokohama_TankTopC</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -123,7 +123,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_2A">
 		<defName>Anneli_NeoYokohama_Top</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)2A_Top</label>
+		<label>(NeoY)2A_Top</label>
 		<graphicData>
 			<texPath>2A/Anneli_NeoYokohama_Top</texPath>
 			<graphicClass>Graphic_Single</graphicClass>

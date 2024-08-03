@@ -16,7 +16,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_6C">
 		<defName>Anneli_NeoYokohama_Balaclava</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)6C_Balaclava</label>
+		<label>(NeoY)6C_Balaclava</label>
 		<graphicData>
 			<texPath>6C/Anneli_NeoYokohama_Balaclava</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -44,7 +44,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_6C">
 		<defName>Anneli_NeoYokohama_Mask</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)6C_Mask</label>
+		<label>(NeoY)6C_Mask</label>
 		<graphicData>
 			<texPath>6C/Anneli_NeoYokohama_Mask</texPath>
 			<graphicClass>Graphic_Single</graphicClass>

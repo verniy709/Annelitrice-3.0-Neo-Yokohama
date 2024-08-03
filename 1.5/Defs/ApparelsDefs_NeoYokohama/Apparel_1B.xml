@@ -19,7 +19,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_1B">
 		<defName>Anneli_NeoYokohama_Thong</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)1B_Thong</label>
+		<label>(NeoY)1B_Thong</label>
 		<graphicData>
 			<texPath>1B/Anneli_NeoYokohama_Thong</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -45,7 +45,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_1B">
 		<defName>Anneli_NeoYokohama_Underwear</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)1B_Underwear</label>
+		<label>(NeoY)1B_Underwear</label>
 		<graphicData>
 			<texPath>1B/Anneli_NeoYokohama_Underwear</texPath>
 			<graphicClass>Graphic_Single</graphicClass>

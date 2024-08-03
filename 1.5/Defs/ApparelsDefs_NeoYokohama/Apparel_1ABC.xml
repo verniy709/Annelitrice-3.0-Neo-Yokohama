@@ -19,7 +19,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_1ABC">
 		<defName>Anneli_NeoYokohama_Catsuit</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)1ABC_Catsuit</label>
+		<label>(NeoY)1ABC_Catsuit</label>
 		<graphicData>
 			<texPath>1ABC/Anneli_NeoYokohama_Catsuit</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -47,7 +47,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_1ABC">
 		<defName>Anneli_NeoYokohama_FishnetCatsuit</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)1ABC_FishnetCatsuit</label>
+		<label>(NeoY)1ABC_FishnetCatsuit</label>
 		<graphicData>
 			<texPath>1ABC/Anneli_NeoYokohama_FishnetCatsuit</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -73,7 +73,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_1ABC">
 		<defName>Anneli_NeoYokohama_LatexCatsuit</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)1ABC_LatexCatsuit</label>
+		<label>(NeoY)1ABC_LatexCatsuit</label>
 		<graphicData>
 			<texPath>1ABC/Anneli_NeoYokohama_LatexCatsuit</texPath>
 			<graphicClass>Graphic_Single</graphicClass>

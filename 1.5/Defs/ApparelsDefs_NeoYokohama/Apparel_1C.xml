@@ -16,7 +16,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_1C">
 		<defName>Anneli_NeoYokohama_FishnetPantyhose</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)1C_FishnetPantyhose</label>
+		<label>(NeoY)1C_FishnetPantyhose</label>
 		<graphicData>
 			<texPath>1C/Anneli_NeoYokohama_FishnetPantyhose</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -43,7 +43,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_1C">
 		<defName>Anneli_NeoYokohama_FishnetStockingsA</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)1C_FishnetStockingsA</label>
+		<label>(NeoY)1C_FishnetStockingsA</label>
 		<graphicData>
 			<texPath>1C/Anneli_NeoYokohama_FishnetStockingsA</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -73,7 +73,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_1C">
 		<defName>Anneli_NeoYokohama_FishnetStockingsB</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)1C_FishnetStockingsB</label>
+		<label>(NeoY)1C_FishnetStockingsB</label>
 		<graphicData>
 			<texPath>1C/Anneli_NeoYokohama_FishnetStockingsB</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -102,7 +102,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_1C">
 		<defName>Anneli_NeoYokohama_StockingsA</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)1C_StockingsA</label>
+		<label>(NeoY)1C_StockingsA</label>
 		<graphicData>
 			<texPath>1C/Anneli_NeoYokohama_StockingsA</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -130,7 +130,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_1C">
 		<defName>Anneli_NeoYokohama_StockingsB</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)1C_StockingsB</label>
+		<label>(NeoY)1C_StockingsB</label>
 		<graphicData>
 			<texPath>1C/Anneli_NeoYokohama_StockingsB</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -158,7 +158,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_1C">
 		<defName>Anneli_NeoYokohama_Tabi</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)1C_Tabi</label>
+		<label>(NeoY)1C_Tabi</label>
 		<graphicData>
 			<texPath>1C/Anneli_NeoYokohama_Tabi</texPath>
 			<graphicClass>Graphic_Single</graphicClass>

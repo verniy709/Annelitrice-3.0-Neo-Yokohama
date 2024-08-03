@@ -27,7 +27,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_7_NonMetal">
 		<defName>Anneli_NeoYokohama_DuffleBag</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)7_DuffleBag</label>
+		<label>(NeoY)7_DuffleBag</label>
 		<graphicData>
 			<texPath>7/Anneli_NeoYokohama_DuffleBag</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -57,7 +57,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_7_NonMetal">
 		<defName>Anneli_NeoYokohama_Kinchaku</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)7_Kinchaku</label>
+		<label>(NeoY)7_Kinchaku</label>
 		<graphicData>
 			<texPath>7/Anneli_NeoYokohama_Kinchaku</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -96,7 +96,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_7_Metal">
 		<defName>Anneli_NeoYokohama_GearDock</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)7_GearDock</label>
+		<label>(NeoY)7_GearDock</label>
 		<graphicData>
 			<texPath>7/Anneli_NeoYokohama_GearDock</texPath>
 			<graphicClass>Graphic_Single</graphicClass>

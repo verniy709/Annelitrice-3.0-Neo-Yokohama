@@ -103,7 +103,7 @@
    <!--Anneli_NeoYokohama_CyborgShield-->
     <ThingDef ParentName="Anneli_NeoYokohama_8C_BaseVFEShield">
         <defName>Anneli_NeoYokohama_CyborgShield</defName>
-        <label>(NeoYokohama)8C_CyborgShield</label>
+        <label>(NeoY)8C_CyborgShield</label>
         <description>Dyeable. But the color of shields has a bug.</description>
         <graphicData>
             <texPath>8C/Anneli_NeoYokohama_CyborgShield</texPath>
@@ -127,22 +127,22 @@
                     <texPath>8C/Anneli_NeoYokohama_CyborgShield</texPath>
                     <graphicClass>Graphic_Multi</graphicClass>
                     <shaderType>CutoutComplex</shaderType>
-                    <drawSize>1.2</drawSize>
+                    <drawSize>1.3</drawSize>
                 </offHandGraphicData>
                 <offHandHoldOffset>
                     <northDefault>
-                        <offset>(-0.15, 0, 0.15)</offset>
+                        <offset>(-0.15, 0, 0.18)</offset>
                         <behind>true</behind>
                     </northDefault>
                     <east>
-                        <offset>(0.04, 0, 0.19)</offset>
+                        <offset>(0.04, 0, 0.22)</offset>
                         <behind>false</behind>
                     </east>
                     <south>
-                        <offset>(0.15, 0.5, 0.15)</offset>
+                        <offset>(0.15, 0.5, 0.18)</offset>
                     </south>
                     <west>
-                        <offset>(-0.04, 0, 0.19)</offset>
+                        <offset>(-0.04, 0, 0.22)</offset>
                     </west>
                 </offHandHoldOffset>
             </li>
@@ -151,7 +151,7 @@
             <options>
                 <li>
                     <weight>10</weight>
-                    <only>(205,200,205,255)</only>
+                    <only>(50,45,50,255)</only>
                 </li>
             </options>
         </colorGenerator>

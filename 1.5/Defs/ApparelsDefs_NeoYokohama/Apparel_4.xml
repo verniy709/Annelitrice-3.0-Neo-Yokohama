@@ -16,7 +16,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_4">
 		<defName>Anneli_NeoYokohama_BodyArmor</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)4_BodyArmor</label>
+		<label>(NeoY)4_BodyArmor</label>
 		<graphicData>
 			<texPath>4/Anneli_NeoYokohama_BodyArmor</texPath>
 			<graphicClass>Graphic_Single</graphicClass>

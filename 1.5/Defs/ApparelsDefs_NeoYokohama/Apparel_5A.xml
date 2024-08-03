@@ -16,7 +16,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_5A">
 		<defName>Anneli_NeoYokohama_CyborgBustle</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)5A_CyborgBustle</label>
+		<label>(NeoY)5A_CyborgBustle</label>
 		<graphicData>
 			<texPath>5A/Anneli_NeoYokohama_CyborgBustle</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -43,7 +43,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_5A">
 		<defName>Anneli_NeoYokohama_SamuraiCloak</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)5A_SamuraiCloak</label>
+		<label>(NeoY)5A_SamuraiCloak</label>
 		<graphicData>
 			<texPath>5A/Anneli_NeoYokohama_SamuraiCloak</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -70,7 +70,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_5A">
 		<defName>Anneli_NeoYokohama_Shawl</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)5A_Shawl</label>
+		<label>(NeoY)5A_Shawl</label>
 		<graphicData>
 			<texPath>5A/Anneli_NeoYokohama_Shawl</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -97,7 +97,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_5A">
 		<defName>Anneli_NeoYokohama_ShinobiScarf</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)5A_ShinobiScarf</label>
+		<label>(NeoY)5A_ShinobiScarf</label>
 		<graphicData>
 			<texPath>5A/Anneli_NeoYokohama_ShinobiScarf</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -124,7 +124,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_5A">
 		<defName>Anneli_NeoYokohama_TacticalVest</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)5A_TacticalVest</label>
+		<label>(NeoY)5A_TacticalVest</label>
 		<graphicData>
 			<texPath>5A/Anneli_NeoYokohama_TacticalVest</texPath>
 			<graphicClass>Graphic_Single</graphicClass>

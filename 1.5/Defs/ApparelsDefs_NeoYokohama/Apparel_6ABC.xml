@@ -33,7 +33,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_6ABC_Metal">
 		<defName>Anneli_NeoYokohama_NightVisionHelmet</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)6ABC_NightVisionHelmet</label>
+		<label>(NeoY)6ABC_NightVisionHelmet</label>
 		<graphicData>
 			<texPath>6ABC/Anneli_NeoYokohama_NightVisionHelmet</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -59,7 +59,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_6ABC_Metal">
 		<defName>Anneli_NeoYokohama_CyborgHelmet</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)6ABC_CyborgHelmet</label>
+		<label>(NeoY)6ABC_CyborgHelmet</label>
 		<graphicData>
 			<texPath>6ABC/Anneli_NeoYokohama_CyborgHelmet</texPath>
 			<graphicClass>Graphic_Single</graphicClass>

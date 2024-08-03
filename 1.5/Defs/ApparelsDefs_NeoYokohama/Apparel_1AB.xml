@@ -19,7 +19,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_1AB">
 		<defName>Anneli_NeoYokohama_BodyWrap</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)1AB_BodyWrap</label>
+		<label>(NeoY)1AB_BodyWrap</label>
 		<graphicData>
 			<texPath>1AB/Anneli_NeoYokohama_BodyWrap</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -46,7 +46,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_1AB">
 		<defName>Anneli_NeoYokohama_Bodysuit</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)1AB_Bodysuit</label>
+		<label>(NeoY)1AB_Bodysuit</label>
 		<graphicData>
 			<texPath>1AB/Anneli_NeoYokohama_Bodysuit</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -73,7 +73,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_1AB">
 		<defName>Anneli_NeoYokohama_FishnetBodysuit</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)1AB_FishnetBodysuit</label>
+		<label>(NeoY)1AB_FishnetBodysuit</label>
 		<graphicData>
 			<texPath>1AB/Anneli_NeoYokohama_FishnetBodysuit</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -99,7 +99,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_1AB">
 		<defName>Anneli_NeoYokohama_LatexBodysuit</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)1AB_LatexBodysuit</label>
+		<label>(NeoY)1AB_LatexBodysuit</label>
 		<graphicData>
 			<texPath>1AB/Anneli_NeoYokohama_LatexBodysuit</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -126,7 +126,7 @@
 	<ThingDef ParentName="Anneli_NeoYokohama_1AB">
 		<defName>Anneli_NeoYokohama_Rope</defName>
 		<description>Dyeable.</description>
-		<label>(NeoYokohama)1AB_Rope</label>
+		<label>(NeoY)1AB_Rope</label>
 		<graphicData>
 			<texPath>1AB/Anneli_NeoYokohama_Rope</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
