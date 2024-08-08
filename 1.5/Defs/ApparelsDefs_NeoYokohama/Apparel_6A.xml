@@ -114,7 +114,7 @@
 	</ThingDef>
 
 	<!--Anneli_NeoYokohama_FoxMaskOnHead-->
-	<ThingDef ParentName="Anneli_NeoYokohama_6A_NonMetal">
+	<ThingDef ParentName="Anneli_NeoYokohama_6A_Metal">
 		<defName>Anneli_NeoYokohama_FoxMaskOnHead</defName>
 		<description>Dyeable.</description>
 		<label>(NeoY)6A_FoxMaskOnHead</label>
@@ -172,7 +172,7 @@
 	</ThingDef>
 
 	<!--Anneli_NeoYokohama_Helmet-->
-	<ThingDef ParentName="Anneli_NeoYokohama_6A_NonMetal">
+	<ThingDef ParentName="Anneli_NeoYokohama_6A_Metal">
 		<defName>Anneli_NeoYokohama_Helmet</defName>
 		<description>Dyeable.</description>
 		<label>(NeoY)6A_Helmet</label>
@@ -199,7 +199,7 @@
 	</ThingDef>
 
 	<!--Anneli_NeoYokohama_Kabuto-->
-	<ThingDef ParentName="Anneli_NeoYokohama_6A_NonMetal">
+	<ThingDef ParentName="Anneli_NeoYokohama_6A_Metal">
 		<defName>Anneli_NeoYokohama_Kabuto</defName>
 		<description>Dyeable.</description>
 		<label>(NeoY)6A_Kabuto</label>
@@ -303,7 +303,7 @@
 	</ThingDef>
 
 	<!--Anneli_NeoYokohama_SunglassesOnHead-->
-	<ThingDef ParentName="Anneli_NeoYokohama_6A_NonMetal">
+	<ThingDef ParentName="Anneli_NeoYokohama_6A_Metal">
 		<defName>Anneli_NeoYokohama_SunglassesOnHead</defName>
 		<description>Dyeable.</description>
 		<label>(NeoY)6A_SunglassesOnHead</label>
@@ -339,7 +339,7 @@
 	</ThingDef>
 
 	<!--Anneli_NeoYokohama_TacticalHeadsetA-->
-	<ThingDef ParentName="Anneli_NeoYokohama_6A_NonMetal">
+	<ThingDef ParentName="Anneli_NeoYokohama_6A_Metal">
 		<defName>Anneli_NeoYokohama_TacticalHeadsetA</defName>
 		<description>Dyeable.</description>
 		<label>(NeoY)6A_TacticalHeadsetA</label>
@@ -365,7 +365,7 @@
 	</ThingDef>
 
 	<!--Anneli_NeoYokohama_TacticalHeadsetB-->
-	<ThingDef ParentName="Anneli_NeoYokohama_6A_NonMetal">
+	<ThingDef ParentName="Anneli_NeoYokohama_6A_Metal">
 		<defName>Anneli_NeoYokohama_TacticalHeadsetB</defName>
 		<description>Dyeable.</description>
 		<label>(NeoY)6A_TacticalHeadsetB</label>

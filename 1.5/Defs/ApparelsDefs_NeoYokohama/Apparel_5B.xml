@@ -24,7 +24,7 @@
 	</ThingDef>
 
 <!--Anneli_NeoYokohama_Suneate-->
-	<ThingDef ParentName="Anneli_NeoYokohama_5B_NonMetal">
+	<ThingDef ParentName="Anneli_NeoYokohama_5B_Metal">
 		<defName>Anneli_NeoYokohama_Suneate</defName>
 		<description>Dyeable.</description>
 		<label>(NeoY)5B_Suneate</label>

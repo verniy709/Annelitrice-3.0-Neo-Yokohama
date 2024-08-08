@@ -293,7 +293,8 @@
 		<generateAllowChance>0.3</generateAllowChance><!--Less Spawn-->
 		<costStuffCount>100</costStuffCount>
 		<stuffCategories>
-			<li>Metallic</li>
+			<li>Leathery</li>
+			<li>Fabric</li>
 		</stuffCategories>
 		<statBases>
 			<WorkToMake>1000</WorkToMake>

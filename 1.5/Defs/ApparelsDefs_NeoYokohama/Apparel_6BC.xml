@@ -32,7 +32,7 @@
 	</ThingDef>
 
 	<!--Anneli_NeoYokohama_CyborgMask-->
-	<ThingDef ParentName="Anneli_NeoYokohama_6BC_NonMetal">
+	<ThingDef ParentName="Anneli_NeoYokohama_6BC_Metal">
 		<defName>Anneli_NeoYokohama_CyborgMask</defName>
 		<description>Dyeable.</description>
 		<label>(NeoY)6BC_CyborgMask</label>
@@ -60,7 +60,7 @@
 	</ThingDef>
 
 	<!--Anneli_NeoYokohama_FoxMask-->
-	<ThingDef ParentName="Anneli_NeoYokohama_6BC_NonMetal">
+	<ThingDef ParentName="Anneli_NeoYokohama_6BC_Metal">
 		<defName>Anneli_NeoYokohama_FoxMask</defName>
 		<description>Dyeable.</description>
 		<label>(NeoY)6BC_FoxMask</label>
@@ -117,7 +117,7 @@
 	</ThingDef>
 
 	<!--Anneli_NeoYokohama_HannyaMaskA-->
-	<ThingDef ParentName="Anneli_NeoYokohama_6BC_NonMetal">
+	<ThingDef ParentName="Anneli_NeoYokohama_6BC_Metal">
 		<defName>Anneli_NeoYokohama_HannyaMaskA</defName>
 		<description>Dyeable.</description>
 		<label>(NeoY)6BC_HannyaMaskA</label>
@@ -144,7 +144,7 @@
 	</ThingDef>
 
 	<!--Anneli_NeoYokohama_HannyaMaskB-->
-	<ThingDef ParentName="Anneli_NeoYokohama_6BC_NonMetal">
+	<ThingDef ParentName="Anneli_NeoYokohama_6BC_Metal">
 		<defName>Anneli_NeoYokohama_HannyaMaskB</defName>
 		<description>Dyeable.</description>
 		<label>(NeoY)6BC_HannyaMaskB</label>

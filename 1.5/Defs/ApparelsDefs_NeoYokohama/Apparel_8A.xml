@@ -129,7 +129,8 @@
 		<label>(NeoY)8A_SashimonoA</label>
 		<costStuffCount>20</costStuffCount>
 		<stuffCategories>
-			<li>Metallic</li>
+			<li>Leathery</li>
+			<li>Fabric</li>
 		</stuffCategories>
 		<statBases>
 			<WorkToMake>200</WorkToMake>
@@ -182,7 +183,8 @@
 		<label>(NeoY)8A_SashimonoB</label>
 		<costStuffCount>20</costStuffCount>
 		<stuffCategories>
-			<li>Metallic</li>
+			<li>Leathery</li>
+			<li>Fabric</li>
 		</stuffCategories>
 		<statBases>
 			<WorkToMake>200</WorkToMake>
