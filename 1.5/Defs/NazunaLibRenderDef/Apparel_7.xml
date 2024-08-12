@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_NeoYokohama_DuffleBag</defName>
+		<originalDef>Anneli_NeoYokohama_DuffleBag</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>7/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_NeoYokohama_DuffleBag</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel7</textureLevelsName>
+				<drawOffsetSouth>(0, 69, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 58, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 69, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 58, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_NeoYokohama_GearDock</defName>
+		<originalDef>Anneli_NeoYokohama_GearDock</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>7/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_NeoYokohama_GearDock</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel7</textureLevelsName>
+				<drawOffsetSouth>(0, 69, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 58, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 96, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 58, 0)</drawOffsetWest>
+				<meshSize>(1.8,1.8)</meshSize>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+			<li>
+				<prefix>
+					<li>Anneli_Back_NeoYokohama_GearDock</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel7_Back</textureLevelsName>
+				<drawOffsetSouth>(0, 18, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 18, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 18, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 18, 0)</drawOffsetWest>
+				<renderSwitch>(1, 0, 0)</renderSwitch>
+				<meshSize>(1.725,1.725)</meshSize><!-- mesh size 1.5*1.1.15(body) -->
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+			<li>
+				<prefix>
+					<li>Anneli_Halo_NeoYokohama_GearDock</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_OverlayBody</textureLevelsName>
+				<drawOffsetSouth>(0, -12, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 103, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 103, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 103, 0)</drawOffsetWest>
+				<meshSize>(1.725,1.725)</meshSize><!-- mesh size 1.5*1.1.15(body) -->
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+				<useStaticColor>true</useStaticColor>
+				<color>RGBA(0.99,0.99,0.99,1)</color>
+				<shaderType>Transparent</shaderType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_NeoYokohama_Kinchaku</defName>
+		<originalDef>Anneli_NeoYokohama_Kinchaku</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>7/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_NeoYokohama_Kinchaku</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel7</textureLevelsName>
+				<drawOffsetSouth>(0, 58, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 58, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 58, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 58, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+	
+</Defs>

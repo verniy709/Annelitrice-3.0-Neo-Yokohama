@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_NeoYokohama_ElectricGuitar</defName>
+		<originalDef>Anneli_NeoYokohama_ElectricGuitar</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>8A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_NeoYokohama_ElectricGuitar</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel8A</textureLevelsName>
+				<drawOffsetSouth>(0, 99, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 99, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 99, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 99, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+			<li>
+				<prefix>
+					<li>Anneli_Back_NeoYokohama_ElectricGuitar</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel8A_Back</textureLevelsName>
+				<drawOffsetSouth>(0, -9, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, -9, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, -9, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, -9, 0)</drawOffsetWest>
+				<renderSwitch>(0, 0, 1)</renderSwitch>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_NeoYokohama_SashimonoA</defName>
+		<originalDef>Anneli_NeoYokohama_SashimonoA</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>8A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_NeoYokohama_SashimonoA</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel8A</textureLevelsName>
+				<drawOffsetSouth>(0, 99, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, -9, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 99, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, -9, 0)</drawOffsetWest>
+				<meshSize>(2.59,2.59)</meshSize><!-- mesh size 1.5*1.5(canvas size)*1.15(body) -->
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+			<li>
+				<prefix>
+					<li>Anneli_Back_NeoYokohama_SashimonoA</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel8A_Back</textureLevelsName>
+				<drawOffsetSouth>(0, -9, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, -9, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, -9, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, -9, 0)</drawOffsetWest>
+				<meshSize>(2.59,2.59)</meshSize><!-- mesh size 1.5*1.5(canvas size)*1.15(body) -->
+				<renderSwitch>(1, 0, 0)</renderSwitch>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_NeoYokohama_SashimonoB</defName>
+		<originalDef>Anneli_NeoYokohama_SashimonoB</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>8A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_NeoYokohama_SashimonoB</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel8A</textureLevelsName>
+				<drawOffsetSouth>(0, 99, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, -9, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 99, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, -9, 0)</drawOffsetWest>
+				<meshSize>(2.59,2.59)</meshSize><!-- mesh size 1.5*1.5(canvas size)*1.15(body) -->
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+			<li>
+				<prefix>
+					<li>Anneli_Back_NeoYokohama_SashimonoB</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel8A_Back</textureLevelsName>
+				<drawOffsetSouth>(0, -9, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, -9, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, -9, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, -9, 0)</drawOffsetWest>
+				<renderSwitch>(1, 0, 0)</renderSwitch>
+				<meshSize>(2.59,2.59)</meshSize><!-- mesh size 1.5*1.5(canvas size)*1.15(body) -->
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+</Defs>

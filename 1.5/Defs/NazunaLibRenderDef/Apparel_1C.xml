@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_NeoYokohama_FishnetPantyhose</defName>
+		<originalDef>Anneli_NeoYokohama_FishnetPantyhose</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>1C/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_NeoYokohama_FishnetPantyhose</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel1C</textureLevelsName>
+				<drawOffsetSouth>(0, 38, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 38, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 38, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 38, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_NeoYokohama_FishnetStockingsA</defName>
+		<originalDef>Anneli_NeoYokohama_FishnetStockingsA</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>1C/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_NeoYokohama_FishnetStockingsA</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel1C</textureLevelsName>
+				<drawOffsetSouth>(0, 36, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 36, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 36, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 36, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_NeoYokohama_FishnetStockingsB</defName>
+		<originalDef>Anneli_NeoYokohama_FishnetStockingsB</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>1C/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_NeoYokohama_FishnetStockingsB</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel1C</textureLevelsName>
+				<drawOffsetSouth>(0, 36, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 36, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 36, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 36, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_NeoYokohama_StockingsA</defName>
+		<originalDef>Anneli_NeoYokohama_StockingsA</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>1C/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_NeoYokohama_StockingsA</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel1C</textureLevelsName>
+				<drawOffsetSouth>(0, 36, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 36, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 36, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 36, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_NeoYokohama_StockingsB</defName>
+		<originalDef>Anneli_NeoYokohama_StockingsB</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>1C/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_NeoYokohama_StockingsB</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel1C</textureLevelsName>
+				<drawOffsetSouth>(0, 36, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 36, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 36, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 36, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_NeoYokohama_Tabi</defName>
+		<originalDef>Anneli_NeoYokohama_Tabi</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>1C/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_NeoYokohama_Tabi</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel1C</textureLevelsName>
+				<drawOffsetSouth>(0, 36, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 36, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 36, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 36, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+</Defs>

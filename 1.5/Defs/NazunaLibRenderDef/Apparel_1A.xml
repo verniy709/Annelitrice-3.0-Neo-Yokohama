@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_NeoYokohama_Bustier</defName>
+		<originalDef>Anneli_NeoYokohama_Bustier</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>1A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_NeoYokohama_Bustier</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel1A</textureLevelsName>
+				<drawOffsetSouth>(0, 37, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 37, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 37, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 37, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_NeoYokohama_Curtain</defName>
+		<originalDef>Anneli_NeoYokohama_Curtain</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>1A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_NeoYokohama_Curtain</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel1A</textureLevelsName>
+				<drawOffsetSouth>(0, 39, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 39, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 39, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 39, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+</Defs>

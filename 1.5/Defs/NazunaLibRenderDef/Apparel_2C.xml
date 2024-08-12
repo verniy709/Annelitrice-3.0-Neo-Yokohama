@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_NeoYokohama_Boots</defName>
+		<originalDef>Anneli_NeoYokohama_Boots</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>2C/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_NeoYokohama_Boots</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel2C</textureLevelsName>
+				<drawOffsetSouth>(0, 46, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 46, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 46, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 46, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_NeoYokohama_BunnyHeels</defName>
+		<originalDef>Anneli_NeoYokohama_BunnyHeels</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>2C/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_NeoYokohama_BunnyHeels</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel2C</textureLevelsName>
+				<drawOffsetSouth>(0, 43, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 43, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 43, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 43, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_NeoYokohama_Geta</defName>
+		<originalDef>Anneli_NeoYokohama_Geta</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>2C/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_NeoYokohama_Geta</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel2C</textureLevelsName>
+				<drawOffsetSouth>(0, 43, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 43, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 43, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 43, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_NeoYokohama_LeatherShoes</defName>
+		<originalDef>Anneli_NeoYokohama_LeatherShoes</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>2C/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_NeoYokohama_LeatherShoes</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel2C</textureLevelsName>
+				<drawOffsetSouth>(0, 43, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 43, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 43, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 43, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_NeoYokohama_LongBoots</defName>
+		<originalDef>Anneli_NeoYokohama_LongBoots</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>2C/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_NeoYokohama_LongBoots</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel2C</textureLevelsName>
+				<drawOffsetSouth>(0, 43, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 43, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 43, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 43, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_NeoYokohama_Sandals</defName>
+		<originalDef>Anneli_NeoYokohama_Sandals</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>2C/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_NeoYokohama_Sandals</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel2C</textureLevelsName>
+				<drawOffsetSouth>(0, 43, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 43, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 43, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 43, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_NeoYokohama_ShinobiSandals</defName>
+		<originalDef>Anneli_NeoYokohama_ShinobiSandals</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>2C/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_NeoYokohama_ShinobiSandals</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel2C</textureLevelsName>
+				<drawOffsetSouth>(0, 46, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 46, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 46, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 46, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_NeoYokohama_Sneakers</defName>
+		<originalDef>Anneli_NeoYokohama_Sneakers</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>2C/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_NeoYokohama_Sneakers</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel2C</textureLevelsName>
+				<drawOffsetSouth>(0, 46, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 46, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 46, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 46, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_NeoYokohama_TacticalBoots</defName>
+		<originalDef>Anneli_NeoYokohama_TacticalBoots</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>2C/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_NeoYokohama_TacticalBoots</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel2C</textureLevelsName>
+				<drawOffsetSouth>(0, 46, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 46, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 46, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 46, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_NeoYokohama_Sollerets</defName>
+		<originalDef>Anneli_NeoYokohama_Sollerets</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>2C/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_NeoYokohama_Sollerets</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel2C</textureLevelsName>
+				<drawOffsetSouth>(0, 46, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 46, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 46, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 46, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_NeoYokohama_LongSollerets</defName>
+		<originalDef>Anneli_NeoYokohama_LongSollerets</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>2C/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_NeoYokohama_LongSollerets</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel2C</textureLevelsName>
+				<drawOffsetSouth>(0, 46, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 46, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 46, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 46, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+</Defs>
