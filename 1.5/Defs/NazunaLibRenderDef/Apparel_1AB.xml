@@ -105,10 +105,10 @@
 				<drawOffsetNorth>(0, 64, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 64, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
-				<!-- <isSleeve>true</isSleeve>
+				<isSleeve>true</isSleeve>
 				<actionManager>
 					<def>Anneli_Arm_LLTS_Left</def>
-				</actionManager> -->
+				</actionManager>
 			</li>
 			<li>
 				<prefix>
@@ -124,10 +124,10 @@
 				<drawOffsetNorth>(0, 64, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 11, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
-				<!-- <isSleeve>true</isSleeve>
+				<isSleeve>true</isSleeve>
 				<actionManager>
 					<def>Anneli_Arm_LLTS_Right</def>
-				</actionManager> -->
+				</actionManager>
 			</li>
 		</levels>
 	</NareisLib.MultiTexDef>

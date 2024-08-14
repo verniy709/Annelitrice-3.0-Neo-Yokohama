@@ -93,6 +93,42 @@
 				<useStaticYOffset>true</useStaticYOffset>
 				<useBodyType>true</useBodyType>
 			</li>
+			<li>
+				<prefix>
+					<li>Anneli_Arm_LLTS</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel2_LLTS_Left</textureLevelsName>
+				<useStaticYOffset>true</useStaticYOffset>
+				<drawOffsetSouth>(0, 64, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 11, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 64, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 64, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<isSleeve>true</isSleeve>
+				<actionManager>
+					<def>Anneli_Arm_LLTS_Left</def>
+				</actionManager>
+			</li>
+			<li>
+				<prefix>
+					<li>Anneli_Arm_LLTS</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel2_LLTS_Right</textureLevelsName>
+				<flipped>true</flipped>
+				<switchEastWest>true</switchEastWest>
+				<useStaticYOffset>true</useStaticYOffset>
+				<drawOffsetSouth>(0, 64, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 64, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 64, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 11, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<isSleeve>true</isSleeve>
+				<actionManager>
+					<def>Anneli_Arm_LLTS_Right</def>
+				</actionManager>
+			</li>
 		</levels>
 	</NareisLib.MultiTexDef>
 
@@ -165,6 +201,42 @@
 				<useStaticYOffset>true</useStaticYOffset>
 				<useBodyType>true</useBodyType>
 			</li>
+			<li>
+				<prefix>
+					<li>Anneli_Arm_LLTS</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel2_LLTS_Left</textureLevelsName>
+				<useStaticYOffset>true</useStaticYOffset>
+				<drawOffsetSouth>(0, 64, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 11, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 64, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 64, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<isSleeve>true</isSleeve>
+				<actionManager>
+					<def>Anneli_Arm_LLTS_Left</def>
+				</actionManager>
+			</li>
+			<li>
+				<prefix>
+					<li>Anneli_Arm_LLTS</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel2_LLTS_Right</textureLevelsName>
+				<flipped>true</flipped>
+				<switchEastWest>true</switchEastWest>
+				<useStaticYOffset>true</useStaticYOffset>
+				<drawOffsetSouth>(0, 64, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 64, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 64, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 11, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<isSleeve>true</isSleeve>
+				<actionManager>
+					<def>Anneli_Arm_LLTS_Right</def>
+				</actionManager>
+			</li>
 		</levels>
 	</NareisLib.MultiTexDef>
 
@@ -188,6 +260,42 @@
 				<meshType>Body</meshType>
 				<useStaticYOffset>true</useStaticYOffset>
 				<useBodyType>true</useBodyType>
+			</li>
+			<li>
+				<prefix>
+					<li>Anneli_Arm_LLTS</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel2_LLTS_Left</textureLevelsName>
+				<useStaticYOffset>true</useStaticYOffset>
+				<drawOffsetSouth>(0, 64, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 11, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 64, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 64, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<isSleeve>true</isSleeve>
+				<actionManager>
+					<def>Anneli_Arm_LLTS_Left</def>
+				</actionManager>
+			</li>
+			<li>
+				<prefix>
+					<li>Anneli_Arm_LLTS</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel2_LLTS_Right</textureLevelsName>
+				<flipped>true</flipped>
+				<switchEastWest>true</switchEastWest>
+				<useStaticYOffset>true</useStaticYOffset>
+				<drawOffsetSouth>(0, 64, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 64, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 64, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 11, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<isSleeve>true</isSleeve>
+				<actionManager>
+					<def>Anneli_Arm_LLTS_Right</def>
+				</actionManager>
 			</li>
 		</levels>
 	</NareisLib.MultiTexDef>
