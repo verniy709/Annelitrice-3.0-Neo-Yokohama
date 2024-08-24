@@ -82,6 +82,7 @@
 				<drawOffsetEast>(0, 100, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 100, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 100, 0)</drawOffsetWest>
+				<meshSize>(2.07,2.07)</meshSize><!-- mesh size 1.5*1.2(canvas size)*1.15(body) -->
 				<meshType>Body</meshType>
 				<useStaticYOffset>true</useStaticYOffset>
 				<useBodyType>true</useBodyType>
@@ -97,6 +98,7 @@
 				<drawOffsetNorth>(0, -10, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, -10, 0)</drawOffsetWest>
 				<renderSwitch>(1, 1, 0)</renderSwitch>
+				<meshSize>(2.07,2.07)</meshSize><!-- mesh size 1.5*1.2(canvas size)*1.15(body) -->
 				<meshType>Body</meshType>
 				<useStaticYOffset>true</useStaticYOffset>
 				<useBodyType>true</useBodyType>

@@ -3,7 +3,9 @@
 
 	<ThingDef Name="Anneli_NeoYokohama_1ABC" ParentName="Anneli_1ABC" Abstract="True">
 		<equippedStatOffsets>
-
+			<MedicalTendSpeed>0.2</MedicalTendSpeed>
+			<MedicalTendQuality>0.2</MedicalTendQuality>
+			<MedicalSurgerySuccessChance>0.2</MedicalSurgerySuccessChance>
 		</equippedStatOffsets>
 		<thingCategories>
 			<li>Anneli_Category_NeoYokohama</li>

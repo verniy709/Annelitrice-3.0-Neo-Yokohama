@@ -3,7 +3,7 @@
 
 	<ThingDef Name="Anneli_NeoYokohama_34" ParentName="Anneli_34" Abstract="True">
 		<equippedStatOffsets>
-
+			<RestFallRateFactor>-0.2</RestFallRateFactor>
 		</equippedStatOffsets>
 		<thingCategories>
 			<li>Anneli_Category_NeoYokohama</li>

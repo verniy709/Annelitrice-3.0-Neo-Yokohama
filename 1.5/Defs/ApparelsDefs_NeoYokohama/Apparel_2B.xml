@@ -3,7 +3,7 @@
 
 	<ThingDef Name="Anneli_NeoYokohama_2B" ParentName="Anneli_2B" Abstract="True">
 		<equippedStatOffsets>
-
+			<ResearchSpeed>0.2</ResearchSpeed>
 		</equippedStatOffsets>
 		<thingCategories>
 			<li>Anneli_Category_NeoYokohama</li>

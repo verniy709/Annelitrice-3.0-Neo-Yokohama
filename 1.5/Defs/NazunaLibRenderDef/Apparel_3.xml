@@ -123,10 +123,10 @@
 				<drawOffsetNorth>(0, 68, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 68, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
-				<!-- <isSleeve>true</isSleeve>
+				<isSleeve>true</isSleeve>
 				<actionManager>
 					<def>Anneli_Arm_FurisodeA_Left</def>
-				</actionManager> -->
+				</actionManager>
 			</li>
 		</levels>
 	</NareisLib.MultiTexDef>
@@ -164,10 +164,10 @@
 				<drawOffsetNorth>(0, 68, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 68, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
-				<!-- <isSleeve>true</isSleeve>
+				<isSleeve>true</isSleeve>
 				<actionManager>
 					<def>Anneli_Arm_FurisodeA_Left</def>
-				</actionManager> -->
+				</actionManager>
 			</li>
 			<li>
 				<prefix>
@@ -183,10 +183,42 @@
 				<drawOffsetNorth>(0, 68, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 15, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
-				<!-- <isSleeve>true</isSleeve>
+				<isSleeve>true</isSleeve>
 				<actionManager>
 					<def>Anneli_Arm_FurisodeA_Right</def>
-				</actionManager> -->
+				</actionManager>
+			</li>
+			<li>
+				<prefix>
+					<li>Anneli_Arm_Back_FurisodeA</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel3_Back_FurisodeA_Left</textureLevelsName>
+				<useStaticYOffset>true</useStaticYOffset>
+				<drawOffsetSouth>(0, 15, 0)</drawOffsetSouth>
+				<renderSwitch>(1, 0, 0)</renderSwitch>
+				<meshType>Body</meshType>
+				<isSleeve>true</isSleeve>
+				<actionManager>
+					<def>Anneli_Arm_Back_FurisodeA_Left</def>
+				</actionManager>
+			</li>
+			<li>
+				<prefix>
+					<li>Anneli_Arm_Back_FurisodeA</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel3_Back_FurisodeA_Right</textureLevelsName>
+				<flipped>true</flipped>
+				<switchEastWest>true</switchEastWest>
+				<useStaticYOffset>true</useStaticYOffset>
+				<drawOffsetSouth>(0, 15, 0)</drawOffsetSouth>
+				<renderSwitch>(1, 0, 0)</renderSwitch>
+				<meshType>Body</meshType>
+				<isSleeve>true</isSleeve>
+				<actionManager>
+					<def>Anneli_Arm_Back_FurisodeA_Right</def>
+				</actionManager>
 			</li>
 		</levels>
 	</NareisLib.MultiTexDef>
@@ -211,6 +243,42 @@
 				<meshType>Body</meshType>
 				<useStaticYOffset>true</useStaticYOffset>
 				<useBodyType>true</useBodyType>
+			</li>
+			<li>
+				<prefix>
+					<li>Anneli_Arm_FurisodeA</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel3_FurisodeA_Left</textureLevelsName>
+				<useStaticYOffset>true</useStaticYOffset>
+				<drawOffsetSouth>(0, 68, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 15, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 68, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 68, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<isSleeve>true</isSleeve>
+				<actionManager>
+					<def>Anneli_Arm_FurisodeA_Left</def>
+				</actionManager>
+			</li>
+			<li>
+				<prefix>
+					<li>Anneli_Arm_FurisodeA</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel3_FurisodeA_Right</textureLevelsName>
+				<flipped>true</flipped>
+				<switchEastWest>true</switchEastWest>
+				<useStaticYOffset>true</useStaticYOffset>
+				<drawOffsetSouth>(0, 68, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 68, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 68, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 15, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<isSleeve>true</isSleeve>
+				<actionManager>
+					<def>Anneli_Arm_FurisodeA_Right</def>
+				</actionManager>
 			</li>
 		</levels>
 	</NareisLib.MultiTexDef>

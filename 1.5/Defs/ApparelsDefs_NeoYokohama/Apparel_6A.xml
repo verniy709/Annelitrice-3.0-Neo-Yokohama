@@ -3,7 +3,7 @@
 
 	<ThingDef Name="Anneli_NeoYokohama_6A_NonMetal" ParentName="Anneli_6A_NonMetal" Abstract="True">
 		<equippedStatOffsets>
-
+			<GlobalLearningFactor>0.2</GlobalLearningFactor>
 		</equippedStatOffsets>
 		<thingCategories>
 			<li>Anneli_Category_NeoYokohama</li>
