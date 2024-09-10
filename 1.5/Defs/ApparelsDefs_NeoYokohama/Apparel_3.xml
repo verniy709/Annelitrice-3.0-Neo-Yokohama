@@ -15,19 +15,20 @@
 		</recipeMaker>
 	</ThingDef>
 
-	<!--Anneli_NeoYokohama_Blazer-->
+	<!--Anneli_NeoYokohama_BlazerA-->
 	<ThingDef ParentName="Anneli_NeoYokohama_3">
-		<defName>Anneli_NeoYokohama_Blazer</defName>
+		<defName>Anneli_NeoYokohama_BlazerA</defName>
 		<description>Dyeable.</description>
-		<label>(NeoY)3_Blazer</label>
+		<label>(NeoY)3_BlazerA</label>
 		<graphicData>
-			<texPath>3/Anneli_NeoYokohama_Blazer</texPath>
+			<texPath>3/Anneli_NeoYokohama_BlazerA</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>3/Anneli_NeoYokohama_Blazer</wornGraphicPath>
+			<wornGraphicPath>3/Anneli_NeoYokohama_BlazerA</wornGraphicPath>
 			<tags>
 				<li>Anneli_NeoYokohama_Salaryperson</li>
+				<li>Anneli_NeoYokohama_Cop</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -39,6 +40,42 @@
 				</li>
 			</options>
 		</colorGenerator>
+		<generateAllowChance>0.7</generateAllowChance><!--Less Spawn-->
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_BlazerB-->
+	<ThingDef ParentName="Anneli_NeoYokohama_3">
+		<defName>Anneli_NeoYokohama_BlazerB</defName>
+		<description>Dyeable.</description>
+		<label>(NeoY)3_BlazerB</label>
+		<graphicData>
+			<texPath>3/Anneli_NeoYokohama_BlazerB</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>3/Anneli_NeoYokohama_BlazerB</wornGraphicPath>
+			<tags>
+				<li>Anneli_NeoYokohama_BunnyGirl</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(255,245,245,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(200,60,60,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(240,220,200,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+		<generateAllowChance>0.7</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_NeoYokohama_Dogi-->
@@ -176,6 +213,7 @@
 				</li>
 			</options>
 		</colorGenerator>
+		<generateAllowChance>0.7</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_NeoYokohama_ShortCoat-->
@@ -203,6 +241,7 @@
 				</li>
 			</options>
 		</colorGenerator>
+		<generateAllowChance>0.7</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_NeoYokohama_TacticalCoat-->
@@ -256,6 +295,7 @@
 				</li>
 			</options>
 		</colorGenerator>
+		<generateAllowChance>0.7</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 </Defs>

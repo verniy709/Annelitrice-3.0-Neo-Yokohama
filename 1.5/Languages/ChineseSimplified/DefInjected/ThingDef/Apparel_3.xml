@@ -1,10 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- Anneli_NeoYokohama_Blazer -->
+  <!-- Anneli_NeoYokohama_BlazerA -->
 
-  <Anneli_NeoYokohama_Blazer.description>可染色。</Anneli_NeoYokohama_Blazer.description>
-  <Anneli_NeoYokohama_Blazer.label>(新横滨)3_西装外套</Anneli_NeoYokohama_Blazer.label>
+  <Anneli_NeoYokohama_BlazerA.description>可染色。</Anneli_NeoYokohama_BlazerA.description>
+  <Anneli_NeoYokohama_BlazerA.label>(新横滨)3_西装外套A</Anneli_NeoYokohama_BlazerA.label>
+
+
+  <!-- Anneli_NeoYokohama_BlazerB -->
+
+  <Anneli_NeoYokohama_BlazerB.description>可染色。</Anneli_NeoYokohama_BlazerB.description>
+  <Anneli_NeoYokohama_BlazerB.label>(新横滨)3_西装外套B</Anneli_NeoYokohama_BlazerB.label>
 
 
   <!-- Anneli_NeoYokohama_Dogi -->

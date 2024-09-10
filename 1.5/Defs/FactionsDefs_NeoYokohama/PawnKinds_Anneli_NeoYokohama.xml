@@ -6,7 +6,7 @@
 		<itemQuality>Masterwork</itemQuality>
 		<defaultFactionType>Anneli_Faction_NeoYokohama</defaultFactionType>
 		<isFighter>true</isFighter>
-		<combatPower>200</combatPower>
+		<combatPower>180</combatPower>
 		<canBeSapper>true</canBeSapper>
 		<backstoryFiltersOverride>
 			<li>
@@ -251,6 +251,7 @@
 			<li>Anneli_NeoYokohama_BunnyEars</li>
 		</apparelRequired>
 		<apparelTags>
+			<li>BeltDefensePop</li>
 			<li>Anneli_NeoYokohama_BunnyGirl</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
@@ -273,6 +274,7 @@
 			<li>Anneli_NeoYokohama_BunnyEars</li>
 		</apparelRequired>
 		<apparelTags>
+			<li>BeltDefensePop</li>
 			<li>Anneli_NeoYokohama_BunnyGirl</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
