@@ -5,51 +5,51 @@
 
   <Anneli_NeoYokohama_HomelyShinobi.title>居家忍者</Anneli_NeoYokohama_HomelyShinobi.title>
   <Anneli_NeoYokohama_HomelyShinobi.titleShort>忍者</Anneli_NeoYokohama_HomelyShinobi.titleShort>
-  <Anneli_NeoYokohama_HomelyShinobi.baseDesc>[PAWN_nameDef]扮演一名居家忍者。她为主公创造了一个充满禅意的环境。</Anneli_NeoYokohama_HomelyShinobi.baseDesc>
+  <Anneli_NeoYokohama_HomelyShinobi.description>[PAWN_nameDef]扮演一名居家忍者。她为主公创造了一个充满禅意的环境。</Anneli_NeoYokohama_HomelyShinobi.description>
 
   <Anneli_NeoYokohama_FearsomeShinobi.title>令人生畏的忍者</Anneli_NeoYokohama_FearsomeShinobi.title>
   <Anneli_NeoYokohama_FearsomeShinobi.titleShort>忍者</Anneli_NeoYokohama_FearsomeShinobi.titleShort>
-  <Anneli_NeoYokohama_FearsomeShinobi.baseDesc>[PAWN_nameDef]扮演一名潜行和暗杀大师。</Anneli_NeoYokohama_FearsomeShinobi.baseDesc>
+  <Anneli_NeoYokohama_FearsomeShinobi.description>[PAWN_nameDef]扮演一名潜行和暗杀大师。</Anneli_NeoYokohama_FearsomeShinobi.description>
 
   <Anneli_NeoYokohama_HaikuSamurai.title>绯句武士</Anneli_NeoYokohama_HaikuSamurai.title>
   <Anneli_NeoYokohama_HaikuSamurai.titleShort>武士</Anneli_NeoYokohama_HaikuSamurai.titleShort>
-  <Anneli_NeoYokohama_HaikuSamurai.baseDesc>[PAWN_nameDef]扮演一名能文能武的武士。</Anneli_NeoYokohama_HaikuSamurai.baseDesc>
+  <Anneli_NeoYokohama_HaikuSamurai.description>[PAWN_nameDef]扮演一名能文能武的武士。</Anneli_NeoYokohama_HaikuSamurai.description>
 
   <Anneli_NeoYokohama_VersatileSamurai.title>多面手武士</Anneli_NeoYokohama_VersatileSamurai.title>
   <Anneli_NeoYokohama_VersatileSamurai.titleShort>武士</Anneli_NeoYokohama_VersatileSamurai.titleShort>
-  <Anneli_NeoYokohama_VersatileSamurai.baseDesc>[PAWN_nameDef]扮演一名武士。她将传统武术技能与激光铁炮等尖端科技融汇贯通。</Anneli_NeoYokohama_VersatileSamurai.baseDesc>
+  <Anneli_NeoYokohama_VersatileSamurai.description>[PAWN_nameDef]扮演一名武士。她将传统武术技能与激光铁炮等尖端科技融汇贯通。</Anneli_NeoYokohama_VersatileSamurai.description>
 
   <Anneli_NeoYokohama_WinnerSalaryman.title>人生赢家上班族</Anneli_NeoYokohama_WinnerSalaryman.title>
   <Anneli_NeoYokohama_WinnerSalaryman.titleShort>上班族</Anneli_NeoYokohama_WinnerSalaryman.titleShort>
-  <Anneli_NeoYokohama_WinnerSalaryman.baseDesc>[PAWN_nameDef]扮演一名看似前途一片光明的经理。</Anneli_NeoYokohama_WinnerSalaryman.baseDesc>
+  <Anneli_NeoYokohama_WinnerSalaryman.description>[PAWN_nameDef]扮演一名看似前途一片光明的经理。</Anneli_NeoYokohama_WinnerSalaryman.description>
 
   <Anneli_NeoYokohama_NormalSalaryman.title>平凡上班族</Anneli_NeoYokohama_NormalSalaryman.title>
   <Anneli_NeoYokohama_NormalSalaryman.titleShort>上班族</Anneli_NeoYokohama_NormalSalaryman.titleShort>
-  <Anneli_NeoYokohama_NormalSalaryman.baseDesc>[PAWN_nameDef]扮演一名耗材上班族。她对照顾盆栽的热情超过了对日常工作的兴趣。</Anneli_NeoYokohama_NormalSalaryman.baseDesc>
+  <Anneli_NeoYokohama_NormalSalaryman.description>[PAWN_nameDef]扮演一名耗材上班族。她对照顾盆栽的热情超过了对日常工作的兴趣。</Anneli_NeoYokohama_NormalSalaryman.description>
 
   <Anneli_NeoYokohama_LoserSalaryman.title>废物上班族</Anneli_NeoYokohama_LoserSalaryman.title>
   <Anneli_NeoYokohama_LoserSalaryman.titleShort>上班族</Anneli_NeoYokohama_LoserSalaryman.titleShort>
-  <Anneli_NeoYokohama_LoserSalaryman.baseDesc>[PAWN_nameDef]扮演一名失业的上班族。她在猫科动物的陪伴中找到了安慰。</Anneli_NeoYokohama_LoserSalaryman.baseDesc>
+  <Anneli_NeoYokohama_LoserSalaryman.description>[PAWN_nameDef]扮演一名失业的上班族。她在猫科动物的陪伴中找到了安慰。</Anneli_NeoYokohama_LoserSalaryman.description>
 
   <Anneli_NeoYokohama_ConstructionWorker.title>建筑劳工</Anneli_NeoYokohama_ConstructionWorker.title>
   <Anneli_NeoYokohama_ConstructionWorker.titleShort>劳工</Anneli_NeoYokohama_ConstructionWorker.titleShort>
-  <Anneli_NeoYokohama_ConstructionWorker.baseDesc>[PAWN_nameDef]扮演一名建筑公司的劳工。她的副业是盗窃并出售公司的资产。</Anneli_NeoYokohama_ConstructionWorker.baseDesc>
+  <Anneli_NeoYokohama_ConstructionWorker.description>[PAWN_nameDef]扮演一名建筑公司的劳工。她的副业是盗窃并出售公司的资产。</Anneli_NeoYokohama_ConstructionWorker.description>
 
   <Anneli_NeoYokohama_RevolutionaryWorker.title>革命劳工</Anneli_NeoYokohama_RevolutionaryWorker.title>
   <Anneli_NeoYokohama_RevolutionaryWorker.titleShort>劳工</Anneli_NeoYokohama_RevolutionaryWorker.titleShort>
-  <Anneli_NeoYokohama_RevolutionaryWorker.baseDesc>[PAWN_nameDef] 扮演一名革命的无产阶级。她曾经是矿业工人，而现在成为了自制炸弹的专家。</Anneli_NeoYokohama_RevolutionaryWorker.baseDesc>
+  <Anneli_NeoYokohama_RevolutionaryWorker.description>[PAWN_nameDef] 扮演一名革命的无产阶级。她曾经是矿业工人，而现在成为了自制炸弹的专家。</Anneli_NeoYokohama_RevolutionaryWorker.description>
 
   <Anneli_NeoYokohama_Punk.title>朋克</Anneli_NeoYokohama_Punk.title>
   <Anneli_NeoYokohama_Punk.titleShort>朋克</Anneli_NeoYokohama_Punk.titleShort>
-  <Anneli_NeoYokohama_Punk.baseDesc>[PAWN_nameDef]扮演一名地方帮派成员，擅长射击，气场十足，仿佛她就是下一个说唱女王。</Anneli_NeoYokohama_Punk.baseDesc>
+  <Anneli_NeoYokohama_Punk.description>[PAWN_nameDef]扮演一名地方帮派成员，擅长射击，气场十足，仿佛她就是下一个说唱女王。</Anneli_NeoYokohama_Punk.description>
 
   <Anneli_NeoYokohama_UnlicensedDoctor.title>无证医生</Anneli_NeoYokohama_UnlicensedDoctor.title>
   <Anneli_NeoYokohama_UnlicensedDoctor.titleShort>医生</Anneli_NeoYokohama_UnlicensedDoctor.titleShort>
-  <Anneli_NeoYokohama_UnlicensedDoctor.baseDesc>[PAWN_nameDef]扮演一名医生，她救人和杀人的概率都是50%。</Anneli_NeoYokohama_UnlicensedDoctor.baseDesc>
+  <Anneli_NeoYokohama_UnlicensedDoctor.description>[PAWN_nameDef]扮演一名医生，她救人和杀人的概率都是50%。</Anneli_NeoYokohama_UnlicensedDoctor.description>
 
   <Anneli_NeoYokohama_SewerDweller.title>下水道贫民</Anneli_NeoYokohama_SewerDweller.title>
   <Anneli_NeoYokohama_SewerDweller.titleShort>下水道贫民</Anneli_NeoYokohama_SewerDweller.titleShort>
-  <Anneli_NeoYokohama_SewerDweller.baseDesc>[PAWN_nameDef]扮演一名无家可归者，生活在城市阴暗的角落，靠捕猎bio·老鼠来维持生计。</Anneli_NeoYokohama_SewerDweller.baseDesc>
+  <Anneli_NeoYokohama_SewerDweller.description>[PAWN_nameDef]扮演一名无家可归者，生活在城市阴暗的角落，靠捕猎bio·老鼠来维持生计。</Anneli_NeoYokohama_SewerDweller.description>
 
 
 </LanguageData>
