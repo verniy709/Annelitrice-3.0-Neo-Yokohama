@@ -103,8 +103,8 @@
 				<prefix>
 					<li>Anneli_Back_NeoYokohama_Shawl</li>
 				</prefix>
-				<renderLayer>BottomShell</renderLayer>
-				<textureLevelsName>Anneli_BottomShell5A</textureLevelsName>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel5A_Back</textureLevelsName>
 				<drawOffsetSouth>(0, 0.173, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 0.173, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 0.173, 0)</drawOffsetNorth>
@@ -142,8 +142,8 @@
 				<prefix>
 					<li>Anneli_Back_NeoYokohama_ShinobiScarf</li>
 				</prefix>
-				<renderLayer>BottomShell</renderLayer>
-				<textureLevelsName>Anneli_BottomShell5A</textureLevelsName>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel5A_Back</textureLevelsName>
 				<drawOffsetSouth>(0, 0.173, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 0.173, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 0.173, 0)</drawOffsetNorth>

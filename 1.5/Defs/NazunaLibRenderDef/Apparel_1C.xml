@@ -140,6 +140,7 @@
 				<meshType>Body</meshType>
 				<useStaticYOffset>true</useStaticYOffset>
 				<useBodyType>true</useBodyType>
+				<skipFlag>Anneli_Sock</skipFlag>
 			</li>
 		</levels>
 	</NareisLib.MultiTexDef>

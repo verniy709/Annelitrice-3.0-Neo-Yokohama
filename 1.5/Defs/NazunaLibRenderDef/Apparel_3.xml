@@ -35,6 +35,7 @@
 				<meshType>Body</meshType>
 				<useStaticYOffset>true</useStaticYOffset>
 				<useBodyType>true</useBodyType>
+				<skipFlag>Anneli_Shell</skipFlag>
 			</li>
 			<li>
 				<prefix>
@@ -179,8 +180,8 @@
 				<prefix>
 					<li>Anneli_Back_NeoYokohama_Dogi</li>
 				</prefix>
-				<renderLayer>BottomShell</renderLayer>
-				<textureLevelsName>Anneli_BottomShell3</textureLevelsName>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel3_Back</textureLevelsName>
 				<drawOffsetSouth>(0, 0.731, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 0.731, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 0.731, 0)</drawOffsetNorth>
@@ -459,8 +460,8 @@
 				<prefix>
 					<li>Anneli_Back_NeoYokohama_Jacket</li>
 				</prefix>
-				<renderLayer>BottomShell</renderLayer>
-				<textureLevelsName>Anneli_BottomShell3</textureLevelsName>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel3_Back</textureLevelsName>
 				<drawOffsetSouth>(0, 0.731, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 1.481, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 1.481, 0)</drawOffsetNorth>
@@ -469,6 +470,7 @@
 				<meshType>Body</meshType>
 				<useStaticYOffset>true</useStaticYOffset>
 				<useBodyType>true</useBodyType>
+				<skipFlag>Anneli_Shell</skipFlag>
 			</li>
 			<li>
 				<prefix>

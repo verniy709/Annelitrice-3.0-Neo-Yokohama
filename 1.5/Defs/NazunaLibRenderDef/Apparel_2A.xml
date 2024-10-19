@@ -38,6 +38,7 @@
 				<actionManager>
 					<def>Anneli_Arm_ShirtSS_Left</def>
 				</actionManager>
+				<skipFlag>Anneli_SleeveB_Left</skipFlag>
 			</li>
 			<li>
 				<prefix>
@@ -58,6 +59,7 @@
 				<actionManager>
 					<def>Anneli_Arm_ShirtSS_Right</def>
 				</actionManager>
+				<skipFlag>Anneli_SleeveB_Right</skipFlag>
 			</li>
 		</levels>
 	</NareisLib.MultiTexDef>
@@ -172,6 +174,7 @@
 				<actionManager>
 					<def>Anneli_Arm_LS_Left</def>
 				</actionManager>
+				<skipFlag>Anneli_SleeveB_Left</skipFlag>
 			</li>
 			<li>
 				<prefix>
@@ -192,6 +195,7 @@
 				<actionManager>
 					<def>Anneli_Arm_LS_Right</def>
 				</actionManager>
+				<skipFlag>Anneli_SleeveB_Right</skipFlag>
 			</li>
 		</levels>
 	</NareisLib.MultiTexDef>
