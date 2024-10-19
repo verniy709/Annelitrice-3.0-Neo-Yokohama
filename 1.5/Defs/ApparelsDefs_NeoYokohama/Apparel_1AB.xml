@@ -29,6 +29,7 @@
 		<apparel>
 			<wornGraphicPath>1AB/Anneli_NeoYokohama_BodyWrap</wornGraphicPath>
 			<tags>
+				<li>Anneli_Underwear</li>
 				<li>Anneli_NeoYokohama_Ronin</li>
 				<li>Anneli_NeoYokohama_Samurai</li>
 			</tags>
@@ -56,6 +57,7 @@
 		<apparel>
 			<wornGraphicPath>1AB/Anneli_NeoYokohama_Bodysuit</wornGraphicPath>
 			<tags>
+				<li>Anneli_Underwear</li>
 				<li>Anneli_NeoYokohama_TacticalOperator</li>
 				<li>Anneli_NeoYokohama_Salaryperson</li>
 			</tags>
@@ -83,6 +85,7 @@
 		<apparel>
 			<wornGraphicPath>1AB/Anneli_NeoYokohama_FishnetBodysuit</wornGraphicPath>
 			<tags>
+				<li>Anneli_Underwear</li>
 				<li>Anneli_NeoYokohama_Thug</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
@@ -109,6 +112,7 @@
 		<apparel>
 			<wornGraphicPath>1AB/Anneli_NeoYokohama_LatexBodysuit</wornGraphicPath>
 			<tags>
+				<li>Anneli_Underwear</li>
 				<li>Anneli_NeoYokohama_TacticalOperator</li>
 				<li>Anneli_NeoYokohama_CyborgCombatant</li>
 			</tags>
@@ -136,6 +140,7 @@
 		<apparel>
 			<wornGraphicPath>1AB/Anneli_NeoYokohama_Rope</wornGraphicPath>
 			<tags>
+				<li>Anneli_Underwear</li>
 				<li>Anneli_NeoYokohama_Shomin</li>
 				<li>Anneli_NeoYokohama_Shinobi</li>
 				<li>Anneli_NeoYokohama_Geisha</li>

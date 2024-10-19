@@ -24,6 +24,7 @@
 		<apparel>
 			<wornGraphicPath>1C/Anneli_NeoYokohama_FishnetPantyhose</wornGraphicPath>
 			<tags>
+				<li>Anneli_Underwear</li>
 				<li>Anneli_NeoYokohama_BunnyGirl</li>
 				<li>Anneli_NeoYokohama_Civilian</li>
 			</tags>
@@ -51,6 +52,7 @@
 		<apparel>
 			<wornGraphicPath>1C/Anneli_NeoYokohama_FishnetStockingsA</wornGraphicPath>
 			<tags>
+				<li>Anneli_Underwear</li>
 				<li>Anneli_NeoYokohama_Salaryperson</li>
 				<li>Anneli_NeoYokohama_HomelessPerson</li>
 				<li>Anneli_NeoYokohama_Thug</li>
@@ -81,6 +83,7 @@
 		<apparel>
 			<wornGraphicPath>1C/Anneli_NeoYokohama_FishnetStockingsB</wornGraphicPath>
 			<tags>
+				<li>Anneli_Underwear</li>
 				<li>Anneli_NeoYokohama_HomelessPerson</li>
 				<li>Anneli_NeoYokohama_Thug</li>
 				<li>Anneli_NeoYokohama_Hacker</li>
@@ -110,6 +113,7 @@
 		<apparel>
 			<wornGraphicPath>1C/Anneli_NeoYokohama_StockingsA</wornGraphicPath>
 			<tags>
+				<li>Anneli_Underwear</li>
 				<li>Anneli_NeoYokohama_Shomin</li>
 				<li>Anneli_NeoYokohama_Ronin</li>
 				<li>Anneli_NeoYokohama_Shinobi</li>
@@ -138,6 +142,7 @@
 		<apparel>
 			<wornGraphicPath>1C/Anneli_NeoYokohama_StockingsB</wornGraphicPath>
 			<tags>
+				<li>Anneli_Underwear</li>
 				<li>Anneli_NeoYokohama_TacticalOperator</li>
 				<li>Anneli_NeoYokohama_Hacker</li>
 				<li>Anneli_NeoYokohama_CyborgCombatant</li>
@@ -166,6 +171,7 @@
 		<apparel>
 			<wornGraphicPath>1C/Anneli_NeoYokohama_Tabi</wornGraphicPath>
 			<tags>
+				<li>Anneli_Underwear</li>
 				<li>Anneli_NeoYokohama_Shomin</li>
 				<li>Anneli_NeoYokohama_Ronin</li>
 				<li>Anneli_NeoYokohama_Geisha</li>

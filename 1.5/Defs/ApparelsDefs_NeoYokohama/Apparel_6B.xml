@@ -17,7 +17,7 @@
 
 	<ThingDef Name="Anneli_NeoYokohama_6B_Metal" ParentName="Anneli_6B_Metal" Abstract="True">
 		<equippedStatOffsets>
-
+			<GlobalLearningFactor>0.2</GlobalLearningFactor>
 		</equippedStatOffsets>
 		<thingCategories>
 			<li>Anneli_Category_NeoYokohama</li>

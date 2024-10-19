@@ -29,6 +29,7 @@
 		<apparel>
 			<wornGraphicPath>1A/Anneli_NeoYokohama_Bustier</wornGraphicPath>
 			<tags>
+				<li>Anneli_Underwear</li>
 				<li>Anneli_NeoYokohama_Salaryperson</li>
 				<li>Anneli_NeoYokohama_Hacker</li>
 			</tags>
@@ -56,6 +57,7 @@
 		<apparel>
 			<wornGraphicPath>1A/Anneli_NeoYokohama_Curtain</wornGraphicPath>
 			<tags>
+				<li>Anneli_Underwear</li>
 				<li>Anneli_NeoYokohama_HomelessPerson</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->

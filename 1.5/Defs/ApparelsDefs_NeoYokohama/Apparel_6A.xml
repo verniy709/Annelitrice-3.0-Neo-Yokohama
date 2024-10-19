@@ -17,7 +17,7 @@
 
 	<ThingDef Name="Anneli_NeoYokohama_6A_Metal" ParentName="Anneli_6A_Metal" Abstract="True">
 		<equippedStatOffsets>
-
+			<GlobalLearningFactor>0.2</GlobalLearningFactor>
 		</equippedStatOffsets>
 		<thingCategories>
 			<li>Anneli_Category_NeoYokohama</li>
@@ -184,7 +184,7 @@
 			<wornGraphicPath>6A/Anneli_NeoYokohama_Helmet</wornGraphicPath>
 			<tags>
 				<li>Anneli_NeoYokohama_TacticalOperator</li>
-				<li>Anneli_NeoYokohama_CyborgCombatant</li>
+				<li>Anneli_NeoYokohama_CyborgCombatantA</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
