@@ -44,6 +44,10 @@
 				<li>Anneli_NeoYokohama_Thug</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+			<renderSkipFlags>
+				<li>Anneli_Ahoge</li>
+				<li>Anneli_BackHair</li>
+			</renderSkipFlags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
@@ -98,6 +102,10 @@
 				<li>Anneli_NeoYokohama_Ronin</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+			<renderSkipFlags>
+				<li>Anneli_Ahoge</li>
+				<li>Anneli_BackHair</li>
+			</renderSkipFlags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
@@ -187,6 +195,10 @@
 				<li>Anneli_NeoYokohama_CyborgCombatantA</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+			<renderSkipFlags>
+				<li>Anneli_Ahoge</li>
+				<li>Anneli_BackHair</li>
+			</renderSkipFlags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
@@ -213,6 +225,10 @@
 				<li>Anneli_NeoYokohama_Samurai</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+			<renderSkipFlags>
+				<li>Anneli_Ahoge</li>
+				<li>Anneli_BackHair</li>
+			</renderSkipFlags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
@@ -291,6 +307,10 @@
 				<li>Anneli_NeoYokohama_Cop</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+			<renderSkipFlags>
+				<li>Anneli_Ahoge</li>
+				<li>Anneli_BackHair</li>
+			</renderSkipFlags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
