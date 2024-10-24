@@ -162,7 +162,7 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.15</generateAllowChance><!--Less Spawn-->
+		<generateAllowChance>0.3</generateAllowChance><!--Less Spawn-->
 		<tickerType>Normal</tickerType>
 		<comps>
 			<li Class="Annelitrice.CompProperties_ApparelCauseHediff_AoE">
@@ -216,7 +216,7 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.15</generateAllowChance><!--Less Spawn-->
+		<generateAllowChance>0.3</generateAllowChance><!--Less Spawn-->
 		<tickerType>Normal</tickerType>
 		<comps>
 			<li Class="Annelitrice.CompProperties_ApparelCauseHediff_AoE">
