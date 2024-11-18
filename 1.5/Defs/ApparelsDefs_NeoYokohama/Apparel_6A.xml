@@ -42,6 +42,7 @@
 			<wornGraphicPath>6A/Anneli_NeoYokohama_BaseballCap</wornGraphicPath>
 			<tags>
 				<li>Anneli_NeoYokohama_Thug</li>
+				<li>Anneli_SkipOverhead</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 			<renderSkipFlags>
@@ -73,6 +74,7 @@
 			<wornGraphicPath>6A/Anneli_NeoYokohama_BunnyEars</wornGraphicPath>
 			<tags>
 				<li>Anneli_NeoYokohama_BunnyGirl</li>
+				<li>Anneli_SkipOverhead</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -100,6 +102,7 @@
 			<tags>
 				<li>Anneli_NeoYokohama_ShominB</li>
 				<li>Anneli_NeoYokohama_Ronin</li>
+				<li>Anneli_SkipOverhead</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 			<renderSkipFlags>
@@ -193,6 +196,7 @@
 			<tags>
 				<li>Anneli_NeoYokohama_TacticalOperator</li>
 				<li>Anneli_NeoYokohama_CyborgCombatantA</li>
+				<li>Anneli_SkipOverhead</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 			<renderSkipFlags>
@@ -223,6 +227,7 @@
 			<wornGraphicPath>6A/Anneli_NeoYokohama_Kabuto</wornGraphicPath>
 			<tags>
 				<li>Anneli_NeoYokohama_Samurai</li>
+				<li>Anneli_SkipOverhead</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 			<renderSkipFlags>
@@ -279,6 +284,7 @@
 			<wornGraphicPath>6A/Anneli_NeoYokohama_NurseCap</wornGraphicPath>
 			<tags>
 				<li>Anneli_NeoYokohama_Doctor</li>
+				<li>Anneli_SkipOverhead</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -305,6 +311,7 @@
 			<wornGraphicPath>6A/Anneli_NeoYokohama_PoliceHat</wornGraphicPath>
 			<tags>
 				<li>Anneli_NeoYokohama_Cop</li>
+				<li>Anneli_SkipOverhead</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 			<renderSkipFlags>
