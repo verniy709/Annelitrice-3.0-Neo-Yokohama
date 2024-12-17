@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<PawnKindDef Name="Anneli_NeoYokohama_Shambler_KindBase" ParentName="Anneli_KindBase" Abstract="True">
+		<label>Anneli_Shambler</label>
+		<defaultFactionType>Entities</defaultFactionType>
+		<initialWillRange>0~1</initialWillRange>
+		<initialResistanceRange>7~12</initialResistanceRange>
+		<isGoodBreacher>true</isGoodBreacher>
+		<overrideDebugActionCategory>Entity</overrideDebugActionCategory>
+		<combatPower>60</combatPower>
+		<gearHealthRange>0.2~0.4</gearHealthRange>
+		<meleeAttackInfectionPathways>
+			<li>EntityAttacked</li>
+		</meleeAttackInfectionPathways>
+		<invNutrition>0</invNutrition>
+		<mutant>Shambler</mutant>
+		<generateInitialNonFamilyRelations>false</generateInitialNonFamilyRelations>
+		<itemQuality>Masterwork</itemQuality>
+		<backstoryFiltersOverride>
+			<li>
+				<categories>
+					<li>Anneli_Childhood</li>
+					<li>Anneli_Story_NeoYokohama</li>
+				</categories>
+			</li>
+		</backstoryFiltersOverride>
+		<xenotypeSet>
+			<xenotypeChances>
+				<Anneli_Xenotype MayRequire="Ludeon.RimWorld.Biotech">1.5</Anneli_Xenotype>
+				<Anneli_Xenotype_Abomination MayRequire="Ludeon.RimWorld.Biotech">0.15</Anneli_Xenotype_Abomination>
+				<Anneli_Xenotype_Dragonkin MayRequire="Ludeon.RimWorld.Biotech">0.1</Anneli_Xenotype_Dragonkin>
+				<Anneli_Xenotype_Elf MayRequire="Ludeon.RimWorld.Biotech">0.1</Anneli_Xenotype_Elf>
+				<Anneli_Xenotype_Fairy MayRequire="Ludeon.RimWorld.Biotech">0.05</Anneli_Xenotype_Fairy>
+				<Anneli_Xenotype_Hellion MayRequire="Ludeon.RimWorld.Biotech">0.05</Anneli_Xenotype_Hellion>
+				<Anneli_Xenotype_Kitsune MayRequire="Ludeon.RimWorld.Biotech">0.15</Anneli_Xenotype_Kitsune>
+				<Anneli_Xenotype_Loong MayRequire="Ludeon.RimWorld.Biotech">0.15</Anneli_Xenotype_Loong>
+				<Anneli_Xenotype_Messenger MayRequire="Ludeon.RimWorld.Biotech">0.05</Anneli_Xenotype_Messenger>
+				<Anneli_Xenotype_Nekojin MayRequire="Ludeon.RimWorld.Biotech">0.1</Anneli_Xenotype_Nekojin>
+				<Anneli_Xenotype_Oni MayRequire="Ludeon.RimWorld.Biotech">0.2</Anneli_Xenotype_Oni>
+				<Anneli_Xenotype_Succubus MayRequire="Ludeon.RimWorld.Biotech">0.1</Anneli_Xenotype_Succubus>
+				<Anneli_Xenotype_Usagi MayRequire="Ludeon.RimWorld.Biotech">0.15</Anneli_Xenotype_Usagi>
+			</xenotypeChances>
+		</xenotypeSet>
+		<apparelDisallowTags>
+			<li>Anneli_ExcludeShambler</li>
+		</apparelDisallowTags>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_NeoYokohama_Shambler_KindBase">
+		<defName>Anneli_NeoYokohama_Shambler_SalarypersonA</defName>
+		<apparelRequired>
+			<li>Anneli_NeoYokohama_Top</li>
+			<li>Anneli_NeoYokohama_DressPants</li>
+			<li>Anneli_NeoYokohama_LeatherShoes</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_NeoYokohama_Salaryperson</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_NeoYokohama_Shambler_KindBase">
+		<defName>Anneli_NeoYokohama_Shambler_SalarypersonB</defName>
+		<apparelRequired>
+			<li>Anneli_NeoYokohama_Top</li>
+			<li>Anneli_NeoYokohama_Skirt</li>
+			<li>Anneli_NeoYokohama_LeatherShoes</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_NeoYokohama_Salaryperson</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_NeoYokohama_Shambler_KindBase">
+		<defName>Anneli_NeoYokohama_Shambler_Cop</defName>
+		<apparelRequired>
+			<li>Anneli_NeoYokohama_DutyShirt</li>
+			<li>Anneli_NeoYokohama_Skirt</li>
+			<li>Anneli_NeoYokohama_Boots</li>
+			<li>Anneli_NeoYokohama_PoliceHat</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>BeltDefensePop</li>
+			<li>Anneli_NeoYokohama_Cop</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_NeoYokohama_Shambler_KindBase">
+		<defName>Anneli_NeoYokohama_Shambler_TacticalOperator</defName>
+		<apparelRequired>
+			<li>Anneli_NeoYokohama_TankTopA</li>
+			<li>Anneli_NeoYokohama_TacticalPants</li>
+			<li>Anneli_NeoYokohama_TacticalCoat</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>BeltDefensePop</li>
+			<li>Anneli_NeoYokohama_TacticalOperator</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_NeoYokohama_Shambler_KindBase">
+		<defName>Anneli_NeoYokohama_Shambler_HomelessPerson</defName>
+		<apparelRequired>
+			<li>Anneli_NeoYokohama_Curtain</li>
+			<li>Anneli_NeoYokohama_Thong</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_NeoYokohama_HomelessPerson</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_NeoYokohama_Shambler_KindBase">
+		<defName>Anneli_NeoYokohama_Shambler_Civilian</defName>
+		<apparelRequired>
+			<li>Anneli_NeoYokohama_Dress</li>
+			<li>Anneli_NeoYokohama_Boots</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_NeoYokohama_Civilian</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_NeoYokohama_Shambler_KindBase">
+		<defName>Anneli_NeoYokohama_Shambler_ThugA</defName>
+		<apparelRequired>
+			<li>Anneli_NeoYokohama_TankTopB</li>
+			<li>Anneli_NeoYokohama_LeatherPants</li>
+			<li>Anneli_NeoYokohama_Boots</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_NeoYokohama_Thug</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_NeoYokohama_Shambler_KindBase">
+		<defName>Anneli_NeoYokohama_Shambler_ThugB</defName>
+		<apparelRequired>
+			<li>Anneli_NeoYokohama_TankTopA</li>
+			<li>Anneli_NeoYokohama_DenimShorts</li>
+			<li>Anneli_NeoYokohama_Sneakers</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_NeoYokohama_Thug</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_NeoYokohama_Shambler_KindBase">
+		<defName>Anneli_NeoYokohama_Shambler_BunnyGirlA</defName>
+		<apparelRequired>
+			<li>Anneli_NeoYokohama_FishnetPantyhose</li>
+			<li>Anneli_NeoYokohama_BunnySuitA</li>
+			<li>Anneli_NeoYokohama_BunnyHeels</li>
+			<li>Anneli_NeoYokohama_BunnyEars</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>BeltDefensePop</li>
+			<li>Anneli_NeoYokohama_BunnyGirl</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_NeoYokohama_Shambler_KindBase">
+		<defName>Anneli_NeoYokohama_Shambler_BunnyGirlB</defName>
+		<apparelRequired>
+			<li>Anneli_NeoYokohama_FishnetPantyhose</li>
+			<li>Anneli_NeoYokohama_BunnySuitB</li>
+			<li>Anneli_NeoYokohama_BunnyHeels</li>
+			<li>Anneli_NeoYokohama_BunnyEars</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>BeltDefensePop</li>
+			<li>Anneli_NeoYokohama_BunnyGirl</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<apparelColor>(50,45,50)</apparelColor>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_NeoYokohama_Shambler_KindBase">
+		<defName>Anneli_NeoYokohama_Shambler_HackerA</defName>
+		<apparelRequired>
+			<li>Anneli_NeoYokohama_HackerSuitA</li>
+			<li>Anneli_NeoYokohama_TacticalBoots</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>BeltDefensePop</li>
+			<li>Anneli_NeoYokohama_Hacker</li>
+			<li>Anneli_NeoYokohama_HackerA</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<apparelColor>(50,45,50)</apparelColor>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_NeoYokohama_Shambler_KindBase">
+		<defName>Anneli_NeoYokohama_Shambler_HackerB</defName>
+		<apparelRequired>
+			<li>Anneli_NeoYokohama_HackerSuitB</li>
+			<li>Anneli_NeoYokohama_LongBoots</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>BeltDefensePop</li>
+			<li>Anneli_NeoYokohama_Hacker</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_NeoYokohama_Shambler_KindBase">
+		<defName>Anneli_NeoYokohama_Shambler_Doctor</defName>
+		<apparelRequired>
+			<li>Anneli_NeoYokohama_Catsuit</li>
+			<li>Anneli_NeoYokohama_MedicalScrub</li>
+			<li>Anneli_NeoYokohama_NurseCap</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_NeoYokohama_Doctor</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_NeoYokohama_Shambler_KindBase">
+		<defName>Anneli_NeoYokohama_Shambler_CyborgCombatantA</defName>
+		<apparelRequired>
+			<li>Anneli_NeoYokohama_LatexCatsuit</li>
+			<li>Anneli_NeoYokohama_CombatSuitC</li>
+			<li>Anneli_NeoYokohama_Boots</li>
+			<li>Anneli_NeoYokohama_CyborgArmorA</li>
+			<li>Anneli_NeoYokohama_Helmet</li>
+			<li>Anneli_NeoYokohama_GogglesB</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_NeoYokohama_CyborgCombatant</li>
+			<li>Anneli_NeoYokohama_CyborgCombatantA</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_NeoYokohama_Shambler_KindBase">
+		<defName>Anneli_NeoYokohama_Shambler_CyborgCombatantB</defName>
+		<apparelRequired>
+			<li>Anneli_NeoYokohama_LatexBodysuit</li>
+			<li>Anneli_NeoYokohama_CombatSuitA</li>
+			<li>Anneli_NeoYokohama_LongSollerets</li>
+			<li>Anneli_NeoYokohama_CyborgArmorA</li>
+			<li>Anneli_NeoYokohama_TacticalHeadsetB</li>
+			<li>Anneli_NeoYokohama_CyborgMask</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_NeoYokohama_CyborgCombatant</li>
+			<li>Anneli_NeoYokohama_CyborgCombatantB</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_NeoYokohama_Shambler_KindBase">
+		<defName>Anneli_NeoYokohama_Shambler_CyborgCombatantC</defName>
+		<apparelRequired>
+			<li>Anneli_NeoYokohama_Catsuit</li>
+			<li>Anneli_NeoYokohama_CombatSuitB</li>
+			<li>Anneli_NeoYokohama_Sollerets</li>
+			<li>Anneli_NeoYokohama_CyborgArmorB</li>
+			<li>Anneli_NeoYokohama_CyborgBustle</li>
+			<li>Anneli_NeoYokohama_TacticalHeadsetA</li>
+			<li>Anneli_NeoYokohama_GasMask</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_NeoYokohama_CyborgCombatant</li>
+			<li>Anneli_NeoYokohama_CyborgCombatantC</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_NeoYokohama_Shambler_KindBase">
+		<defName>Anneli_NeoYokohama_Shambler_ShominA</defName>
+		<apparelRequired>
+			<li>Anneli_NeoYokohama_Hanjuban</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_NeoYokohama_Shomin</li>
+			<li>Anneli_NeoYokohama_ShominA</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_NeoYokohama_Shambler_KindBase">
+		<defName>Anneli_NeoYokohama_Shambler_ShominB</defName>
+		<apparelRequired>
+			<li>Anneli_NeoYokohama_JudogiC</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_NeoYokohama_Shomin</li>
+			<li>Anneli_NeoYokohama_ShominB</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_NeoYokohama_Shambler_KindBase">
+		<defName>Anneli_NeoYokohama_Shambler_ShominC</defName>
+		<apparelRequired>
+			<li>Anneli_NeoYokohama_Tabi</li>
+			<li>Anneli_NeoYokohama_Nagajuban</li>
+			<li>Anneli_NeoYokohama_Geta</li>
+			<li>Anneli_NeoYokohama_KimonoB</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_NeoYokohama_Shomin</li>
+			<li>Anneli_NeoYokohama_ShominC</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<apparelColor>(255,245,245,255)</apparelColor>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_NeoYokohama_Shambler_KindBase">
+		<defName>Anneli_NeoYokohama_Shambler_Ronin</defName>
+		<apparelRequired>
+			<li>Anneli_NeoYokohama_BodyWrap</li>
+			<li>Anneli_NeoYokohama_Dogi</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_NeoYokohama_Ronin</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_NeoYokohama_Shambler_KindBase">
+		<defName>Anneli_NeoYokohama_Shambler_Shinobi</defName>
+		<apparelRequired>
+			<li>Anneli_NeoYokohama_JudogiB</li>
+			<li>Anneli_NeoYokohama_ShinobiSandals</li>
+			<li>Anneli_NeoYokohama_Headband</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_NeoYokohama_Shinobi</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_NeoYokohama_Shambler_KindBase">
+		<defName>Anneli_NeoYokohama_Shambler_GeishaA</defName>
+		<apparelRequired>
+			<li>Anneli_NeoYokohama_Tabi</li>
+			<li>Anneli_NeoYokohama_Nagajuban</li>
+			<li>Anneli_NeoYokohama_Geta</li>
+			<li>Anneli_NeoYokohama_KimonoA</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_NeoYokohama_Geisha</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_NeoYokohama_Shambler_KindBase">
+		<defName>Anneli_NeoYokohama_Shambler_GeishaB</defName>
+		<apparelRequired>
+			<li>Anneli_NeoYokohama_Tabi</li>
+			<li>Anneli_NeoYokohama_Nagajuban</li>
+			<li>Anneli_NeoYokohama_Geta</li>
+			<li>Anneli_NeoYokohama_KimonoB</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_NeoYokohama_Geisha</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_NeoYokohama_Shambler_KindBase">
+		<defName>Anneli_NeoYokohama_Shambler_SamuraiA</defName>
+		<apparelRequired>
+			<li>Anneli_NeoYokohama_Tabi</li>
+			<li>Anneli_NeoYokohama_JudogiA</li>
+			<li>Anneli_NeoYokohama_Sandals</li>
+			<li>Anneli_NeoYokohama_SamuraiArmor</li>
+			<li>Anneli_NeoYokohama_Kabuto</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_NeoYokohama_Samurai</li>
+			<li>Anneli_NeoYokohama_SamuraiA</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_NeoYokohama_Shambler_KindBase">
+		<defName>Anneli_NeoYokohama_Shambler_SamuraiB</defName>
+		<apparelRequired>
+			<li>Anneli_NeoYokohama_Tabi</li>
+			<li>Anneli_NeoYokohama_JudogiA</li>
+			<li>Anneli_NeoYokohama_ShinobiSandals</li>
+			<li>Anneli_NeoYokohama_SamuraiArmor</li>
+			<li>Anneli_NeoYokohama_Kabuto</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_NeoYokohama_Samurai</li>
+			<li>Anneli_NeoYokohama_SamuraiB</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<apparelColor>(200,60,60,255)</apparelColor>
+	</PawnKindDef>	
+
+</Defs>

@@ -41,6 +41,7 @@
 			<tags>
 				<li>Anneli_NeoYokohama_CyborgCombatantB</li>
 				<li>Anneli_NeoYokohama_CyborgCombatantC</li>
+				<li>Anneli_ExcludeShambler</li>
 				<li>Anneli_SkipWing</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
@@ -142,6 +143,7 @@
 				<li>Anneli_NeoYokohama_TacticalOperator</li>
 				<li>Anneli_NeoYokohama_Hacker</li>
 				<li>Anneli_NeoYokohama_CyborgCombatantA</li>
+				<li>Anneli_ExcludeShambler</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -264,6 +266,7 @@
 			<tags>
 				<li>Anneli_NeoYokohama_Shomin</li>
 				<li>Anneli_NeoYokohama_Geisha</li>
+				<li>Anneli_ExcludeShambler</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
