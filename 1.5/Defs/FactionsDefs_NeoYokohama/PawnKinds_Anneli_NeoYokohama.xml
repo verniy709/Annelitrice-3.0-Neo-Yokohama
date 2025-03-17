@@ -277,6 +277,19 @@
 			<li>Revolver</li>
 			<li>IndustrialGunAdvanced</li>
 		</weaponTags>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_NeoYokohama_LongLatexGloves</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(200,60,60,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_NeoYokohama_KindBase">
@@ -347,6 +360,19 @@
 			<li>IndustrialGunAdvanced</li>
 			<li>SpacerGun</li>
 		</weaponTags>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_NeoYokohama_LongLatexGloves</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(255,245,245,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_NeoYokohama_KindBase">
@@ -369,6 +395,19 @@
 			<li>IndustrialGunAdvanced</li>
 			<li>SpacerGun</li>
 		</weaponTags>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_NeoYokohama_LongLatexGloves</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(255,245,245,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_NeoYokohama_KindBase">
