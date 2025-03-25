@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 	<NareisLib.ActionDef>
-		<defName>Anneli_Ahmislan_KnightGauntlets_Right</defName>
+		<defName>Anneli_NeoYokohama_SamuraiGauntlets_Right</defName>
 		<behaviors>
 			<!-- Command Job Category -->
 			<li>
 				<key>UseVerbOnThing</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -20,9 +20,9 @@
 			<li>
 				<key>UseVerbOnThingStatic</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -33,9 +33,9 @@
 			<li>
 				<key>CastAbilityOnThing</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -46,9 +46,9 @@
 			<li>
 				<key>CastAbilityTouch</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -59,9 +59,9 @@
 			<li>
 				<key>CastAbilityOnThingUninterruptible</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -72,9 +72,9 @@
 			<li>
 				<key>CastAbilityOnThingMelee</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -85,9 +85,9 @@
 			<li>
 				<key>CastAbilityOnWorldTile</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -98,9 +98,9 @@
 			<li>
 				<key>Tame</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -111,9 +111,9 @@
 			<li>
 				<key>Train</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -125,9 +125,9 @@
 			<li>
 				<key>MarryAdjacentPawn</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -138,9 +138,9 @@
 			<li>
 				<key>StandAndBeSociallyActive</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -151,9 +151,9 @@
 			<li>
 				<key>SocialRelax</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -164,9 +164,9 @@
 			<li>
 				<key>VisitSickPawn</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -177,9 +177,9 @@
 			<li>
 				<key>Play_Billiards</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -190,9 +190,9 @@
 			<li>
 				<key>Play_Poker</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -203,9 +203,9 @@
 			<li>
 				<key>WatchTelevision</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -216,9 +216,9 @@
 			<li>
 				<key>TradeWithPawn</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -229,9 +229,9 @@
 			<li>
 				<key>Insult</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -242,9 +242,9 @@
 			<li>
 				<key>InducePrisonerToEscape</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -255,9 +255,9 @@
 			<li>
 				<key>OfferHelp</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -268,9 +268,9 @@
 			<li>
 				<key>ReleasePrisoner</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -281,9 +281,9 @@
 			<li>
 				<key>TendPatient</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -294,9 +294,9 @@
 			<li>
 				<key>UseCommsConsole</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -307,9 +307,9 @@
 			<li>
 				<key>PrisonerAttemptRecruit</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -321,9 +321,9 @@
 			<li>
 				<key>Ingest</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -335,9 +335,9 @@
 			<li>
 				<key>PrepareCaravan_GatherItems</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -348,9 +348,9 @@
 			<li>
 				<key>PrepareCaravan_GatherAnimals</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -361,9 +361,9 @@
 			<li>
 				<key>PrepareCaravan_GatherDownedPawns</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -374,9 +374,9 @@
 			<li>
 				<key>HaulToTransporter</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -387,9 +387,9 @@
 			<li>
 				<key>HaulCorpseToPublicPlace</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -400,9 +400,9 @@
 			<li>
 				<key>DeliverToCell</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -413,9 +413,9 @@
 			<li>
 				<key>DeliverToBed</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -426,9 +426,9 @@
 			<li>
 				<key>HaulToCell</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -439,9 +439,9 @@
 			<li>
 				<key>HaulToContainer</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -452,9 +452,9 @@
 			<li>
 				<key>Steal</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -465,9 +465,9 @@
 			<li>
 				<key>Kidnap</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -478,9 +478,9 @@
 			<li>
 				<key>CarryDownedPawnToExit</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -491,9 +491,9 @@
 			<li>
 				<key>CarryToCryptosleepCasket</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -504,9 +504,9 @@
 			<li>
 				<key>EscortPrisonerToBed</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -517,9 +517,9 @@
 			<li>
 				<key>TakeWoundedPrisonerToBed</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -530,9 +530,9 @@
 			<li>
 				<key>TakeToBedToOperate</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -543,9 +543,9 @@
 			<li>
 				<key>TakeDownedPawnToBedDrafted</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -556,9 +556,9 @@
 			<li>
 				<key>CarryDownedPawnDrafted</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -569,9 +569,9 @@
 			<li>
 				<key>CarryToCryptosleepCasketDrafted</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -582,9 +582,9 @@
 			<li>
 				<key>CarryToPrisonerBedDrafted</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -596,9 +596,9 @@
 			<li>
 				<key>Meditate</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -609,9 +609,9 @@
 			<li>
 				<key>Pray</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -623,9 +623,9 @@
 			<li>
 				<key>PrepareCaravan_CollectAnimals</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -636,9 +636,9 @@
 			<li>
 				<key>ReturnedCaravan_PenAnimals</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -649,9 +649,9 @@
 			<li>
 				<key>Play_Horseshoes</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -662,9 +662,9 @@
 			<li>
 				<key>Play_Hoopstone</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -675,9 +675,9 @@
 			<li>
 				<key>Play_MusicalInstrument</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -688,9 +688,9 @@
 			<li>
 				<key>PickupToHold</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -701,9 +701,9 @@
 			<li>
 				<key>Equip</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -714,9 +714,9 @@
 			<li>
 				<key>TakeInventory</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -727,9 +727,9 @@
 			<li>
 				<key>GiveToPackAnimal</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -740,9 +740,9 @@
 			<li>
 				<key>Strip</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -753,9 +753,9 @@
 			<li>
 				<key>Open</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -766,9 +766,9 @@
 			<li>
 				<key>TakeBeerOutOfFermentingBarrel</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -779,9 +779,9 @@
 			<li>
 				<key>ApplyTechprint</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -792,9 +792,9 @@
 			<li>
 				<key>UseNeurotrainer</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -805,9 +805,9 @@
 			<li>
 				<key>UseArtifact</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -818,9 +818,9 @@
 			<li>
 				<key>UseItem</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -831,9 +831,9 @@
 			<li>
 				<key>TriggerObject</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -844,9 +844,9 @@
 			<li>
 				<key>Flick</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -857,9 +857,9 @@
 			<li>
 				<key>Resurrect</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -870,9 +870,9 @@
 			<li>
 				<key>EmptyThingContainer</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -883,9 +883,9 @@
 			<li>
 				<key>TakeCountToInventory</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -896,9 +896,9 @@
 			<li>
 				<key>TakeFromOtherInventory</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -909,9 +909,9 @@
 			<li>
 				<key>Ignite</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -922,9 +922,9 @@
 			<li>
 				<key>BeatFire</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -935,9 +935,9 @@
 			<li>
 				<key>Rescue</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -948,9 +948,9 @@
 			<li>
 				<key>Capture</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -961,9 +961,9 @@
 			<li>
 				<key>Arrest</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -974,9 +974,9 @@
 			<li>
 				<key>RopeToPen</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -987,9 +987,9 @@
 			<li>
 				<key>RopeRoamerToUnenclosedPen</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1000,9 +1000,9 @@
 			<li>
 				<key>RopeRoamerToHitchingPost</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1013,9 +1013,9 @@
 			<li>
 				<key>Unrope</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1026,9 +1026,9 @@
 			<li>
 				<key>ReleaseAnimalToWild</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1039,9 +1039,9 @@
 			<li>
 				<key>PlaceNoCostFrame</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1052,9 +1052,9 @@
 			<li>
 				<key>FeedPatient</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1065,9 +1065,9 @@
 			<li>
 				<key>DeliverFood</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1079,9 +1079,9 @@
 			<li>
 				<key>SpectateCeremony</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1092,9 +1092,9 @@
 			<li>
 				<key>GiveSpeech</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1105,9 +1105,9 @@
 			<li>
 				<key>VisitGrave</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1118,9 +1118,9 @@
 			<li>
 				<key>Vomit</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1132,9 +1132,9 @@
 			<li>
 				<key>ViewArt</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1145,9 +1145,9 @@
 			<li>
 				<key>IdleWhileDespawned</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1158,9 +1158,9 @@
 			<li>
 				<key>Wait</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1171,9 +1171,9 @@
 			<li>
 				<key>Wait_MaintainPosture</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1184,9 +1184,9 @@
 			<li>
 				<key>Wait_SafeTemperature</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1197,9 +1197,9 @@
 			<li>
 				<key>Wait_Wander</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1210,9 +1210,9 @@
 			<li>
 				<key>DropEquipment</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1223,9 +1223,9 @@
 			<li>
 				<key>UnloadInventory</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1236,9 +1236,9 @@
 			<li>
 				<key>UnloadYourInventory</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1249,9 +1249,9 @@
 			<li>
 				<key>EnterCryptosleepCasket</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1262,9 +1262,9 @@
 			<li>
 				<key>FleeAndCower</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1275,9 +1275,9 @@
 			<li>
 				<key>EnterTransporter</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1289,9 +1289,9 @@
 			<li>
 				<key>GoForWalk</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1302,9 +1302,9 @@
 			<li>
 				<key>Goto</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1315,9 +1315,9 @@
 			<li>
 				<key>Follow</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1328,9 +1328,9 @@
 			<li>
 				<key>FollowClose</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1341,9 +1341,9 @@
 			<li>
 				<key>GotoSafeTemperature</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1354,9 +1354,9 @@
 			<li>
 				<key>GotoWander</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1367,9 +1367,9 @@
 			<li>
 				<key>CastJump</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1380,9 +1380,9 @@
 			<li>
 				<key>Flee</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1393,9 +1393,9 @@
 			<li>
 				<key>GotoMindControlled</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1407,9 +1407,9 @@
 			<li>
 				<key>Play_GameOfUr</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1420,9 +1420,9 @@
 			<li>
 				<key>Play_Chess</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1433,9 +1433,9 @@
 			<li>
 				<key>Research</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1447,9 +1447,9 @@
 			<li>
 				<key>BuildSnowman</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1460,9 +1460,9 @@
 			<li>
 				<key>UseTelescope</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1473,9 +1473,9 @@
 			<li>
 				<key>RearmTurret</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1486,9 +1486,9 @@
 			<li>
 				<key>RearmTurretAtomic</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1499,9 +1499,9 @@
 			<li>
 				<key>Refuel</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1512,9 +1512,9 @@
 			<li>
 				<key>RefuelAtomic</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1525,9 +1525,9 @@
 			<li>
 				<key>Reload</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1538,9 +1538,9 @@
 			<li>
 				<key>FillFermentingBarrel</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1551,9 +1551,9 @@
 			<li>
 				<key>ManTurret</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1564,9 +1564,9 @@
 			<li>
 				<key>Milk</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1577,9 +1577,9 @@
 			<li>
 				<key>Shear</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1590,9 +1590,9 @@
 			<li>
 				<key>Uninstall</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1603,9 +1603,9 @@
 			<li>
 				<key>DoBill</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1616,9 +1616,9 @@
 			<li>
 				<key>OperateDeepDrill</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1629,9 +1629,9 @@
 			<li>
 				<key>OperateScanner</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1643,9 +1643,9 @@
 			<li>
 				<key>Wear</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1656,9 +1656,9 @@
 			<li>
 				<key>RemoveApparel</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1669,9 +1669,9 @@
 			<li>
 				<key>ExtinguishSelf</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1683,9 +1683,9 @@
 			<li>
 				<key>Wait_Downed</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1697,9 +1697,9 @@
 			<li>
 				<key>Skygaze</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1710,9 +1710,9 @@
 			<li>
 				<key>Wait_Asleep</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1723,9 +1723,9 @@
 			<li>
 				<key>LayDown</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1736,9 +1736,9 @@
 			<li>
 				<key>LayDownAwake</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1749,9 +1749,9 @@
 			<li>
 				<key>LayDownResting</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1763,9 +1763,9 @@
 			<li>
 				<key>SocialFight</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1777,9 +1777,9 @@
 			<li>
 				<key>Slaughter</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1790,9 +1790,9 @@
 			<li>
 				<key>PrisonerExecution</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1803,9 +1803,9 @@
 			<li>
 				<key>GuiltyColonistExecution</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1817,9 +1817,9 @@
 			<li>
 				<key>FinishFrame</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1830,9 +1830,9 @@
 			<li>
 				<key>Deconstruct</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1843,9 +1843,9 @@
 			<li>
 				<key>Repair</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1856,9 +1856,9 @@
 			<li>
 				<key>FixBrokenDownBuilding</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1869,9 +1869,9 @@
 			<li>
 				<key>BuildRoof</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1882,9 +1882,9 @@
 			<li>
 				<key>RemoveRoof</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1895,9 +1895,9 @@
 			<li>
 				<key>SmoothFloor</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1908,9 +1908,9 @@
 			<li>
 				<key>RemoveFloor</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1922,9 +1922,9 @@
 			<li>
 				<key>PaintBuilding</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1935,9 +1935,9 @@
 			<li>
 				<key>PaintFloor</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1948,9 +1948,9 @@
 			<li>
 				<key>RemovePaintBuilding</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1961,9 +1961,9 @@
 			<li>
 				<key>RemovePaintFloor</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1975,9 +1975,9 @@
 			<li>
 				<key>Harvest</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -1988,9 +1988,9 @@
 			<li>
 				<key>HarvestDesignated</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -2002,9 +2002,9 @@
 			<li>
 				<key>ClearSnow</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -2015,9 +2015,9 @@
 			<li>
 				<key>Clean</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -2029,9 +2029,9 @@
 			<li>
 				<key>Mine</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -2042,9 +2042,9 @@
 			<li>
 				<key>SmoothWall</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -2056,9 +2056,9 @@
 			<li>
 				<key>Replant</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -2069,9 +2069,9 @@
 			<li>
 				<key>ExtractTree</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -2083,9 +2083,9 @@
 			<li>
 				<key>Sow</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -2096,9 +2096,9 @@
 			<li>
 				<key>PlantSeed</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -2110,9 +2110,9 @@
 			<li>
 				<key>CutPlant</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -2123,9 +2123,9 @@
 			<li>
 				<key>CutPlantDesignated</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -2137,9 +2137,9 @@
 			<li>
 				<key>AttackStatic</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -2150,9 +2150,9 @@
 			<li>
 				<key>Hunt</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -2163,9 +2163,9 @@
 			<li>
 				<key>Wait_Combat</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -2176,9 +2176,9 @@
 			<li>
 				<key>AttackMelee</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -2190,9 +2190,9 @@
 			<li>
 				<key>ExtractSkull</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -2203,9 +2203,9 @@
 			<li>
 				<key>EnterPortal</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -2216,9 +2216,9 @@
 			<li>
 				<key>Reading</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -2229,9 +2229,9 @@
 			<li>
 				<key>StudyItem</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -2242,9 +2242,9 @@
 			<li>
 				<key>StudyInteract</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
@@ -2255,9 +2255,9 @@
 			<li>
 				<key>AnalyzeItem</key>
 				<value>
-					<exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+					<exPath>Anneli_Gloves/SamuraiGauntlets/</exPath>
 					<textures>
-						<li>Anneli_Ahmislan_KnightGauntlets</li>
+						<li>Anneli_NeoYokohama_SamuraiGauntlets</li>
 					</textures>
 					<linkedWithAction>true</linkedWithAction>
 					<type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
