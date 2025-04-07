@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/NareisLib.MultiTexDef[defName="Anneli_NeoYokohama_CyborgShield"]</xpath>
+		<value>
+			<NareisLib.MultiTexDef>
+				<defName>Anneli_NeoYokohama_CyborgShield</defName>
+				<originalDef>Anneli_NeoYokohama_CyborgShield</originalDef>
+				<originalDefClass>ThingDef</originalDefClass>
+				<renderOriginTex>false</renderOriginTex>
+				<path>8C/</path>
+				<levels>
+					<li>
+						<prefix>
+							<li>Anneli_NeoYokohama_CyborgShield</li>
+						</prefix>
+						<renderLayer>Apparel</renderLayer>
+						<textureLevelsName>Anneli_Apparel_Shield</textureLevelsName>
+						<drawOffsetSouth>(0.18, 2.750, 0.02)</drawOffsetSouth>
+						<drawOffsetEast>(0.21, 0.038, 0.02)</drawOffsetEast>
+						<drawOffsetNorth>(-0.18, 0.038, 0.02)</drawOffsetNorth>
+						<drawOffsetWest>(-0.21, 2.750, 0.02)</drawOffsetWest>
+						<meshSize>(1.3,1.3)</meshSize>
+						<meshType>Body</meshType>
+						<useStaticYOffset>true</useStaticYOffset>
+					</li>
+				</levels>
+			</NareisLib.MultiTexDef>
+		</value>
+	</Operation>
+
+</Patch>
