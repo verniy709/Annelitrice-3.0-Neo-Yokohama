@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef Name="Anneli_NeoYokohama_34" ParentName="Anneli_34" Abstract="True">
+		<equippedStatOffsets>
+			<RestFallRateFactor>-0.2</RestFallRateFactor>
+		</equippedStatOffsets>
+		<thingCategories>
+			<li>Anneli_Category_NeoYokohama</li>
+		</thingCategories>
+		<recipeMaker>
+			<recipeUsers>
+				<li>Anneli_NeoYokohama_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_CyborgArmorA-->
+	<ThingDef ParentName="Anneli_NeoYokohama_34">
+		<defName>Anneli_NeoYokohama_CyborgArmorA</defName>
+		<description>Dyeable.</description>
+		<label>(NeoY)34_CyborgArmorA</label>
+		<graphicData>
+			<texPath>34/Anneli_NeoYokohama_CyborgArmorA</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>34/Anneli_NeoYokohama_CyborgArmorA</wornGraphicPath>
+			<tags>
+				<li>Anneli_NeoYokohama_CyborgCombatant</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_CyborgArmorB-->
+	<ThingDef ParentName="Anneli_NeoYokohama_34">
+		<defName>Anneli_NeoYokohama_CyborgArmorB</defName>
+		<description>Dyeable.</description>
+		<label>(NeoY)34_CyborgArmorB</label>
+		<graphicData>
+			<texPath>34/Anneli_NeoYokohama_CyborgArmorB</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>34/Anneli_NeoYokohama_CyborgArmorB</wornGraphicPath>
+			<tags>
+				
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_SamuraiArmor-->
+	<ThingDef ParentName="Anneli_NeoYokohama_34">
+		<defName>Anneli_NeoYokohama_SamuraiArmor</defName>
+		<description>Dyeable.</description>
+		<label>(NeoY)34_SamuraiArmor</label>
+		<graphicData>
+			<texPath>34/Anneli_NeoYokohama_SamuraiArmor</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>34/Anneli_NeoYokohama_SamuraiArmor</wornGraphicPath>
+			<tags>
+				<li>Anneli_NeoYokohama_Samurai</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_ShinobiArmor-->
+	<ThingDef ParentName="Anneli_NeoYokohama_34">
+		<defName>Anneli_NeoYokohama_ShinobiArmor</defName>
+		<description>Dyeable.</description>
+		<label>(NeoY)34_ShinobiArmor</label>
+		<graphicData>
+			<texPath>34/Anneli_NeoYokohama_ShinobiArmor</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>34/Anneli_NeoYokohama_ShinobiArmor</wornGraphicPath>
+			<tags>
+				<li>Anneli_NeoYokohama_Shinobi</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+</Defs>

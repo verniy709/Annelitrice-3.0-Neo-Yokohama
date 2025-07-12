@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_NeoYokohama_BaseballCap</defName>
+		<originalDef>Anneli_NeoYokohama_BaseballCap</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>6A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_NeoYokohama_BaseballCap</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
+				<drawOffsetSouth>(0, 2.538, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.538, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.538, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.538, 0)</drawOffsetWest>
+				<meshType>Head</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+			</li>
+			<li>
+				<prefix>
+					<li>Anneli_Back_NeoYokohama_BaseballCap</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Hat6A_Back</textureLevelsName>
+				<drawOffsetSouth>(0, 0.250, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 0.250, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 0.250, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 0.250, 0)</drawOffsetWest>
+				<renderSwitch>(1, 1, 0)</renderSwitch>
+				<meshType>Head</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_NeoYokohama_BunnyEars</defName>
+		<originalDef>Anneli_NeoYokohama_BunnyEars</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>6A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_NeoYokohama_BunnyEars</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
+				<drawOffsetSouth>(0, 2.538, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.538, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.538, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.538, 0)</drawOffsetWest>
+				<meshType>Head</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_NeoYokohama_ConicalHat</defName>
+		<originalDef>Anneli_NeoYokohama_ConicalHat</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>6A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_NeoYokohama_ConicalHat</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
+				<drawOffsetSouth>(0, 2.615, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.615, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.615, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.615, 0)</drawOffsetWest>
+				<meshType>Head</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+			</li>
+			<li>
+				<prefix>
+					<li>Anneli_Back_NeoYokohama_ConicalHat</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Hat6A_Back</textureLevelsName>
+				<drawOffsetSouth>(0, 0.250, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 0.250, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 0.250, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 0.250, 0)</drawOffsetWest>
+				<renderSwitch>(1, 1, 0)</renderSwitch>
+				<meshType>Head</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_NeoYokohama_FoxMaskOnHead</defName>
+		<originalDef>Anneli_NeoYokohama_FoxMaskOnHead</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>6A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_NeoYokohama_FoxMaskOnHead</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
+				<drawOffsetSouth>(0, 2.538, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.538, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.538, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.538, 0)</drawOffsetWest>
+				<meshType>Head</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_NeoYokohama_Headband</defName>
+		<originalDef>Anneli_NeoYokohama_Headband</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>6A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_NeoYokohama_Headband</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
+				<drawOffsetSouth>(0, 2.538, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.538, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.538, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.538, 0)</drawOffsetWest>
+				<meshType>Head</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+			</li>
+			<li>
+				<prefix>
+					<li>Anneli_Back_NeoYokohama_Headband</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Hat6A_Back</textureLevelsName>
+				<drawOffsetSouth>(0, 0.250, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 0.250, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 0.250, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 0.250, 0)</drawOffsetWest>
+				<renderSwitch>(1, 0, 0)</renderSwitch>
+				<meshType>Head</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_NeoYokohama_Helmet</defName>
+		<originalDef>Anneli_NeoYokohama_Helmet</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>6A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_NeoYokohama_Helmet</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
+				<drawOffsetSouth>(0, 2.615, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.615, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.615, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.615, 0)</drawOffsetWest>
+				<meshType>Head</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_NeoYokohama_Kabuto</defName>
+		<originalDef>Anneli_NeoYokohama_Kabuto</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>6A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_NeoYokohama_Kabuto</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
+				<drawOffsetSouth>(0, 2.615, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.615, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.615, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.615, 0)</drawOffsetWest>
+				<meshType>Head</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+			</li>
+			<li>
+				<prefix>
+					<li>Anneli_Back_NeoYokohama_Kabuto</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Hat6A_Back</textureLevelsName>
+				<drawOffsetSouth>(0, 0.250, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 0.250, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 0.250, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 0.250, 0)</drawOffsetWest>
+				<renderSwitch>(1, 0, 0)</renderSwitch>
+				<meshType>Head</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_NeoYokohama_Kanzashi</defName>
+		<originalDef>Anneli_NeoYokohama_Kanzashi</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>6A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_NeoYokohama_Kanzashi</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
+				<drawOffsetSouth>(0, 2.538, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.538, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.538, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.538, 0)</drawOffsetWest>
+				<meshType>Head</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_NeoYokohama_NurseCap</defName>
+		<originalDef>Anneli_NeoYokohama_NurseCap</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>6A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_NeoYokohama_NurseCap</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
+				<drawOffsetSouth>(0, 2.538, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.538, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.538, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.538, 0)</drawOffsetWest>
+				<meshType>Head</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_NeoYokohama_PoliceHat</defName>
+		<originalDef>Anneli_NeoYokohama_PoliceHat</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>6A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_NeoYokohama_PoliceHat</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
+				<drawOffsetSouth>(0, 2.577, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.577, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.577, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.577, 0)</drawOffsetWest>
+				<meshType>Head</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_NeoYokohama_SunglassesOnHead</defName>
+		<originalDef>Anneli_NeoYokohama_SunglassesOnHead</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>6A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_NeoYokohama_SunglassesOnHead</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
+				<drawOffsetSouth>(0, 2.538, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.538, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.538, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.538, 0)</drawOffsetWest>
+				<meshType>Head</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_NeoYokohama_TacticalHeadsetA</defName>
+		<originalDef>Anneli_NeoYokohama_TacticalHeadsetA</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>6A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_NeoYokohama_TacticalHeadsetA</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
+				<drawOffsetSouth>(0, 2.538, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.538, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.538, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.538, 0)</drawOffsetWest>
+				<meshType>Head</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+			</li>
+			<li>
+				<prefix>
+					<li>Anneli_NeoYokohama_HaloA</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_OverlayHead</textureLevelsName>
+				<drawOffsetSouth>(0, 2.808, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.808, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.808, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.808, 0)</drawOffsetWest>
+				<meshType>Head</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useStaticColor>true</useStaticColor>
+				<color>RGBA(0.99,0.99,0.99,1)</color>
+				<shaderType>Transparent</shaderType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_NeoYokohama_TacticalHeadsetB</defName>
+		<originalDef>Anneli_NeoYokohama_TacticalHeadsetB</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>6A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_NeoYokohama_TacticalHeadsetB</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
+				<drawOffsetSouth>(0, 2.538, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.538, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.538, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.538, 0)</drawOffsetWest>
+				<meshType>Head</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+			</li>
+			<li>
+				<prefix>
+					<li>Anneli_NeoYokohama_HaloB</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_OverlayHead</textureLevelsName>
+				<drawOffsetSouth>(0, 2.808, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.808, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.808, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.808, 0)</drawOffsetWest>
+				<meshType>Head</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useStaticColor>true</useStaticColor>
+				<color>RGBA(0.99,0.99,0.99,1)</color>
+				<shaderType>Transparent</shaderType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+</Defs>

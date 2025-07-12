@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef Name="Anneli_NeoYokohama_2A" ParentName="Anneli_2A" Abstract="True">
+		<equippedStatOffsets>
+			<ResearchSpeed>0.2</ResearchSpeed>
+		</equippedStatOffsets>
+		<thingCategories>
+			<li>Anneli_Category_NeoYokohama</li>
+		</thingCategories>
+		<recipeMaker>
+			<recipeUsers>
+				<li>Anneli_NeoYokohama_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_DutyShirt-->
+	<ThingDef ParentName="Anneli_NeoYokohama_2A">
+		<defName>Anneli_NeoYokohama_DutyShirt</defName>
+		<description>Dyeable.</description>
+		<label>(NeoY)2A_DutyShirt</label>
+		<graphicData>
+			<texPath>2A/Anneli_NeoYokohama_DutyShirt</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>2A/Anneli_NeoYokohama_DutyShirt</wornGraphicPath>
+			<tags>
+				<li>Anneli_NeoYokohama_Cop</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(175,200,240,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_TankTopA-->
+	<ThingDef ParentName="Anneli_NeoYokohama_2A">
+		<defName>Anneli_NeoYokohama_TankTopA</defName>
+		<description>Dyeable.</description>
+		<label>(NeoY)2A_TankTopA</label>
+		<graphicData>
+			<texPath>2A/Anneli_NeoYokohama_TankTopA</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>2A/Anneli_NeoYokohama_TankTopA</wornGraphicPath>
+			<tags>
+				<li>Anneli_NeoYokohama_Thug</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_TankTopB-->
+	<ThingDef ParentName="Anneli_NeoYokohama_2A">
+		<defName>Anneli_NeoYokohama_TankTopB</defName>
+		<description>Dyeable.</description>
+		<label>(NeoY)2A_TankTopB</label>
+		<graphicData>
+			<texPath>2A/Anneli_NeoYokohama_TankTopB</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>2A/Anneli_NeoYokohama_TankTopB</wornGraphicPath>
+			<tags>
+				<li>Anneli_NeoYokohama_Thug</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_TankTopC-->
+	<ThingDef ParentName="Anneli_NeoYokohama_2A">
+		<defName>Anneli_NeoYokohama_TankTopC</defName>
+		<description>Dyeable.</description>
+		<label>(NeoY)2A_TankTopC</label>
+		<graphicData>
+			<texPath>2A/Anneli_NeoYokohama_TankTopC</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>2A/Anneli_NeoYokohama_TankTopC</wornGraphicPath>
+			<tags>
+				<li>Anneli_NeoYokohama_TacticalOperator</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_Top-->
+	<ThingDef ParentName="Anneli_NeoYokohama_2A">
+		<defName>Anneli_NeoYokohama_Top</defName>
+		<description>Dyeable.</description>
+		<label>(NeoY)2A_Top</label>
+		<graphicData>
+			<texPath>2A/Anneli_NeoYokohama_Top</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>2A/Anneli_NeoYokohama_Top</wornGraphicPath>
+			<tags>
+				<li>Anneli_NeoYokohama_Salaryperson</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(255,245,245,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+</Defs>

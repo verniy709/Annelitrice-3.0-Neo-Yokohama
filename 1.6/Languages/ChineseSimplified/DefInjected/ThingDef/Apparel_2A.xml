@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Anneli_NeoYokohama_DutyShirt -->
+
+  <Anneli_NeoYokohama_DutyShirt.description>可染色。</Anneli_NeoYokohama_DutyShirt.description>
+  <Anneli_NeoYokohama_DutyShirt.label>(新横滨)2A_警察制服</Anneli_NeoYokohama_DutyShirt.label>
+
+
+  <!-- Anneli_NeoYokohama_TankTopA -->
+
+  <Anneli_NeoYokohama_TankTopA.description>可染色。</Anneli_NeoYokohama_TankTopA.description>
+  <Anneli_NeoYokohama_TankTopA.label>(新横滨)2A_背心A</Anneli_NeoYokohama_TankTopA.label>
+
+
+  <!-- Anneli_NeoYokohama_TankTopB -->
+
+  <Anneli_NeoYokohama_TankTopB.description>可染色。</Anneli_NeoYokohama_TankTopB.description>
+  <Anneli_NeoYokohama_TankTopB.label>(新横滨)2A_背心B</Anneli_NeoYokohama_TankTopB.label>
+
+
+  <!-- Anneli_NeoYokohama_TankTopC -->
+
+  <Anneli_NeoYokohama_TankTopC.description>可染色。</Anneli_NeoYokohama_TankTopC.description>
+  <Anneli_NeoYokohama_TankTopC.label>(新横滨)2A_背心C</Anneli_NeoYokohama_TankTopC.label>
+
+
+  <!-- Anneli_NeoYokohama_Top -->
+
+  <Anneli_NeoYokohama_Top.description>可染色。</Anneli_NeoYokohama_Top.description>
+  <Anneli_NeoYokohama_Top.label>(新横滨)2A_上衣</Anneli_NeoYokohama_Top.label>
+
+
+</LanguageData>

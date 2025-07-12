@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Anneli_NeoYokohama_CyborgWing_Bullet -->
+
+  <Anneli_NeoYokohama_CyborgWing_Bullet.label>机械翼子弹</Anneli_NeoYokohama_CyborgWing_Bullet.label>
+
+  <Anneli_NeoYokohama_CyborgWing.description>可染色。</Anneli_NeoYokohama_CyborgWing.description>
+  <Anneli_NeoYokohama_CyborgWing.label>(新横滨)8B_机械翼</Anneli_NeoYokohama_CyborgWing.label>
+  <Anneli_NeoYokohama_CyborgWing.verbs.0.label>翼</Anneli_NeoYokohama_CyborgWing.verbs.0.label>
+  <Anneli_NeoYokohama_CyborgWing.comps.0.verbProps.0.label>翼</Anneli_NeoYokohama_CyborgWing.comps.0.verbProps.0.label>
+  <Anneli_NeoYokohama_CyborgWing.comps.0.verbProps.0.description>翼.</Anneli_NeoYokohama_CyborgWing.comps.0.verbProps.0.description>
+
+
+  <!-- Anneli_NeoYokohama_Drone_Bullet -->
+
+  <Anneli_NeoYokohama_Drone_Bullet.label>无人机子弹</Anneli_NeoYokohama_Drone_Bullet.label>
+
+  <Anneli_NeoYokohama_Drone.description>可染色。</Anneli_NeoYokohama_Drone.description>
+  <Anneli_NeoYokohama_Drone.label>(新横滨)8B_无人机</Anneli_NeoYokohama_Drone.label>
+  <Anneli_NeoYokohama_Drone.verbs.0.label>无人机</Anneli_NeoYokohama_Drone.verbs.0.label>
+  <Anneli_NeoYokohama_Drone.comps.0.verbProps.0.label>无人机</Anneli_NeoYokohama_Drone.comps.0.verbProps.0.label>
+  <Anneli_NeoYokohama_Drone.comps.0.verbProps.0.description>无人机.</Anneli_NeoYokohama_Drone.comps.0.verbProps.0.description>
+
+
+  <!-- Anneli_NeoYokohama_Wagasa_Bullet -->
+
+  <Anneli_NeoYokohama_Wagasa_Bullet.label>纸伞子弹</Anneli_NeoYokohama_Wagasa_Bullet.label>
+
+
+  <!-- Anneli_NeoYokohama_Wagasa_Sound -->
+
+  <Anneli_NeoYokohama_Wagasa.description>可染色。</Anneli_NeoYokohama_Wagasa.description>
+  <Anneli_NeoYokohama_Wagasa.label>(新横滨)8B_纸伞</Anneli_NeoYokohama_Wagasa.label>
+  <Anneli_NeoYokohama_Wagasa.verbs.0.label>纸伞</Anneli_NeoYokohama_Wagasa.verbs.0.label>
+  <Anneli_NeoYokohama_Wagasa.comps.0.verbProps.0.label>纸伞</Anneli_NeoYokohama_Wagasa.comps.0.verbProps.0.label>
+  <Anneli_NeoYokohama_Wagasa.comps.0.verbProps.0.description>纸伞.</Anneli_NeoYokohama_Wagasa.comps.0.verbProps.0.description>
+
+
+</LanguageData>

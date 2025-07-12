@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_NeoYokohama_GogglesA</defName>
+		<originalDef>Anneli_NeoYokohama_GogglesA</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>6B/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_NeoYokohama_GogglesA</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Hat6B</textureLevelsName>
+				<drawOffsetSouth>(0, 2.404, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.404, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.404, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.404, 0)</drawOffsetWest>
+				<meshType>Head</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_NeoYokohama_GogglesB</defName>
+		<originalDef>Anneli_NeoYokohama_GogglesB</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>6B/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_NeoYokohama_GogglesB</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Hat6B</textureLevelsName>
+				<drawOffsetSouth>(0, 2.404, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.404, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.404, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.404, 0)</drawOffsetWest>
+				<meshType>Head</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_NeoYokohama_GogglesC</defName>
+		<originalDef>Anneli_NeoYokohama_GogglesC</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>6B/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_NeoYokohama_GogglesC</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Hat6B</textureLevelsName>
+				<drawOffsetSouth>(0, 2.404, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.404, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.404, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.404, 0)</drawOffsetWest>
+				<meshType>Head</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+</Defs>

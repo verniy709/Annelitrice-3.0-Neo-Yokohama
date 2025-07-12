@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_NeoYokohama_Catsuit</defName>
+		<originalDef>Anneli_NeoYokohama_Catsuit</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>1ABC/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_NeoYokohama_Catsuit</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel1ABC</textureLevelsName>
+				<drawOffsetSouth>(0, 1.231, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.231, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.231, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.231, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_NeoYokohama_FishnetCatsuit</defName>
+		<originalDef>Anneli_NeoYokohama_FishnetCatsuit</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>1ABC/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_NeoYokohama_FishnetCatsuit</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel1ABC</textureLevelsName>
+				<drawOffsetSouth>(0, 1.231, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.231, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.231, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.231, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_NeoYokohama_LatexCatsuit</defName>
+		<originalDef>Anneli_NeoYokohama_LatexCatsuit</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>1ABC/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_NeoYokohama_LatexCatsuit</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel1ABC</textureLevelsName>
+				<drawOffsetSouth>(0, 1.231, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.231, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.231, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.231, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+			<li>
+				<prefix>
+					<li>Anneli_Arm_LLTS</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Sleeve1_LLTS_Left</textureLevelsName>
+				<useStaticYOffset>true</useStaticYOffset>
+				<drawOffsetSouth>(0, 1.692, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 0.615, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.692, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.692, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
+				<isSleeve>true</isSleeve>
+				<actionManager>
+					<def>Anneli_Arm_LLTS_Left</def>
+				</actionManager>
+			</li>
+			<li>
+				<prefix>
+					<li>Anneli_Arm_LLTS</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Sleeve1_LLTS_Right</textureLevelsName>
+				<flipped>true</flipped>
+				<switchEastWest>true</switchEastWest>
+				<useStaticYOffset>true</useStaticYOffset>
+				<drawOffsetSouth>(0, 1.692, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.692, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.692, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 0.615, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
+				<isSleeve>true</isSleeve>
+				<actionManager>
+					<def>Anneli_Arm_LLTS_Right</def>
+				</actionManager>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+</Defs>

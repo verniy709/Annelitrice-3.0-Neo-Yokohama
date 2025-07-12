@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef Name="Anneli_NeoYokohama_2B" ParentName="Anneli_2B" Abstract="True">
+		<equippedStatOffsets>
+			<ResearchSpeed>0.2</ResearchSpeed>
+		</equippedStatOffsets>
+		<thingCategories>
+			<li>Anneli_Category_NeoYokohama</li>
+		</thingCategories>
+		<recipeMaker>
+			<recipeUsers>
+				<li>Anneli_NeoYokohama_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_DenimShorts-->
+	<ThingDef ParentName="Anneli_NeoYokohama_2B">
+		<defName>Anneli_NeoYokohama_DenimShorts</defName>
+		<description>Dyeable.</description>
+		<label>(NeoY)2B_DenimShorts</label>
+		<graphicData>
+			<texPath>2B/Anneli_NeoYokohama_DenimShorts</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>2B/Anneli_NeoYokohama_DenimShorts</wornGraphicPath>
+			<tags>
+				<li>Anneli_NeoYokohama_Thug</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(105,115,155,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_DressPants-->
+	<ThingDef ParentName="Anneli_NeoYokohama_2B">
+		<defName>Anneli_NeoYokohama_DressPants</defName>
+		<description>Dyeable.</description>
+		<label>(NeoY)2B_DressPants</label>
+		<graphicData>
+			<texPath>2B/Anneli_NeoYokohama_DressPants</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>2B/Anneli_NeoYokohama_DressPants</wornGraphicPath>
+			<tags>
+				<li>Anneli_NeoYokohama_Salaryperson</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(60,80,130,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_LeatherPants-->
+	<ThingDef ParentName="Anneli_NeoYokohama_2B">
+		<defName>Anneli_NeoYokohama_LeatherPants</defName>
+		<description>Dyeable.</description>
+		<label>(NeoY)2B_LeatherPants</label>
+		<graphicData>
+			<texPath>2B/Anneli_NeoYokohama_LeatherPants</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>2B/Anneli_NeoYokohama_LeatherPants</wornGraphicPath>
+			<tags>
+				<li>Anneli_NeoYokohama_Thug</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_Skirt-->
+	<ThingDef ParentName="Anneli_NeoYokohama_2B">
+		<defName>Anneli_NeoYokohama_Skirt</defName>
+		<description>Dyeable.</description>
+		<label>(NeoY)2B_Skirt</label>
+		<graphicData>
+			<texPath>2B/Anneli_NeoYokohama_Skirt</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>2B/Anneli_NeoYokohama_Skirt</wornGraphicPath>
+			<tags>
+				<li>Anneli_NeoYokohama_Salaryperson</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(60,80,130,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_TacticalPants-->
+	<ThingDef ParentName="Anneli_NeoYokohama_2B">
+		<defName>Anneli_NeoYokohama_TacticalPants</defName>
+		<description>Dyeable.</description>
+		<label>(NeoY)2B_TacticalPants</label>
+		<graphicData>
+			<texPath>2B/Anneli_NeoYokohama_TacticalPants</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>2B/Anneli_NeoYokohama_TacticalPants</wornGraphicPath>
+			<tags>
+				<li>Anneli_NeoYokohama_TacticalOperator</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+</Defs>

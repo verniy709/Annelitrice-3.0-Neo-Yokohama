@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Anneli_NeoYokohama_ElectricGuitar -->
+
+  <Anneli_NeoYokohama_ElectricGuitar.description>可染色。</Anneli_NeoYokohama_ElectricGuitar.description>
+  <Anneli_NeoYokohama_ElectricGuitar.label>(新横滨)8A_电吉他</Anneli_NeoYokohama_ElectricGuitar.label>
+
+
+  <!-- Anneli_NeoYokohama_SashimonoA -->
+
+  <Anneli_NeoYokohama_SashimonoA.description>可染色。</Anneli_NeoYokohama_SashimonoA.description>
+  <Anneli_NeoYokohama_SashimonoA.label>(新横滨)8A_腰旗A</Anneli_NeoYokohama_SashimonoA.label>
+
+
+  <!-- Anneli_NeoYokohama_SashimonoB -->
+
+  <Anneli_NeoYokohama_SashimonoB.description>可染色。</Anneli_NeoYokohama_SashimonoB.description>
+  <Anneli_NeoYokohama_SashimonoB.label>(新横滨)8A_腰旗B</Anneli_NeoYokohama_SashimonoB.label>
+
+
+</LanguageData>
