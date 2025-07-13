@@ -453,6 +453,7 @@
 			<li>Anneli_ShieldBelt</li>
 			<li>Anneli_NeoYokohama_CyborgCombatant</li>
 			<li>Anneli_NeoYokohama_CyborgCombatantB</li>
+			<li>Anneli_NeoYokohama_CyborgShield</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
@@ -460,17 +461,6 @@
 			<li>SpacerMelee</li>
 			<li>UltratechMelee</li>
 		</weaponTags>
-		<modExtensions Inherit="False">
-			<li Class="VEF.Pawns.PawnKindDefExtension">
-				<shieldMoney>
-					<min>300</min>
-					<max>800</max>
-				</shieldMoney>
-				<shieldTags>
-					<li>NeoYokohama_CyborgShield</li>
-				</shieldTags>
-			</li>
-		</modExtensions>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_NeoYokohama_KindBase">
@@ -491,6 +481,7 @@
 			<li>Anneli_ShieldBelt</li>
 			<li>Anneli_NeoYokohama_CyborgCombatant</li>
 			<li>Anneli_NeoYokohama_CyborgCombatantC</li>
+			<li>Anneli_NeoYokohama_CyborgShield</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
@@ -498,17 +489,6 @@
 			<li>SpacerMelee</li>
 			<li>UltratechMelee</li>
 		</weaponTags>
-		<modExtensions Inherit="False">
-			<li Class="VEF.Pawns.PawnKindDefExtension">
-				<shieldMoney>
-					<min>300</min>
-					<max>800</max>
-				</shieldMoney>
-				<shieldTags>
-					<li>NeoYokohama_CyborgShield</li>
-				</shieldTags>
-			</li>
-		</modExtensions>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_NeoYokohama_KindBase">

@@ -112,6 +112,11 @@
             <graphicClass>Graphic_Single</graphicClass>
             <drawSize>1</drawSize>
         </graphicData>
+        <apparel>
+            <tags>
+                <li>Anneli_NeoYokohama_CyborgShield</li>
+            </tags>
+        </apparel>
         <comps>
             <li Class="VEF.Apparels.CompProperties_Shield">
                 <shieldTags>
