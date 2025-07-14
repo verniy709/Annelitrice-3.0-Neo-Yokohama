@@ -349,17 +349,6 @@
 			<li>Anneli_NeoYokohama_HackerSuitB</li>
 			<li>Anneli_NeoYokohama_LongBoots</li>
 		</apparelRequired>
-		<apparelTags>
-			<li>BeltDefensePop</li>
-			<li>Anneli_NeoYokohama_Hacker</li>
-		</apparelTags>
-		<apparelMoney>2000~4000</apparelMoney>
-		<weaponTags>
-			<li>SimpleGun</li>
-			<li>Revolver</li>
-			<li>IndustrialGunAdvanced</li>
-			<li>SpacerGun</li>
-		</weaponTags>
 		<specificApparelRequirements>
 			<li>
 				<apparelDef>Anneli_NeoYokohama_LongLatexGloves</apparelDef>
@@ -373,6 +362,17 @@
 				</colorGenerator>
 			</li>
 		</specificApparelRequirements>
+		<apparelTags>
+			<li>BeltDefensePop</li>
+			<li>Anneli_NeoYokohama_Hacker</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>SimpleGun</li>
+			<li>Revolver</li>
+			<li>IndustrialGunAdvanced</li>
+			<li>SpacerGun</li>
+		</weaponTags>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_NeoYokohama_KindBase">
@@ -385,16 +385,6 @@
 			<li>Anneli_NeoYokohama_MedicalScrub</li>
 			<li>Anneli_NeoYokohama_NurseCap</li>
 		</apparelRequired>
-		<apparelTags>
-			<li>Anneli_NeoYokohama_Doctor</li>
-		</apparelTags>
-		<apparelMoney>2000~4000</apparelMoney>
-		<weaponTags>
-			<li>SimpleGun</li>
-			<li>Revolver</li>
-			<li>IndustrialGunAdvanced</li>
-			<li>SpacerGun</li>
-		</weaponTags>
 		<specificApparelRequirements>
 			<li>
 				<apparelDef>Anneli_NeoYokohama_LongLatexGloves</apparelDef>
@@ -408,6 +398,16 @@
 				</colorGenerator>
 			</li>
 		</specificApparelRequirements>
+		<apparelTags>
+			<li>Anneli_NeoYokohama_Doctor</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>SimpleGun</li>
+			<li>Revolver</li>
+			<li>IndustrialGunAdvanced</li>
+			<li>SpacerGun</li>
+		</weaponTags>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_NeoYokohama_KindBase">

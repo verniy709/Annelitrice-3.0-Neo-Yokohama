@@ -199,6 +199,19 @@
 			<li>Anneli_NeoYokohama_HackerSuitB</li>
 			<li>Anneli_NeoYokohama_LongBoots</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_NeoYokohama_LongLatexGloves</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(255,245,245,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
 			<li>Anneli_NeoYokohama_Hacker</li>
 		</apparelTags>
@@ -212,6 +225,19 @@
 			<li>Anneli_NeoYokohama_MedicalScrub</li>
 			<li>Anneli_NeoYokohama_NurseCap</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_NeoYokohama_LongLatexGloves</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(255,245,245,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
 			<li>Anneli_NeoYokohama_Doctor</li>
 		</apparelTags>
