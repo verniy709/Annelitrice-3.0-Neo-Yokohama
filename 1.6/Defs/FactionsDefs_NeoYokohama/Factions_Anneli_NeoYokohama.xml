@@ -103,6 +103,33 @@
 				</options>
 			</li>
 			<li>
+				<kindDef>Combat</kindDef>
+				<commonality>40</commonality>
+				<options>
+					<Anneli_NeoYokohama_TacticalOperator>4</Anneli_NeoYokohama_TacticalOperator>
+					<Anneli_NeoYokohama_HomelessPerson>2</Anneli_NeoYokohama_HomelessPerson>
+					<Anneli_NeoYokohama_HackerA>2</Anneli_NeoYokohama_HackerA>
+					<Anneli_NeoYokohama_CyborgCombatantA>3</Anneli_NeoYokohama_CyborgCombatantA>
+					<Anneli_NeoYokohama_CyborgCombatantB>3</Anneli_NeoYokohama_CyborgCombatantB>
+					<Anneli_NeoYokohama_CyborgCombatantC>3</Anneli_NeoYokohama_CyborgCombatantC>
+				</options>
+			</li>
+			<li>
+				<kindDef>Combat</kindDef>
+				<commonality>40</commonality>
+				<options>
+					<Anneli_NeoYokohama_ShominA>2</Anneli_NeoYokohama_ShominA>
+					<Anneli_NeoYokohama_ShominB>2</Anneli_NeoYokohama_ShominB>
+					<Anneli_NeoYokohama_ShominC>1</Anneli_NeoYokohama_ShominC>
+					<Anneli_NeoYokohama_Ronin>2</Anneli_NeoYokohama_Ronin>
+					<Anneli_NeoYokohama_Shinobi>3</Anneli_NeoYokohama_Shinobi>
+					<Anneli_NeoYokohama_GeishaA>2</Anneli_NeoYokohama_GeishaA>
+					<Anneli_NeoYokohama_GeishaB>2</Anneli_NeoYokohama_GeishaB>
+					<Anneli_NeoYokohama_SamuraiA>3</Anneli_NeoYokohama_SamuraiA>
+					<Anneli_NeoYokohama_SamuraiB>1</Anneli_NeoYokohama_SamuraiB>
+				</options>
+			</li>
+			<li>
 				<kindDef>Peaceful</kindDef>
 				<options>
 					<Anneli_NeoYokohama_SalarypersonA>1</Anneli_NeoYokohama_SalarypersonA>
