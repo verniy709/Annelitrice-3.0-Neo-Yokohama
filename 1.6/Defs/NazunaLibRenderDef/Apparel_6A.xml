@@ -342,7 +342,7 @@
 				<meshType>Head</meshType>
 				<useStaticYOffset>true</useStaticYOffset>
 				<useStaticColor>true</useStaticColor>
-				<color>RGBA(0.99,0.99,0.99,1)</color>
+				<color>RGBA(255,255,254,255)</color>
 				<shaderType>Transparent</shaderType>
 			</li>
 		</levels>
@@ -381,7 +381,7 @@
 				<meshType>Head</meshType>
 				<useStaticYOffset>true</useStaticYOffset>
 				<useStaticColor>true</useStaticColor>
-				<color>RGBA(0.99,0.99,0.99,1)</color>
+				<color>RGBA(255,255,254,255)</color>
 				<shaderType>Transparent</shaderType>
 			</li>
 		</levels>

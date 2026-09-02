@@ -2,9 +2,6 @@
 <Defs>
 
 	<ThingDef Name="Anneli_NeoYokohama_6BC_NonMetal" ParentName="Anneli_6BC_NonMetal" Abstract="True">
-		<equippedStatOffsets>
-			<GlobalLearningFactor>0.2</GlobalLearningFactor>
-		</equippedStatOffsets>
 		<thingCategories>
 			<li>Anneli_Category_NeoYokohama</li>
 		</thingCategories>
@@ -16,10 +13,6 @@
 	</ThingDef>
 
 	<ThingDef Name="Anneli_NeoYokohama_6BC_Metal" ParentName="Anneli_6BC_Metal" Abstract="True">
-		<equippedStatOffsets>
-			<PsychicSensitivityOffset>0.2</PsychicSensitivityOffset>
-			<MeditationFocusGain MayRequire="Ludeon.RimWorld.Royalty">0.2</MeditationFocusGain>
-		</equippedStatOffsets>
 		<thingCategories>
 			<li>Anneli_Category_NeoYokohama</li>
 		</thingCategories>

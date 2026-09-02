@@ -59,6 +59,12 @@
 
   <Anneli_NeoYokohama_Sollerets.description>可染色。</Anneli_NeoYokohama_Sollerets.description>
   <Anneli_NeoYokohama_Sollerets.label>(新横滨)2C_金属靴</Anneli_NeoYokohama_Sollerets.label>
+  
+
+  <!-- Anneli_NeoYokohama_LongSollerets -->
+
+  <Anneli_NeoYokohama_LongSollerets.description>可染色。</Anneli_NeoYokohama_LongSollerets.description>
+  <Anneli_NeoYokohama_LongSollerets.label>(新横滨)2C_长金属靴</Anneli_NeoYokohama_LongSollerets.label>
 
 
 </LanguageData>
