@@ -28,7 +28,7 @@
 						<clipPath>Anneli_ElectricGuitarA</clipPath>
 					</li>
 				</grains>
-				<volumeRange>40~40</volumeRange>
+				<volumeRange>30~30</volumeRange>
 			</li>
 		</subSounds>
 	</SoundDef>
@@ -49,7 +49,7 @@
 						<clipPath>Anneli_ElectricGuitarB</clipPath>
 					</li>
 				</grains>
-				<volumeRange>40~40</volumeRange>
+				<volumeRange>35~35</volumeRange>
 			</li>
 		</subSounds>
 	</SoundDef>
