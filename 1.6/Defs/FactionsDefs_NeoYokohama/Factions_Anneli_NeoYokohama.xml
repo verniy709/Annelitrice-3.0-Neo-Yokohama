@@ -21,7 +21,7 @@
 		<naturalEnemy>true</naturalEnemy>
 		<techLevel>Spacer</techLevel>
 		<allowedCultures>
-			<li>Anneli_Cultures_Sophian</li>
+			<li>Anneli_Cultures_Astropolitan</li>
 		</allowedCultures>
 		<settlementTexturePath>Anneli_Factions/Anneli_NeoYokohama</settlementTexturePath>
 		<factionIconPath>Anneli_Factions/Anneli_NeoYokohama</factionIconPath>

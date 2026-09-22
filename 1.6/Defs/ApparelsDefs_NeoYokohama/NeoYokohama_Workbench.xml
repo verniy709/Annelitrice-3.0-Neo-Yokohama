@@ -51,7 +51,7 @@
       <li>PlaceWorker_ShowFacilitiesConnections</li>
     </placeWorkers>
     <researchPrerequisites>
-      <li>Anneli_NeoYokohama_Apparels</li>
+      <li>Anneli_NeoYokohama_Apparel</li>
     </researchPrerequisites>
   </ThingDef>
 

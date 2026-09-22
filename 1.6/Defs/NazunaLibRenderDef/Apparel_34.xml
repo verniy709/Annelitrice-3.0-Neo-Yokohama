@@ -75,7 +75,7 @@
 					<li>Anneli_Arm_PauldronC</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
-				<textureLevelsName>Anneli_Sleeve4_PauldronC_Left</textureLevelsName>
+				<textureLevelsName>Anneli_Apparel34_Sleeve4_PauldronC_Left</textureLevelsName>
 				<useStaticYOffset>true</useStaticYOffset>
 				<drawOffsetSouth>(0, 2.673, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 0.654, 0)</drawOffsetEast>
@@ -93,7 +93,7 @@
 					<li>Anneli_Arm_PauldronC</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
-				<textureLevelsName>Anneli_Sleeve4_PauldronC_Right</textureLevelsName>
+				<textureLevelsName>Anneli_Apparel34_Sleeve4_PauldronC_Right</textureLevelsName>
 				<flipped>true</flipped>
 				<switchEastWest>true</switchEastWest>
 				<useStaticYOffset>true</useStaticYOffset>

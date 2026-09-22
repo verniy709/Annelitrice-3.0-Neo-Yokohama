@@ -4,6 +4,7 @@
 	<PawnKindDef Name="Anneli_NeoYokohama_KindBase" ParentName="Anneli_KindBase" Abstract="True">
 		<label>Anneli_NeoYokohama_KindBase</label>
 		<itemQuality>Masterwork</itemQuality>
+		<forceWeaponQuality>Masterwork</forceWeaponQuality>
 		<defaultFactionType>Anneli_Faction_NeoYokohama</defaultFactionType>
 		<isFighter>true</isFighter>
 		<combatPower>200</combatPower>
@@ -40,6 +41,7 @@
 				</li>
 			</subOptionsChooseOne>
 		</inventoryOptions>
+		<combatEnhancingDrugsChance>1.0</combatEnhancingDrugsChance>
 		<xenotypeSet>
 			<xenotypeChances>
 				<Anneli_Xenotype MayRequire="Ludeon.RimWorld.Biotech">10.0</Anneli_Xenotype>
