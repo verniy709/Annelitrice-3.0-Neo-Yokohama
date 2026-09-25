@@ -78,7 +78,7 @@
 					<Anneli_NeoYokohama_SalarypersonA>2</Anneli_NeoYokohama_SalarypersonA>
 					<Anneli_NeoYokohama_SalarypersonB>2</Anneli_NeoYokohama_SalarypersonB>
 					<Anneli_NeoYokohama_Cop>3</Anneli_NeoYokohama_Cop>
-					<Anneli_NeoYokohama_TacticalOperator>4</Anneli_NeoYokohama_TacticalOperator>
+					<Anneli_NeoYokohama_TacticalOperator>5</Anneli_NeoYokohama_TacticalOperator>
 					<Anneli_NeoYokohama_HomelessPerson>2</Anneli_NeoYokohama_HomelessPerson>
 					<Anneli_NeoYokohama_Civilian>3</Anneli_NeoYokohama_Civilian>
 					<Anneli_NeoYokohama_ThugA>2</Anneli_NeoYokohama_ThugA>
@@ -99,14 +99,14 @@
 					<Anneli_NeoYokohama_GeishaA>2</Anneli_NeoYokohama_GeishaA>
 					<Anneli_NeoYokohama_GeishaB>2</Anneli_NeoYokohama_GeishaB>
 					<Anneli_NeoYokohama_SamuraiA>3</Anneli_NeoYokohama_SamuraiA>
-					<Anneli_NeoYokohama_SamuraiB>1</Anneli_NeoYokohama_SamuraiB>
+					<Anneli_NeoYokohama_SamuraiB>2</Anneli_NeoYokohama_SamuraiB>
 				</options>
 			</li>
 			<li>
 				<kindDef>Combat</kindDef>
 				<commonality>40</commonality>
 				<options>
-					<Anneli_NeoYokohama_TacticalOperator>4</Anneli_NeoYokohama_TacticalOperator>
+					<Anneli_NeoYokohama_TacticalOperator>5</Anneli_NeoYokohama_TacticalOperator>
 					<Anneli_NeoYokohama_HomelessPerson>2</Anneli_NeoYokohama_HomelessPerson>
 					<Anneli_NeoYokohama_HackerA>2</Anneli_NeoYokohama_HackerA>
 					<Anneli_NeoYokohama_CyborgCombatantA>3</Anneli_NeoYokohama_CyborgCombatantA>
@@ -204,7 +204,7 @@
 					<Anneli_NeoYokohama_SalarypersonA>2</Anneli_NeoYokohama_SalarypersonA>
 					<Anneli_NeoYokohama_SalarypersonB>2</Anneli_NeoYokohama_SalarypersonB>
 					<Anneli_NeoYokohama_Cop>3</Anneli_NeoYokohama_Cop>
-					<Anneli_NeoYokohama_TacticalOperator>4</Anneli_NeoYokohama_TacticalOperator>
+					<Anneli_NeoYokohama_TacticalOperator>5</Anneli_NeoYokohama_TacticalOperator>
 					<Anneli_NeoYokohama_HomelessPerson>2</Anneli_NeoYokohama_HomelessPerson>
 					<Anneli_NeoYokohama_Civilian>3</Anneli_NeoYokohama_Civilian>
 					<Anneli_NeoYokohama_ThugA>2</Anneli_NeoYokohama_ThugA>
@@ -225,7 +225,7 @@
 					<Anneli_NeoYokohama_GeishaA>2</Anneli_NeoYokohama_GeishaA>
 					<Anneli_NeoYokohama_GeishaB>2</Anneli_NeoYokohama_GeishaB>
 					<Anneli_NeoYokohama_SamuraiA>3</Anneli_NeoYokohama_SamuraiA>
-					<Anneli_NeoYokohama_SamuraiB>1</Anneli_NeoYokohama_SamuraiB>
+					<Anneli_NeoYokohama_SamuraiB>2</Anneli_NeoYokohama_SamuraiB>
 				</options>
 			</li>
 			<li MayRequire="Ludeon.RimWorld.Ideology">

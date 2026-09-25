@@ -72,8 +72,19 @@
 		<apparelRequired>
 			<li>Anneli_NeoYokohama_Top</li>
 			<li>Anneli_NeoYokohama_DressPants</li>
-			<li>Anneli_NeoYokohama_LeatherShoes</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_NeoYokohama_Salaryperson</requiredTag>
+			</li>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_NeoYokohama_Salaryperson</requiredTag>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
 			<li>Anneli_NeoYokohama_Salaryperson</li>
 		</apparelTags>
@@ -93,8 +104,19 @@
 		<apparelRequired>
 			<li>Anneli_NeoYokohama_Top</li>
 			<li>Anneli_NeoYokohama_DressPants</li>
-			<li>Anneli_NeoYokohama_LeatherShoes</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_NeoYokohama_Salaryperson</requiredTag>
+			</li>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_NeoYokohama_Salaryperson</requiredTag>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
 			<li>Anneli_NeoYokohama_Salaryperson</li>
 		</apparelTags>
@@ -114,8 +136,19 @@
 		<apparelRequired>
 			<li>Anneli_NeoYokohama_Top</li>
 			<li>Anneli_NeoYokohama_Skirt</li>
-			<li>Anneli_NeoYokohama_LeatherShoes</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_NeoYokohama_Salaryperson</requiredTag>
+			</li>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_NeoYokohama_Salaryperson</requiredTag>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
 			<li>Anneli_NeoYokohama_Salaryperson</li>
 		</apparelTags>
@@ -138,6 +171,18 @@
 			<li>Anneli_NeoYokohama_Boots</li>
 			<li>Anneli_NeoYokohama_PoliceHat</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_NeoYokohama_Cop</requiredTag>
+			</li>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_NeoYokohama_Cop</requiredTag>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
 			<li>BeltDefensePop</li>
 			<li>Anneli_NeoYokohama_Cop</li>
@@ -160,6 +205,22 @@
 			<li>Anneli_NeoYokohama_TacticalPants</li>
 			<li>Anneli_NeoYokohama_TacticalCoat</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_NeoYokohama_TacticalOperator</requiredTag>
+			</li>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_NeoYokohama_TacticalOperator</requiredTag>
+			</li>
+			<li>
+				<apparelLayer>Overhead</apparelLayer>
+				<requiredTag>Anneli_NeoYokohama_TacticalOperator</requiredTag>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
 			<li>BeltDefensePop</li>
 			<li>Anneli_NeoYokohama_TacticalOperator</li>
@@ -181,6 +242,13 @@
 			<li>Anneli_NeoYokohama_Curtain</li>
 			<li>Anneli_NeoYokohama_Thong</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_NeoYokohama_HomelessPerson</requiredTag>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
 			<li>Anneli_NeoYokohama_HomelessPerson</li>
 		</apparelTags>
@@ -202,6 +270,18 @@
 			<li>Anneli_NeoYokohama_Dress</li>
 			<li>Anneli_NeoYokohama_Boots</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_NeoYokohama_Civilian</requiredTag>
+			</li>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_NeoYokohama_Civilian</requiredTag>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
 			<li>Anneli_NeoYokohama_Civilian</li>
 		</apparelTags>
@@ -222,8 +302,19 @@
 		<apparelRequired>
 			<li>Anneli_NeoYokohama_TankTopB</li>
 			<li>Anneli_NeoYokohama_LeatherPants</li>
-			<li>Anneli_NeoYokohama_Boots</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_NeoYokohama_Thug</requiredTag>
+			</li>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_NeoYokohama_Thug</requiredTag>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
 			<li>Anneli_NeoYokohama_Thug</li>
 		</apparelTags>
@@ -244,8 +335,19 @@
 		<apparelRequired>
 			<li>Anneli_NeoYokohama_TankTopA</li>
 			<li>Anneli_NeoYokohama_DenimShorts</li>
-			<li>Anneli_NeoYokohama_Sneakers</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_NeoYokohama_Thug</requiredTag>
+			</li>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_NeoYokohama_Thug</requiredTag>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
 			<li>Anneli_NeoYokohama_Thug</li>
 		</apparelTags>
@@ -367,6 +469,7 @@
 		<apparelTags>
 			<li>BeltDefensePop</li>
 			<li>Anneli_NeoYokohama_Hacker</li>
+			<li>Anneli_NeoYokohama_HackerB</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
@@ -388,6 +491,11 @@
 			<li>Anneli_NeoYokohama_NurseCap</li>
 		</apparelRequired>
 		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_NeoYokohama_Doctor</requiredTag>
+			</li>
 			<li>
 				<apparelDef>Anneli_NeoYokohama_LongLatexGloves</apparelDef>
 				<colorGenerator Class="ColorGenerator_Options">
@@ -501,6 +609,13 @@
 		<apparelRequired>
 			<li>Anneli_NeoYokohama_Hanjuban</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_NeoYokohama_Shomin</requiredTag>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
 			<li>Anneli_NeoYokohama_Shomin</li>
 			<li>Anneli_NeoYokohama_ShominA</li>
@@ -524,6 +639,13 @@
 		<apparelRequired>
 			<li>Anneli_NeoYokohama_JudogiC</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_NeoYokohama_Shomin</requiredTag>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
 			<li>Anneli_NeoYokohama_Shomin</li>
 			<li>Anneli_NeoYokohama_ShominB</li>
@@ -575,6 +697,13 @@
 			<li>Anneli_NeoYokohama_BodyWrap</li>
 			<li>Anneli_NeoYokohama_Dogi</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_NeoYokohama_Ronin</requiredTag>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
 			<li>Anneli_NeoYokohama_Ronin</li>
 		</apparelTags>
@@ -671,10 +800,24 @@
 		<apparelRequired>
 			<li>Anneli_NeoYokohama_Tabi</li>
 			<li>Anneli_NeoYokohama_JudogiA</li>
-			<li>Anneli_NeoYokohama_Sandals</li>
 			<li>Anneli_NeoYokohama_SamuraiArmor</li>
 			<li>Anneli_NeoYokohama_Kabuto</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_NeoYokohama_Samurai</requiredTag>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
 			<li>Anneli_ShieldBelt</li>
 			<li>Anneli_NeoYokohama_Samurai</li>
@@ -699,10 +842,90 @@
 		<apparelRequired>
 			<li>Anneli_NeoYokohama_Tabi</li>
 			<li>Anneli_NeoYokohama_JudogiA</li>
-			<li>Anneli_NeoYokohama_ShinobiSandals</li>
 			<li>Anneli_NeoYokohama_SamuraiArmor</li>
 			<li>Anneli_NeoYokohama_Kabuto</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_NeoYokohama_Samurai</requiredTag>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(200,60,60,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+			<li>
+				<apparelDef>Anneli_NeoYokohama_JudogiA</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(200,60,60,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+			<li>
+				<apparelDef>Anneli_NeoYokohama_SamuraiArmor</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(200,60,60,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+			<li>
+				<apparelDef>Anneli_NeoYokohama_SamuraiCloak</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(200,60,60,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+			<li>
+				<apparelDef>Anneli_NeoYokohama_Suneate</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(200,60,60,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+			<li>
+				<apparelDef>Anneli_NeoYokohama_Kabuto</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(200,60,60,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+			<li>
+				<apparelDef>Anneli_NeoYokohama_HannyaMaskB</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(200,60,60,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
 			<li>Anneli_ShieldBelt</li>
 			<li>Anneli_NeoYokohama_Samurai</li>
@@ -717,7 +940,6 @@
 			<li>SpacerMelee</li>
 			<li>UltratechMelee</li>
 		</weaponTags>
-		<apparelColor>(200,60,60,255)</apparelColor><!--Fixed apparel color generation-->
 	</PawnKindDef>
 
 </Defs>

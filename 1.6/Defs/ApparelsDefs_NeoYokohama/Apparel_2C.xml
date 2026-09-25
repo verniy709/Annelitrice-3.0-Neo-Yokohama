@@ -213,10 +213,6 @@
 				</li>
 				<li>
 					<weight>10</weight>
-					<only>(200,60,60,255)</only>
-				</li>
-				<li>
-					<weight>10</weight>
 					<only>(205,200,205,255)</only>
 				</li>
 			</options>
