@@ -50,7 +50,7 @@
 		<apparel>
 			<wornGraphicPath>34/Anneli_NeoYokohama_CyborgArmorB</wornGraphicPath>
 			<tags>
-				
+				<li>Anneli_NeoYokohama_CyborgCombatant</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>

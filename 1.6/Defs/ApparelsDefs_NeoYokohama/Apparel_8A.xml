@@ -143,8 +143,6 @@
 			<EquipDelay>1</EquipDelay>
 			<Flammability>0.15</Flammability>
 		</statBases>
-		<equippedStatOffsets>
-		</equippedStatOffsets>
 		<graphicData>
 			<texPath>8A/Anneli_NeoYokohama_SashimonoA</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -197,8 +195,6 @@
 			<EquipDelay>1</EquipDelay>
 			<Flammability>0.15</Flammability>
 		</statBases>
-		<equippedStatOffsets>
-		</equippedStatOffsets>
 		<graphicData>
 			<texPath>8A/Anneli_NeoYokohama_SashimonoB</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
