@@ -110,7 +110,7 @@
         <graphicData>
             <texPath>8C/Anneli_NeoYokohama_CyborgShield</texPath>
             <graphicClass>Graphic_Single</graphicClass>
-            <drawSize>1</drawSize>
+            <drawSize>1.2</drawSize>
         </graphicData>
         <apparel>
             <tags>

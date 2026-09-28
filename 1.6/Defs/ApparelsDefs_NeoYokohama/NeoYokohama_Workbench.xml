@@ -8,9 +8,11 @@
     <graphicData>
       <texPath>Anneli_NeoYokohama_Workbench</texPath>
       <graphicClass>Graphic_Multi</graphicClass>
-      <drawSize>(1.45,1.45)</drawSize>
+      <drawSize>(1.5,1.5)</drawSize>
+      <drawOffset>(0,0,0.2)</drawOffset>
       <shaderType>CutoutComplex</shaderType>
     </graphicData>
+    <uiIconScale>0.66</uiIconScale>
     <stuffCategories>
       <li>Stony</li>
       <li>Metallic</li>

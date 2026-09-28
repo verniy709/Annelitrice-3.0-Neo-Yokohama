@@ -7,7 +7,7 @@
 		<forceWeaponQuality>Masterwork</forceWeaponQuality>
 		<defaultFactionType>Anneli_Faction_NeoYokohama</defaultFactionType>
 		<isFighter>true</isFighter>
-		<combatPower>200</combatPower>
+		<combatPower>240</combatPower>
 		<canBeSapper>true</canBeSapper>
 		<backstoryFiltersOverride>
 			<li>
@@ -42,6 +42,7 @@
 			</subOptionsChooseOne>
 		</inventoryOptions>
 		<combatEnhancingDrugsChance>1.0</combatEnhancingDrugsChance>
+		<combatEnhancingDrugsCount>0~2</combatEnhancingDrugsCount>
 		<xenotypeSet>
 			<xenotypeChances>
 				<Anneli_Xenotype MayRequire="Ludeon.RimWorld.Biotech">10.0</Anneli_Xenotype>
@@ -86,6 +87,7 @@
 			</li>
 		</specificApparelRequirements>
 		<apparelTags>
+			<li>Anneli_ShieldBelt</li>
 			<li>Anneli_NeoYokohama_Salaryperson</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
@@ -118,6 +120,7 @@
 			</li>
 		</specificApparelRequirements>
 		<apparelTags>
+			<li>Anneli_ShieldBelt</li>
 			<li>Anneli_NeoYokohama_Salaryperson</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
@@ -150,6 +153,7 @@
 			</li>
 		</specificApparelRequirements>
 		<apparelTags>
+			<li>Anneli_ShieldBelt</li>
 			<li>Anneli_NeoYokohama_Salaryperson</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
@@ -509,6 +513,7 @@
 			</li>
 		</specificApparelRequirements>
 		<apparelTags>
+			<li>BeltDefensePop</li>
 			<li>Anneli_NeoYokohama_Doctor</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
@@ -705,6 +710,7 @@
 			</li>
 		</specificApparelRequirements>
 		<apparelTags>
+			<li>Anneli_ShieldBelt</li>
 			<li>Anneli_NeoYokohama_Ronin</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
@@ -729,6 +735,7 @@
 			<li>Anneli_NeoYokohama_Headband</li>
 		</apparelRequired>
 		<apparelTags>
+			<li>Anneli_ShieldBelt</li>
 			<li>Anneli_NeoYokohama_Shinobi</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
@@ -754,6 +761,7 @@
 			<li>Anneli_NeoYokohama_KimonoA</li>
 		</apparelRequired>
 		<apparelTags>
+			<li>Anneli_ShieldBelt</li>
 			<li>Anneli_NeoYokohama_Geisha</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
@@ -779,6 +787,7 @@
 			<li>Anneli_NeoYokohama_KimonoB</li>
 		</apparelRequired>
 		<apparelTags>
+			<li>Anneli_ShieldBelt</li>
 			<li>Anneli_NeoYokohama_Geisha</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
