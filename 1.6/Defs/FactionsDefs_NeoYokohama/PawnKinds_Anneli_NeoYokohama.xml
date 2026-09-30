@@ -7,7 +7,7 @@
 		<forceWeaponQuality>Masterwork</forceWeaponQuality>
 		<defaultFactionType>Anneli_Faction_NeoYokohama</defaultFactionType>
 		<isFighter>true</isFighter>
-		<combatPower>240</combatPower>
+		<combatPower>220</combatPower>
 		<canBeSapper>true</canBeSapper>
 		<backstoryFiltersOverride>
 			<li>
@@ -92,9 +92,9 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>IndustrialGunAdvanced</li>
-			<li>GunHeavy</li>
-			<li>SpacerGun</li>
+			<li>Anneli_NeoYokohama_Gun_Autopistol</li>
+			<li>Anneli_NeoYokohama_Gun_HeavySMG</li>
+			<li>Anneli_NeoYokohama_Gun_MachinePistol</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -125,9 +125,9 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>SimpleGun</li>
-			<li>Revolver</li>
-			<li>IndustrialGunAdvanced</li>
+			<li>Anneli_NeoYokohama_Gun_Autopistol</li>
+			<li>Anneli_NeoYokohama_Gun_HeavySMG</li>
+			<li>Anneli_NeoYokohama_Gun_MachinePistol</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -158,9 +158,9 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>SimpleGun</li>
-			<li>Revolver</li>
-			<li>IndustrialGunAdvanced</li>
+			<li>Anneli_NeoYokohama_Gun_Autopistol</li>
+			<li>Anneli_NeoYokohama_Gun_HeavySMG</li>
+			<li>Anneli_NeoYokohama_Gun_MachinePistol</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -193,9 +193,10 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>SimpleGun</li>
-			<li>Revolver</li>
-			<li>IndustrialGunAdvanced</li>
+			<li>Anneli_NeoYokohama_Gun_AssaultRifle</li>
+			<li>Anneli_NeoYokohama_Gun_HeavySMG</li>
+			<li>Anneli_NeoYokohama_Gun_MachinePistol</li>
+			<li>Anneli_NeoYokohama_Weapon_GrenadeEMP</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -231,9 +232,10 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>SimpleGun</li>
-			<li>Revolver</li>
-			<li>IndustrialGunAdvanced</li>
+			<li>Anneli_NeoYokohama_Gun_AssaultRifle</li>
+			<li>Anneli_NeoYokohama_Gun_Minigun</li>
+			<li>Anneli_NeoYokohama_Gun_SniperRifle</li>
+			<li>Anneli_NeoYokohama_Gun_TripleRocket</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -258,10 +260,9 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>NeolithicMeleeBasic</li>
-			<li>MedievalMeleeBasic</li>
-			<li>SimpleGun</li>
-			<li>Revolver</li>
+			<li>Anneli_NeoYokohama_Gun_Autopistol</li>
+			<li>Anneli_NeoYokohama_Gun_HeavySMG</li>
+			<li>Anneli_NeoYokohama_Gun_MachinePistol</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -291,10 +292,9 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>NeolithicMeleeBasic</li>
-			<li>MedievalMeleeBasic</li>
-			<li>SimpleGun</li>
-			<li>Revolver</li>
+			<li>Anneli_NeoYokohama_Gun_Autopistol</li>
+			<li>Anneli_NeoYokohama_Gun_HeavySMG</li>
+			<li>Anneli_NeoYokohama_Gun_MachinePistol</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -324,10 +324,11 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>NeolithicMeleeBasic</li>
-			<li>MedievalMeleeBasic</li>
-			<li>SimpleGun</li>
-			<li>Revolver</li>
+			<li>Anneli_NeoYokohama_Gun_AssaultRifle</li>
+			<li>Anneli_NeoYokohama_MeleeWeapon_Gladius</li>
+			<li>Anneli_NeoYokohama_MeleeWeapon_MonoSword</li>
+			<li>Anneli_NeoYokohama_MeleeWeapon_PlasmaSword</li>
+			<li>Anneli_NeoYokohama_Weapon_GrenadeFrag</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -357,10 +358,11 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>NeolithicMeleeBasic</li>
-			<li>MedievalMeleeBasic</li>
-			<li>SimpleGun</li>
-			<li>Revolver</li>
+			<li>Anneli_NeoYokohama_Gun_AssaultRifle</li>
+			<li>Anneli_NeoYokohama_MeleeWeapon_Gladius</li>
+			<li>Anneli_NeoYokohama_MeleeWeapon_MonoSword</li>
+			<li>Anneli_NeoYokohama_MeleeWeapon_PlasmaSword</li>
+			<li>Anneli_NeoYokohama_Weapon_GrenadeFrag</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -381,9 +383,9 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>SimpleGun</li>
-			<li>Revolver</li>
-			<li>IndustrialGunAdvanced</li>
+			<li>Anneli_NeoYokohama_Gun_AssaultRifle</li>
+			<li>Anneli_NeoYokohama_Gun_Minigun</li>
+			<li>Anneli_NeoYokohama_Gun_SniperRifle</li>
 		</weaponTags>
 		<specificApparelRequirements>
 			<li>
@@ -417,9 +419,9 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>SimpleGun</li>
-			<li>Revolver</li>
-			<li>IndustrialGunAdvanced</li>
+			<li>Anneli_NeoYokohama_Gun_AssaultRifle</li>
+			<li>Anneli_NeoYokohama_Gun_Minigun</li>
+			<li>Anneli_NeoYokohama_Gun_SniperRifle</li>
 		</weaponTags>
 		<apparelColor>(50,45,50)</apparelColor><!--Fixed apparel color generation-->
 	</PawnKindDef>
@@ -440,10 +442,11 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>SimpleGun</li>
-			<li>Revolver</li>
-			<li>IndustrialGunAdvanced</li>
-			<li>SpacerGun</li>
+			<li>Anneli_NeoYokohama_Gun_ChargeLance</li>
+			<li>Anneli_NeoYokohama_Gun_ChargeRifle</li>
+			<li>Anneli_NeoYokohama_MeleeWeapon_MonoSword</li>
+			<li>Anneli_NeoYokohama_MeleeWeapon_PlasmaSword</li>
+			<li>Anneli_NeoYokohama_Weapon_GrenadeEMP</li>
 		</weaponTags>
 		<apparelColor>(50,45,50)</apparelColor><!--Fixed apparel color generation-->
 	</PawnKindDef>
@@ -477,10 +480,11 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>SimpleGun</li>
-			<li>Revolver</li>
-			<li>IndustrialGunAdvanced</li>
-			<li>SpacerGun</li>
+			<li>Anneli_NeoYokohama_Gun_ChargeLance</li>
+			<li>Anneli_NeoYokohama_Gun_ChargeRifle</li>
+			<li>Anneli_NeoYokohama_MeleeWeapon_MonoSword</li>
+			<li>Anneli_NeoYokohama_MeleeWeapon_PlasmaSword</li>
+			<li>Anneli_NeoYokohama_Weapon_GrenadeEMP</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -518,10 +522,11 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>SimpleGun</li>
-			<li>Revolver</li>
-			<li>IndustrialGunAdvanced</li>
-			<li>SpacerGun</li>
+			<li>Anneli_NeoYokohama_Gun_AssaultRifle</li>
+			<li>Anneli_NeoYokohama_Gun_Autopistol</li>
+			<li>Anneli_NeoYokohama_Gun_HeavySMG</li>
+			<li>Anneli_NeoYokohama_Gun_MachinePistol</li>
+			<li>Anneli_NeoYokohama_Weapon_GrenadeEMP</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -545,9 +550,10 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>IndustrialGunAdvanced</li>
-			<li>GunHeavy</li>
-			<li>SpacerGun</li>
+			<li>Anneli_NeoYokohama_Gun_ChargeLance</li>
+			<li>Anneli_NeoYokohama_Gun_ChargeRifle</li>
+			<li>Anneli_NeoYokohama_Gun_Minigun</li>
+			<li>Anneli_NeoYokohama_Gun_TripleRocket</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -572,9 +578,10 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>MedievalMeleeDecent</li>
-			<li>SpacerMelee</li>
-			<li>UltratechMelee</li>
+			<li>Anneli_NeoYokohama_Gun_ChargeLance</li>
+			<li>Anneli_NeoYokohama_Gun_ChargeRifle</li>
+			<li>Anneli_NeoYokohama_MeleeWeapon_MonoSword</li>
+			<li>Anneli_NeoYokohama_MeleeWeapon_PlasmaSword</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -600,9 +607,10 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>MedievalMeleeDecent</li>
-			<li>SpacerMelee</li>
-			<li>UltratechMelee</li>
+			<li>Anneli_NeoYokohama_Gun_ChargeLance</li>
+			<li>Anneli_NeoYokohama_Gun_ChargeRifle</li>
+			<li>Anneli_NeoYokohama_MeleeWeapon_MonoSword</li>
+			<li>Anneli_NeoYokohama_MeleeWeapon_PlasmaSword</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -627,12 +635,10 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>NeolithicRangedBasic</li>
-			<li>NeolithicRangedDecent</li>
-			<li>NeolithicRangedHeavy</li>
-			<li>NeolithicRangedChief</li>
-			<li>MedievalRanged</li>
-			<li>MedievalRangedHeavy</li>
+			<li>Anneli_NeoYokohama_Gun_Autopistol</li>
+			<li>Anneli_NeoYokohama_Gun_HeavySMG</li>
+			<li>Anneli_NeoYokohama_Gun_MachinePistol</li>
+			<li>Anneli_NeoYokohama_MeleeWeapon_Gladius</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -657,12 +663,10 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>NeolithicRangedBasic</li>
-			<li>NeolithicRangedDecent</li>
-			<li>NeolithicRangedHeavy</li>
-			<li>NeolithicRangedChief</li>
-			<li>MedievalRanged</li>
-			<li>MedievalRangedHeavy</li>
+			<li>Anneli_NeoYokohama_Gun_Autopistol</li>
+			<li>Anneli_NeoYokohama_Gun_HeavySMG</li>
+			<li>Anneli_NeoYokohama_Gun_MachinePistol</li>
+			<li>Anneli_NeoYokohama_MeleeWeapon_Gladius</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -683,12 +687,10 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>NeolithicRangedBasic</li>
-			<li>NeolithicRangedDecent</li>
-			<li>NeolithicRangedHeavy</li>
-			<li>NeolithicRangedChief</li>
-			<li>MedievalRanged</li>
-			<li>MedievalRangedHeavy</li>
+			<li>Anneli_NeoYokohama_Gun_Autopistol</li>
+			<li>Anneli_NeoYokohama_Gun_HeavySMG</li>
+			<li>Anneli_NeoYokohama_Gun_MachinePistol</li>
+			<li>Anneli_NeoYokohama_MeleeWeapon_Gladius</li>
 		</weaponTags>
 		<apparelColor>(255,245,245,255)</apparelColor><!--Fixed apparel color generation-->
 	</PawnKindDef>
@@ -715,12 +717,9 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>NeolithicMeleeBasic</li>
-			<li>NeolithicMeleeDecent</li>
-			<li>NeolithicMeleeAdvanced</li>
-			<li>MedievalMeleeBasic</li>
-			<li>MedievalMeleeDecent</li>
-			<li>MedievalMeleeAdvanced</li>
+			<li>Anneli_NeoYokohama_MeleeWeapon_Gladius</li>
+			<li>Anneli_NeoYokohama_MeleeWeapon_MonoSword</li>
+			<li>Anneli_NeoYokohama_MeleeWeapon_PlasmaSword</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -740,12 +739,11 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>NeolithicMeleeAdvanced</li>
-			<li>MedievalMeleeBasic</li>
-			<li>MedievalMeleeDecent</li>
-			<li>MedievalMeleeAdvanced</li>
-			<li>SpacerMelee</li>
-			<li>UltratechMelee</li>
+			<li>Anneli_NeoYokohama_Gun_ChargeLance</li>
+			<li>Anneli_NeoYokohama_Gun_SniperRifle</li>
+			<li>Anneli_NeoYokohama_MeleeWeapon_Gladius</li>
+			<li>Anneli_NeoYokohama_MeleeWeapon_MonoSword</li>
+			<li>Anneli_NeoYokohama_MeleeWeapon_PlasmaSword</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -766,12 +764,10 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>NeolithicMeleeAdvanced</li>
-			<li>MedievalMeleeBasic</li>
-			<li>MedievalMeleeDecent</li>
-			<li>MedievalMeleeAdvanced</li>
-			<li>SpacerMelee</li>
-			<li>UltratechMelee</li>
+			<li>Anneli_NeoYokohama_Gun_Autopistol</li>
+			<li>Anneli_NeoYokohama_Gun_HeavySMG</li>
+			<li>Anneli_NeoYokohama_Gun_MachinePistol</li>
+			<li>Anneli_NeoYokohama_MeleeWeapon_Gladius</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -792,12 +788,10 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>NeolithicMeleeAdvanced</li>
-			<li>MedievalMeleeBasic</li>
-			<li>MedievalMeleeDecent</li>
-			<li>MedievalMeleeAdvanced</li>
-			<li>SpacerMelee</li>
-			<li>UltratechMelee</li>
+			<li>Anneli_NeoYokohama_Gun_Autopistol</li>
+			<li>Anneli_NeoYokohama_Gun_HeavySMG</li>
+			<li>Anneli_NeoYokohama_Gun_MachinePistol</li>
+			<li>Anneli_NeoYokohama_MeleeWeapon_Gladius</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -834,12 +828,9 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>NeolithicMeleeAdvanced</li>
-			<li>MedievalMeleeBasic</li>
-			<li>MedievalMeleeDecent</li>
-			<li>MedievalMeleeAdvanced</li>
-			<li>SpacerMelee</li>
-			<li>UltratechMelee</li>
+			<li>Anneli_NeoYokohama_MeleeWeapon_Gladius</li>
+			<li>Anneli_NeoYokohama_MeleeWeapon_MonoSword</li>
+			<li>Anneli_NeoYokohama_MeleeWeapon_PlasmaSword</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -913,6 +904,17 @@
 				</colorGenerator>
 			</li>
 			<li>
+				<apparelDef>Anneli_NeoYokohama_SamuraiGauntlets</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(200,60,60,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+			<li>
 				<apparelDef>Anneli_NeoYokohama_Kabuto</apparelDef>
 				<colorGenerator Class="ColorGenerator_Options">
 					<options>
@@ -942,12 +944,9 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>NeolithicMeleeAdvanced</li>
-			<li>MedievalMeleeBasic</li>
-			<li>MedievalMeleeDecent</li>
-			<li>MedievalMeleeAdvanced</li>
-			<li>SpacerMelee</li>
-			<li>UltratechMelee</li>
+			<li>Anneli_NeoYokohama_MeleeWeapon_Gladius</li>
+			<li>Anneli_NeoYokohama_MeleeWeapon_MonoSword</li>
+			<li>Anneli_NeoYokohama_MeleeWeapon_PlasmaSword</li>
 		</weaponTags>
 	</PawnKindDef>
 

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<ThingStyleDef>
+		<defName>Anneli_NeoYokohama_Gun_AssaultRifle</defName>
+		<graphicData>
+			<texPath>Anneli_Styles/Weapons/Anneli_NeoYokohama_Gun_AssaultRifle</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+	</ThingStyleDef>
+
+	<ThingStyleDef>
+		<defName>Anneli_NeoYokohama_Gun_Autopistol</defName>
+		<graphicData>
+			<texPath>Anneli_Styles/Weapons/Anneli_NeoYokohama_Gun_Autopistol</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+	</ThingStyleDef>
+
+	<ThingStyleDef>
+		<defName>Anneli_NeoYokohama_Gun_ChargeLance</defName>
+		<graphicData>
+			<texPath>Anneli_Styles/Weapons/Anneli_NeoYokohama_Gun_ChargeLance</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+	</ThingStyleDef>
+
+	<ThingStyleDef>
+		<defName>Anneli_NeoYokohama_Gun_ChargeRifle</defName>
+		<graphicData>
+			<texPath>Anneli_Styles/Weapons/Anneli_NeoYokohama_Gun_ChargeRifle</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+	</ThingStyleDef>
+
+	<ThingStyleDef>
+		<defName>Anneli_NeoYokohama_Gun_HeavySMG</defName>
+		<graphicData>
+			<texPath>Anneli_Styles/Weapons/Anneli_NeoYokohama_Gun_HeavySMG</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+	</ThingStyleDef>
+
+	<ThingStyleDef>
+		<defName>Anneli_NeoYokohama_Gun_MachinePistol</defName>
+		<graphicData>
+			<texPath>Anneli_Styles/Weapons/Anneli_NeoYokohama_Gun_MachinePistol</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+	</ThingStyleDef>
+
+	<ThingStyleDef>
+		<defName>Anneli_NeoYokohama_Gun_Minigun</defName>
+		<graphicData>
+			<texPath>Anneli_Styles/Weapons/Anneli_NeoYokohama_Gun_Minigun</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+	</ThingStyleDef>
+
+	<ThingStyleDef>
+		<defName>Anneli_NeoYokohama_Gun_SniperRifle</defName>
+		<graphicData>
+			<texPath>Anneli_Styles/Weapons/Anneli_NeoYokohama_Gun_SniperRifle</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+	</ThingStyleDef>
+
+	<ThingStyleDef>
+		<defName>Anneli_NeoYokohama_Gun_TripleRocket</defName>
+		<graphicData>
+			<texPath>Anneli_Styles/Weapons/Anneli_NeoYokohama_Gun_TripleRocket</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+	</ThingStyleDef>
+
+	<ThingStyleDef>
+		<defName>Anneli_NeoYokohama_MeleeWeapon_Gladius</defName>
+		<graphicData>
+			<texPath>Anneli_Styles/Weapons/Anneli_NeoYokohama_MeleeWeapon_Gladius</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+	</ThingStyleDef>
+
+	<ThingStyleDef MayRequire="Ludeon.RimWorld.Royalty">
+		<defName>Anneli_NeoYokohama_MeleeWeapon_MonoSword</defName>
+		<graphicData>
+			<texPath>Anneli_Styles/Weapons/Anneli_NeoYokohama_MeleeWeapon_MonoSword</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+	</ThingStyleDef>
+
+	<ThingStyleDef MayRequire="Ludeon.RimWorld.Royalty">
+		<defName>Anneli_NeoYokohama_MeleeWeapon_PlasmaSword</defName>
+		<graphicData>
+			<texPath>Anneli_Styles/Weapons/Anneli_NeoYokohama_MeleeWeapon_PlasmaSword</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+	</ThingStyleDef>
+
+	<ThingStyleDef>
+		<defName>Anneli_NeoYokohama_Weapon_GrenadeEMP</defName>
+		<graphicData>
+			<texPath>Anneli_Styles/Weapons/Anneli_NeoYokohama_Weapon_GrenadeEMP</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+	</ThingStyleDef>
+
+	<ThingStyleDef>
+		<defName>Anneli_NeoYokohama_Weapon_GrenadeFrag</defName>
+		<graphicData>
+			<texPath>Anneli_Styles/Weapons/Anneli_NeoYokohama_Weapon_GrenadeFrag</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+	</ThingStyleDef>
+</Defs>

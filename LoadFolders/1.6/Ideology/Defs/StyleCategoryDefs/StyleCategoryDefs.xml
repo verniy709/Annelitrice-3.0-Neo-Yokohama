@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <StyleCategoryDef>
+    <defName>Anneli_NeoYokohama_Style</defName>
+    <label>Anneli_NeoYokohama</label>
+    <iconPath>Anneli_Factions/Anneli_NeoYokohama</iconPath>
+    <thingDefStyles>
+      <li>
+        <thingDef>Gun_AssaultRifle</thingDef>
+        <styleDef>Anneli_NeoYokohama_Gun_AssaultRifle</styleDef>
+      </li>
+      <li>
+        <thingDef>Gun_Autopistol</thingDef>
+        <styleDef>Anneli_NeoYokohama_Gun_Autopistol</styleDef>
+      </li>
+      <li>
+        <thingDef>Gun_ChargeLance</thingDef>
+        <styleDef>Anneli_NeoYokohama_Gun_ChargeLance</styleDef>
+      </li>
+      <li>
+        <thingDef>Gun_ChargeRifle</thingDef>
+        <styleDef>Anneli_NeoYokohama_Gun_ChargeRifle</styleDef>
+      </li>
+      <li>
+        <thingDef>Gun_HeavySMG</thingDef>
+        <styleDef>Anneli_NeoYokohama_Gun_HeavySMG</styleDef>
+      </li>
+      <li>
+        <thingDef>Gun_MachinePistol</thingDef>
+        <styleDef>Anneli_NeoYokohama_Gun_MachinePistol</styleDef>
+      </li>
+      <li>
+        <thingDef>Gun_Minigun</thingDef>
+        <styleDef>Anneli_NeoYokohama_Gun_Minigun</styleDef>
+      </li>
+      <li>
+        <thingDef>Gun_SniperRifle</thingDef>
+        <styleDef>Anneli_NeoYokohama_Gun_SniperRifle</styleDef>
+      </li>
+      <li>
+        <thingDef>Gun_TripleRocket</thingDef>
+        <styleDef>Anneli_NeoYokohama_Gun_TripleRocket</styleDef>
+      </li>
+      <li>
+        <thingDef>MeleeWeapon_Gladius</thingDef>
+        <styleDef>Anneli_NeoYokohama_MeleeWeapon_Gladius</styleDef>
+      </li>
+      <li MayRequire="Ludeon.RimWorld.Royalty">
+        <thingDef>MeleeWeapon_MonoSword</thingDef>
+        <styleDef>Anneli_NeoYokohama_MeleeWeapon_MonoSword</styleDef>
+      </li>
+      <li MayRequire="Ludeon.RimWorld.Royalty">
+        <thingDef>MeleeWeapon_PlasmaSword</thingDef>
+        <styleDef>Anneli_NeoYokohama_MeleeWeapon_PlasmaSword</styleDef>
+      </li>
+      <li>
+        <thingDef>Weapon_GrenadeEMP</thingDef>
+        <styleDef>Anneli_NeoYokohama_Weapon_GrenadeEMP</styleDef>
+      </li>
+      <li>
+        <thingDef>Weapon_GrenadeFrag</thingDef>
+        <styleDef>Anneli_NeoYokohama_Weapon_GrenadeFrag</styleDef>
+      </li>
+    </thingDefStyles>
+  </StyleCategoryDef>
+</Defs>
