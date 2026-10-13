@@ -101,7 +101,7 @@
 				<textureLevelsName>Anneli_Apparel2_Sleeve1_LLTS_Left</textureLevelsName>
 				<useStaticYOffset>true</useStaticYOffset>
 				<drawOffsetSouth>(0, 1.610, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 0.585, 0)</drawOffsetEast>
+				<drawOffsetEast>(0, 0.494, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 1.610, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 1.610, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
@@ -124,7 +124,7 @@
 				<drawOffsetSouth>(0, 1.610, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 1.610, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 1.610, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 0.585, 0)</drawOffsetWest>
+				<drawOffsetWest>(0, 0.494, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
 				<isSleeve>true</isSleeve>
@@ -213,7 +213,7 @@
 				<textureLevelsName>Anneli_Apparel2_Sleeve1_LLTS_Left</textureLevelsName>
 				<useStaticYOffset>true</useStaticYOffset>
 				<drawOffsetSouth>(0, 1.610, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 0.585, 0)</drawOffsetEast>
+				<drawOffsetEast>(0, 0.494, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 1.610, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 1.610, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
@@ -236,7 +236,7 @@
 				<drawOffsetSouth>(0, 1.610, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 1.610, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 1.610, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 0.585, 0)</drawOffsetWest>
+				<drawOffsetWest>(0, 0.494, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
 				<isSleeve>true</isSleeve>
@@ -277,7 +277,7 @@
 				<textureLevelsName>Anneli_Apparel2_Sleeve1_LLTS_Left</textureLevelsName>
 				<useStaticYOffset>true</useStaticYOffset>
 				<drawOffsetSouth>(0, 1.610, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 0.585, 0)</drawOffsetEast>
+				<drawOffsetEast>(0, 0.494, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 1.610, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 1.610, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
@@ -300,7 +300,7 @@
 				<drawOffsetSouth>(0, 1.610, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 1.610, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 1.610, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 0.585, 0)</drawOffsetWest>
+				<drawOffsetWest>(0, 0.494, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
 				<isSleeve>true</isSleeve>

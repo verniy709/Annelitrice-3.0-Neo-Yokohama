@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+  <Operation Class="PatchOperationConditional">
+    <xpath>
+      /Defs/PawnKindDef[defName="Anneli_Player"]/*[
+      self::apparelRequired
+      or self::specificApparelRequirements
+      or self::apparelTags
+      or self::weaponTags
+      ]
+    </xpath>
+
+    <match Class="PatchOperationSequence">
+      <operations>
+        <li Class="PatchOperationRemove">
+          <xpath>
+            /Defs/PawnKindDef[defName="Anneli_Player"]/*[
+            self::apparelRequired
+            or self::specificApparelRequirements
+            or self::apparelTags
+            or self::weaponTags
+            ]
+          </xpath>
+        </li>
+        
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/PawnKindDef[defName="Anneli_Player"]</xpath>
+          <value>
+           <apparelRequired>
+            <li>Anneli_NeoYokohama_FishnetPantyhose</li>
+            <li>Anneli_NeoYokohama_BunnySuitB</li>
+            <li>Anneli_NeoYokohama_BunnyHeels</li>
+            <li>Anneli_NeoYokohama_BunnyEars</li>
+          </apparelRequired>
+          <apparelTags>
+            <li>BeltDefensePop</li>
+            <li>Anneli_NeoYokohama_BunnyGirl</li>
+          </apparelTags>
+          <apparelMoney>2000~4000</apparelMoney>
+          <weaponTags>
+            <li>Anneli_NeoYokohama_Gun_AssaultRifle</li>
+            <li>Anneli_NeoYokohama_Gun_Minigun</li>
+            <li>Anneli_NeoYokohama_Gun_SniperRifle</li>
+          </weaponTags>
+          <apparelColor>(50,45,50)</apparelColor><!--Fixed apparel color generation-->
+        </value>
+      </li>
+    </operations>
+  </match>
+
+  <nomatch Class="PatchOperationAdd">
+    <xpath>/Defs/PawnKindDef[defName="Anneli_Player"]</xpath>
+    <value>
+      <apparelRequired>
+        <li>Anneli_NeoYokohama_FishnetPantyhose</li>
+        <li>Anneli_NeoYokohama_BunnySuitB</li>
+        <li>Anneli_NeoYokohama_BunnyHeels</li>
+        <li>Anneli_NeoYokohama_BunnyEars</li>
+      </apparelRequired>
+      <apparelTags>
+        <li>BeltDefensePop</li>
+        <li>Anneli_NeoYokohama_BunnyGirl</li>
+      </apparelTags>
+      <apparelMoney>2000~4000</apparelMoney>
+      <weaponTags>
+        <li>Anneli_NeoYokohama_Gun_AssaultRifle</li>
+        <li>Anneli_NeoYokohama_Gun_Minigun</li>
+        <li>Anneli_NeoYokohama_Gun_SniperRifle</li>
+      </weaponTags>
+      <apparelColor>(50,45,50)</apparelColor><!--Fixed apparel color generation-->
+    </value>
+  </nomatch>
+</Operation>
+</Patch>
