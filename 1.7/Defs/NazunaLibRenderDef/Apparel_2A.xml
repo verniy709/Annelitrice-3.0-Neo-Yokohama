@@ -23,6 +23,23 @@
 			</li>
 			<li>
 				<prefix>
+					<li>Anneli_NeoYokohama_Necktie</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Necktie_Low</textureLevelsName>
+				<drawOffsetSouth>(0, 1.335, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.335, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.335, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.335, 0)</drawOffsetWest>
+				<renderSwitch>(1, 1, 0)</renderSwitch>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+				<useStaticColor>true</useStaticColor>
+				<color>RGBA(95,145,190,255)</color>
+			</li>
+			<li>
+				<prefix>
 					<li>Anneli_Arm_ShirtSS</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
