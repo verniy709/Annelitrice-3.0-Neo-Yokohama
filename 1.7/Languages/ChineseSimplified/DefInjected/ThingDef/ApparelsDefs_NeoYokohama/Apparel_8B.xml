@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Dyeable. -->
+  <Anneli_NeoYokohama_CyborgWing.description>可染色。</Anneli_NeoYokohama_CyborgWing.description>
+  <!-- EN: (NeoY)8B_CyborgWing -->
+  <Anneli_NeoYokohama_CyborgWing.label>(新横滨)8B_机械翼</Anneli_NeoYokohama_CyborgWing.label>
+  <!-- EN: Wing -->
+  <Anneli_NeoYokohama_CyborgWing.verbs.Wing.label>翼</Anneli_NeoYokohama_CyborgWing.verbs.Wing.label>
+  <!-- EN: cyborg wing bullet -->
+  <Anneli_NeoYokohama_CyborgWing_Bullet.label>机械翼子弹</Anneli_NeoYokohama_CyborgWing_Bullet.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_NeoYokohama_Drone.description>可染色。</Anneli_NeoYokohama_Drone.description>
+  <!-- EN: (NeoY)8B_Drone -->
+  <Anneli_NeoYokohama_Drone.label>(新横滨)8B_无人机</Anneli_NeoYokohama_Drone.label>
+  <!-- EN: Drone -->
+  <Anneli_NeoYokohama_Drone.verbs.Drone.label>无人机</Anneli_NeoYokohama_Drone.verbs.Drone.label>
+  <!-- EN: Drone bullet -->
+  <Anneli_NeoYokohama_Drone_Bullet.label>无人机子弹</Anneli_NeoYokohama_Drone_Bullet.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_NeoYokohama_Wagasa.description>可染色。</Anneli_NeoYokohama_Wagasa.description>
+  <!-- EN: (NeoY)8B_Wagasa -->
+  <Anneli_NeoYokohama_Wagasa.label>(新横滨)8B_纸伞</Anneli_NeoYokohama_Wagasa.label>
+  <!-- EN: Wagasa -->
+  <Anneli_NeoYokohama_Wagasa.verbs.Wagasa.label>纸伞</Anneli_NeoYokohama_Wagasa.verbs.Wagasa.label>
+  <!-- EN: Wagasa bullet -->
+  <Anneli_NeoYokohama_Wagasa_Bullet.label>纸伞子弹</Anneli_NeoYokohama_Wagasa_Bullet.label>
+</LanguageData>

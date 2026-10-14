@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Dyeable. -->
+  <Anneli_NeoYokohama_BlazerA.description>可染色。</Anneli_NeoYokohama_BlazerA.description>
+  <!-- EN: (NeoY)3_BlazerA -->
+  <Anneli_NeoYokohama_BlazerA.label>(新横滨)3_西装外套A</Anneli_NeoYokohama_BlazerA.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_NeoYokohama_BlazerB.description>可染色。</Anneli_NeoYokohama_BlazerB.description>
+  <!-- EN: (NeoY)3_BlazerB -->
+  <Anneli_NeoYokohama_BlazerB.label>(新横滨)3_西装外套B</Anneli_NeoYokohama_BlazerB.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_NeoYokohama_Dogi.description>可染色。</Anneli_NeoYokohama_Dogi.description>
+  <!-- EN: (NeoY)3_Dogi -->
+  <Anneli_NeoYokohama_Dogi.label>(新横滨)3_道服</Anneli_NeoYokohama_Dogi.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_NeoYokohama_Jacket.description>可染色。</Anneli_NeoYokohama_Jacket.description>
+  <!-- EN: (NeoY)3_Jacket -->
+  <Anneli_NeoYokohama_Jacket.label>(新横滨)3_皮夹克</Anneli_NeoYokohama_Jacket.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_NeoYokohama_KimonoA.description>可染色。</Anneli_NeoYokohama_KimonoA.description>
+  <!-- EN: (NeoY)3_KimonoA -->
+  <Anneli_NeoYokohama_KimonoA.label>(新横滨)3_访问着</Anneli_NeoYokohama_KimonoA.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_NeoYokohama_KimonoB.description>可染色。</Anneli_NeoYokohama_KimonoB.description>
+  <!-- EN: (NeoY)3_KimonoB -->
+  <Anneli_NeoYokohama_KimonoB.label>(新横滨)3_打褂</Anneli_NeoYokohama_KimonoB.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_NeoYokohama_ShortCoat.description>可染色。</Anneli_NeoYokohama_ShortCoat.description>
+  <!-- EN: (NeoY)3_ShortCoat -->
+  <Anneli_NeoYokohama_ShortCoat.label>(新横滨)3_短外套</Anneli_NeoYokohama_ShortCoat.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_NeoYokohama_TacticalCoat.description>可染色。</Anneli_NeoYokohama_TacticalCoat.description>
+  <!-- EN: (NeoY)3_TacticalCoat -->
+  <Anneli_NeoYokohama_TacticalCoat.label>(新横滨)3_战术外套</Anneli_NeoYokohama_TacticalCoat.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_NeoYokohama_TrenchCoat.description>可染色。</Anneli_NeoYokohama_TrenchCoat.description>
+  <!-- EN: (NeoY)3_TrenchCoat -->
+  <Anneli_NeoYokohama_TrenchCoat.label>(新横滨)3_防尘大衣</Anneli_NeoYokohama_TrenchCoat.label>
+</LanguageData>

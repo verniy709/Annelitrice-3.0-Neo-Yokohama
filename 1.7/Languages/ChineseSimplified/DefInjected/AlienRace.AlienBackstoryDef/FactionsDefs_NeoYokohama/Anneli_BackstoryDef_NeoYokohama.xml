@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: [PAWN_nameDef] acts as an employee of a construction company. She managed to stealing and selling company assets. -->
+  <Anneli_NeoYokohama_ConstructionWorker.description>[PAWN_nameDef]扮演一名建筑公司的劳工。她的副业是盗窃并出售公司的资产。</Anneli_NeoYokohama_ConstructionWorker.description>
+  <!-- EN: Construction Worker -->
+  <Anneli_NeoYokohama_ConstructionWorker.title>建筑劳工</Anneli_NeoYokohama_ConstructionWorker.title>
+  <!-- EN: Worker -->
+  <Anneli_NeoYokohama_ConstructionWorker.titleShort>劳工</Anneli_NeoYokohama_ConstructionWorker.titleShort>
+  <!-- EN: [PAWN_nameDef] acts as a a master of stealth and assassination. -->
+  <Anneli_NeoYokohama_FearsomeShinobi.description>[PAWN_nameDef]扮演一名潜行和暗杀大师。</Anneli_NeoYokohama_FearsomeShinobi.description>
+  <!-- EN: Fearsome Shinobi -->
+  <Anneli_NeoYokohama_FearsomeShinobi.title>令人生畏的忍者</Anneli_NeoYokohama_FearsomeShinobi.title>
+  <!-- EN: Shinobi -->
+  <Anneli_NeoYokohama_FearsomeShinobi.titleShort>忍者</Anneli_NeoYokohama_FearsomeShinobi.titleShort>
+  <!-- EN: [PAWN_nameDef] acts as a samurai and a poet. -->
+  <Anneli_NeoYokohama_HaikuSamurai.description>[PAWN_nameDef]扮演一名能文能武的武士。</Anneli_NeoYokohama_HaikuSamurai.description>
+  <!-- EN: Haiku Samurai -->
+  <Anneli_NeoYokohama_HaikuSamurai.title>绯句武士</Anneli_NeoYokohama_HaikuSamurai.title>
+  <!-- EN: Samurai -->
+  <Anneli_NeoYokohama_HaikuSamurai.titleShort>武士</Anneli_NeoYokohama_HaikuSamurai.titleShort>
+  <!-- EN: [PAWN_nameDef] acts as a homely shinobi. She used her talents to create a peaceful and nurturing environment at home. -->
+  <Anneli_NeoYokohama_HomelyShinobi.description>[PAWN_nameDef]扮演一名居家忍者。她为主公创造了一个充满禅意的环境。</Anneli_NeoYokohama_HomelyShinobi.description>
+  <!-- EN: Homely Shinobi -->
+  <Anneli_NeoYokohama_HomelyShinobi.title>居家忍者</Anneli_NeoYokohama_HomelyShinobi.title>
+  <!-- EN: Shinobi -->
+  <Anneli_NeoYokohama_HomelyShinobi.titleShort>忍者</Anneli_NeoYokohama_HomelyShinobi.titleShort>
+  <!-- EN: [PAWN_nameDef] acts as an unemployed salaryman. She found solace in the companionship of her cat, the only one who truly loves her. -->
+  <Anneli_NeoYokohama_LoserSalaryman.description>[PAWN_nameDef]扮演一名失业的上班族。她在猫科动物的陪伴中找到了安慰。</Anneli_NeoYokohama_LoserSalaryman.description>
+  <!-- EN: Loser Salaryman -->
+  <Anneli_NeoYokohama_LoserSalaryman.title>废物上班族</Anneli_NeoYokohama_LoserSalaryman.title>
+  <!-- EN: Salaryman -->
+  <Anneli_NeoYokohama_LoserSalaryman.titleShort>上班族</Anneli_NeoYokohama_LoserSalaryman.titleShort>
+  <!-- EN: [PAWN_nameDef] acts as a consumable salaryman. Her passion for botany exceeds her interest in daily work. -->
+  <Anneli_NeoYokohama_NormalSalaryman.description>[PAWN_nameDef]扮演一名耗材上班族。她对照顾盆栽的热情超过了对日常工作的兴趣。</Anneli_NeoYokohama_NormalSalaryman.description>
+  <!-- EN: Normal Salaryman -->
+  <Anneli_NeoYokohama_NormalSalaryman.title>平凡上班族</Anneli_NeoYokohama_NormalSalaryman.title>
+  <!-- EN: Salaryman -->
+  <Anneli_NeoYokohama_NormalSalaryman.titleShort>上班族</Anneli_NeoYokohama_NormalSalaryman.titleShort>
+  <!-- EN: [PAWN_nameDef] acts as a local gangster, who has a knack for shooting and a swagger that says she's the next rap queen. -->
+  <Anneli_NeoYokohama_Punk.description>[PAWN_nameDef]扮演一名地方帮派成员，擅长射击，气场十足，仿佛她就是下一个说唱女王。</Anneli_NeoYokohama_Punk.description>
+  <!-- EN: Punk -->
+  <Anneli_NeoYokohama_Punk.title>朋克</Anneli_NeoYokohama_Punk.title>
+  <!-- EN: Punk -->
+  <Anneli_NeoYokohama_Punk.titleShort>朋克</Anneli_NeoYokohama_Punk.titleShort>
+  <!-- EN: [PAWN_nameDef] acts as a fervent revolutionary proletariat. Formerly a laborer in the mining industry, she has become an expert in crafting homemade bombs. -->
+  <Anneli_NeoYokohama_RevolutionaryWorker.description>[PAWN_nameDef] 扮演一名革命的无产阶级。她曾经是矿业工人，而现在成为了自制炸弹的专家。</Anneli_NeoYokohama_RevolutionaryWorker.description>
+  <!-- EN: Revolutionary Worker -->
+  <Anneli_NeoYokohama_RevolutionaryWorker.title>革命劳工</Anneli_NeoYokohama_RevolutionaryWorker.title>
+  <!-- EN: Worker -->
+  <Anneli_NeoYokohama_RevolutionaryWorker.titleShort>劳工</Anneli_NeoYokohama_RevolutionaryWorker.titleShort>
+  <!-- EN: [PAWN_nameDef] acts as a homeless person in the depths of the city's underbelly, hunting bio-rats to sustain herself. -->
+  <Anneli_NeoYokohama_SewerDweller.description>[PAWN_nameDef]扮演一名无家可归者，生活在城市阴暗的角落，靠捕猎bio·老鼠来维持生计。</Anneli_NeoYokohama_SewerDweller.description>
+  <!-- EN: Sewer Dweller -->
+  <Anneli_NeoYokohama_SewerDweller.title>下水道贫民</Anneli_NeoYokohama_SewerDweller.title>
+  <!-- EN: Sewer Dweller -->
+  <Anneli_NeoYokohama_SewerDweller.titleShort>下水道贫民</Anneli_NeoYokohama_SewerDweller.titleShort>
+  <!-- EN: [PAWN_nameDef] acts as a doctor, with a 50% chance of saving lives or ending them. -->
+  <Anneli_NeoYokohama_UnlicensedDoctor.description>[PAWN_nameDef]扮演一名医生，她救人和杀人的概率都是50%。</Anneli_NeoYokohama_UnlicensedDoctor.description>
+  <!-- EN: Unlicensed Doctor -->
+  <Anneli_NeoYokohama_UnlicensedDoctor.title>无证医生</Anneli_NeoYokohama_UnlicensedDoctor.title>
+  <!-- EN: Doctor -->
+  <Anneli_NeoYokohama_UnlicensedDoctor.titleShort>医生</Anneli_NeoYokohama_UnlicensedDoctor.titleShort>
+  <!-- EN: [PAWN_nameDef] acts as a samurai. She seamlessly blends traditional martial art skills with cutting-edge technology, like laser muskets. -->
+  <Anneli_NeoYokohama_VersatileSamurai.description>[PAWN_nameDef]扮演一名武士。她将传统武术技能与激光铁炮等尖端科技融汇贯通。</Anneli_NeoYokohama_VersatileSamurai.description>
+  <!-- EN: Versatile Samurai -->
+  <Anneli_NeoYokohama_VersatileSamurai.title>多面手武士</Anneli_NeoYokohama_VersatileSamurai.title>
+  <!-- EN: Samurai -->
+  <Anneli_NeoYokohama_VersatileSamurai.titleShort>武士</Anneli_NeoYokohama_VersatileSamurai.titleShort>
+  <!-- EN: [PAWN_nameDef] acts as a consumable, but successful corporate manager. -->
+  <Anneli_NeoYokohama_WinnerSalaryman.description>[PAWN_nameDef]扮演一名看似前途一片光明的经理。</Anneli_NeoYokohama_WinnerSalaryman.description>
+  <!-- EN: Winner Salaryman -->
+  <Anneli_NeoYokohama_WinnerSalaryman.title>人生赢家上班族</Anneli_NeoYokohama_WinnerSalaryman.title>
+  <!-- EN: Salaryman -->
+  <Anneli_NeoYokohama_WinnerSalaryman.titleShort>上班族</Anneli_NeoYokohama_WinnerSalaryman.titleShort>
+</LanguageData>
