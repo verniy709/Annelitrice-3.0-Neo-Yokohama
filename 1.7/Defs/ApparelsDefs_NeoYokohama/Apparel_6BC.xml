@@ -37,6 +37,7 @@
 			<tags>
 				<li>Anneli_NeoYokohama_Hacker</li>
 				<li>Anneli_NeoYokohama_CyborgCombatant</li>
+				<li>Anneli_SkipForehead</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -64,6 +65,7 @@
 			<wornGraphicPath>6BC/Anneli_NeoYokohama_FoxMask</wornGraphicPath>
 			<tags>
 				<li>Anneli_NeoYokohama_ShominA</li>
+				<li>Anneli_SkipForehead</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -120,7 +122,8 @@
 		<apparel>
 			<wornGraphicPath>6BC/Anneli_NeoYokohama_HannyaMaskA</wornGraphicPath>
 			<tags>
-				<li>Anneli_NeoYokohama_Ronin</li>	
+				<li>Anneli_NeoYokohama_Ronin</li>
+				<li>Anneli_SkipForehead</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
