@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_NeoYokohama_CyborgArmorA</defName>
+		<originalDef>Anneli_NeoYokohama_CyborgArmorA</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>34/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_NeoYokohama_CyborgArmorA</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel34</textureLevelsName>
+				<drawOffsetSouth>(0, 1.500, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.500, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.500, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.500, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_NeoYokohama_CyborgArmorB</defName>
+		<originalDef>Anneli_NeoYokohama_CyborgArmorB</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>34/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_NeoYokohama_CyborgArmorB</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel34</textureLevelsName>
+				<drawOffsetSouth>(0, 1.538, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.538, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.538, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.538, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_NeoYokohama_SamuraiArmor</defName>
+		<originalDef>Anneli_NeoYokohama_SamuraiArmor</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>34/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_NeoYokohama_SamuraiArmor</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel34</textureLevelsName>
+				<drawOffsetSouth>(0, 1.538, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.538, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.538, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.538, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+			<li>
+				<prefix>
+					<li>Anneli_Arm_PauldronC</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Sleeve4_PauldronC_Left</textureLevelsName>
+				<useStaticYOffset>true</useStaticYOffset>
+				<drawOffsetSouth>(0, 2.673, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 0.654, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.846, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.673, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
+				<isSleeve>true</isSleeve>
+				<actionManager>
+					<def>Anneli_Arm_PauldronC_Left</def>
+				</actionManager>
+			</li>
+			<li>
+				<prefix>
+					<li>Anneli_Arm_PauldronC</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Sleeve4_PauldronC_Right</textureLevelsName>
+				<flipped>true</flipped>
+				<switchEastWest>true</switchEastWest>
+				<useStaticYOffset>true</useStaticYOffset>
+				<drawOffsetSouth>(0, 2.673, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.673, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.846, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 0.654, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
+				<isSleeve>true</isSleeve>
+				<actionManager>
+					<def>Anneli_Arm_PauldronC_Right</def>
+				</actionManager>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_NeoYokohama_ShinobiArmor</defName>
+		<originalDef>Anneli_NeoYokohama_ShinobiArmor</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>34/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_NeoYokohama_ShinobiArmor</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel34</textureLevelsName>
+				<drawOffsetSouth>(0, 1.538, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.538, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.538, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.538, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+			<li>
+				<prefix>
+					<li>Anneli_Back_NeoYokohama_ShinobiArmor</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel34_Back</textureLevelsName>
+				<drawOffsetSouth>(0, 0.654, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 0.654, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 0.654, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 0.654, 0)</drawOffsetWest>
+				<renderSwitch>(1, 0, 0)</renderSwitch>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+
+
+</Defs>

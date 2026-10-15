@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+    <Operation Class="PatchOperationSequence">
+        <operations>
+            <!-- Guests -->
+            <li Class="PatchOperationAdd">
+                <xpath>/Defs/QuestScriptDef/root[@Class="QuestNode_Sequence"]/nodes/li[@Class="QuestNode_IsSet"]/node[@Class="QuestNode_GetRandomPawnKindForFaction"]/choices</xpath>
+                <value>
+                    <li>
+                        <factionDef>Anneli_Faction_NeoYokohama</factionDef>
+                        <pawnKinds>
+                            <li>Anneli_NeoYokohama_SalarypersonA</li>
+                            <li>Anneli_NeoYokohama_SalarypersonB</li>
+                            <li>Anneli_NeoYokohama_Cop</li>
+                            <li>Anneli_NeoYokohama_TacticalOperator</li>
+                            <li>Anneli_NeoYokohama_HomelessPerson</li>
+                            <li>Anneli_NeoYokohama_Civilian</li>
+                            <li>Anneli_NeoYokohama_ThugA</li>
+                            <li>Anneli_NeoYokohama_ThugB</li>
+                            <li>Anneli_NeoYokohama_BunnyGirlA</li>
+                            <li>Anneli_NeoYokohama_BunnyGirlB</li>
+                            <li>Anneli_NeoYokohama_HackerA</li>
+                            <li>Anneli_NeoYokohama_HackerB</li>
+                            <li>Anneli_NeoYokohama_Doctor</li>
+                            <li>Anneli_NeoYokohama_CyborgCombatantA</li>
+                            <li>Anneli_NeoYokohama_CyborgCombatantB</li>
+                            <li>Anneli_NeoYokohama_CyborgCombatantC</li>
+                            <li>Anneli_NeoYokohama_ShominA</li>
+                            <li>Anneli_NeoYokohama_ShominB</li>
+                            <li>Anneli_NeoYokohama_ShominC</li>
+                            <li>Anneli_NeoYokohama_Ronin</li>
+                            <li>Anneli_NeoYokohama_Shinobi</li>
+                            <li>Anneli_NeoYokohama_GeishaA</li>
+                            <li>Anneli_NeoYokohama_GeishaB</li>
+                            <li>Anneli_NeoYokohama_SamuraiA</li>
+                            <li>Anneli_NeoYokohama_SamuraiB</li>
+                        </pawnKinds>
+                    </li>  
+                </value>
+            </li>
+            <!-- Mercenaries -->
+            <li Class="PatchOperationAdd">
+                <xpath>/Defs/QuestScriptDef/root[@Class="QuestNode_Sequence"]/nodes/li[@Class="QuestNode_GetRandomPawnKindForFaction"]/choices</xpath>
+                <value>
+                    <li>
+                        <factionDef>Anneli_Faction_NeoYokohama</factionDef>
+                        <pawnKinds>
+                            <li>Anneli_NeoYokohama_SalarypersonA</li>
+                            <li>Anneli_NeoYokohama_SalarypersonB</li>
+                            <li>Anneli_NeoYokohama_Cop</li>
+                            <li>Anneli_NeoYokohama_TacticalOperator</li>
+                            <li>Anneli_NeoYokohama_HomelessPerson</li>
+                            <li>Anneli_NeoYokohama_Civilian</li>
+                            <li>Anneli_NeoYokohama_ThugA</li>
+                            <li>Anneli_NeoYokohama_ThugB</li>
+                            <li>Anneli_NeoYokohama_BunnyGirlA</li>
+                            <li>Anneli_NeoYokohama_BunnyGirlB</li>
+                            <li>Anneli_NeoYokohama_HackerA</li>
+                            <li>Anneli_NeoYokohama_HackerB</li>
+                            <li>Anneli_NeoYokohama_Doctor</li>
+                            <li>Anneli_NeoYokohama_CyborgCombatantA</li>
+                            <li>Anneli_NeoYokohama_CyborgCombatantB</li>
+                            <li>Anneli_NeoYokohama_CyborgCombatantC</li>
+                            <li>Anneli_NeoYokohama_ShominA</li>
+                            <li>Anneli_NeoYokohama_ShominB</li>
+                            <li>Anneli_NeoYokohama_ShominC</li>
+                            <li>Anneli_NeoYokohama_Ronin</li>
+                            <li>Anneli_NeoYokohama_Shinobi</li>
+                            <li>Anneli_NeoYokohama_GeishaA</li>
+                            <li>Anneli_NeoYokohama_GeishaB</li>
+                            <li>Anneli_NeoYokohama_SamuraiA</li>
+                            <li>Anneli_NeoYokohama_SamuraiB</li>
+                        </pawnKinds>
+                    </li>  
+                </value>
+            </li>
+        </operations>
+    </Operation>
+</Patch>

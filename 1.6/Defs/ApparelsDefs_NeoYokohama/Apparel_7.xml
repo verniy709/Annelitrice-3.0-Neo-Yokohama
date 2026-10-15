@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef Name="Anneli_NeoYokohama_7_NonMetal" ParentName="Anneli_7_NonMetal" Abstract="True">
+		<thingCategories>
+			<li>Anneli_Category_NeoYokohama</li>
+		</thingCategories>
+		<recipeMaker>
+			<recipeUsers>
+				<li>Anneli_NeoYokohama_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+	</ThingDef>
+
+	<ThingDef Name="Anneli_NeoYokohama_7_Metal" ParentName="Anneli_7_Metal" Abstract="True">
+		<thingCategories>
+			<li>Anneli_Category_NeoYokohama</li>
+		</thingCategories>
+		<recipeMaker>
+			<recipeUsers>
+				<li>Anneli_NeoYokohama_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_DuffleBag-->
+	<ThingDef ParentName="Anneli_NeoYokohama_7_NonMetal">
+		<defName>Anneli_NeoYokohama_DuffleBag</defName>
+		<description>Dyeable.</description>
+		<label>(NeoY)7_DuffleBag</label>
+		<graphicData>
+			<texPath>7/Anneli_NeoYokohama_DuffleBag</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>7/Anneli_NeoYokohama_DuffleBag</wornGraphicPath>
+			<tags>
+				<li>Anneli_NeoYokohama_TacticalOperator</li>
+				<li>Anneli_NeoYokohama_Thug</li>
+				<li>Anneli_NeoYokohama_Civilian</li>
+				<li>Anneli_NeoYokohama_Doctor</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+		<generateAllowChance>0.3</generateAllowChance><!--Less Spawn-->
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_Kinchaku-->
+	<ThingDef ParentName="Anneli_NeoYokohama_7_NonMetal">
+		<defName>Anneli_NeoYokohama_Kinchaku</defName>
+		<description>Dyeable.</description>
+		<label>(NeoY)7_Kinchaku</label>
+		<graphicData>
+			<texPath>7/Anneli_NeoYokohama_Kinchaku</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>7/Anneli_NeoYokohama_Kinchaku</wornGraphicPath>
+			<tags>
+				<li>Anneli_NeoYokohama_Geisha</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(255,245,245,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(200,60,60,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(175,200,240,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+		<generateAllowChance>0.3</generateAllowChance><!--Less Spawn-->
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_GearDock-->
+	<ThingDef ParentName="Anneli_NeoYokohama_7_Metal">
+		<defName>Anneli_NeoYokohama_GearDock</defName>
+		<description>Dyeable.</description>
+		<label>(NeoY)7_GearDock</label>
+		<graphicData>
+			<texPath>7/Anneli_NeoYokohama_GearDock</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>7/Anneli_NeoYokohama_GearDock</wornGraphicPath>
+			<tags>
+				<li>Anneli_NeoYokohama_CyborgCombatant</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
+	</ThingDef>
+
+</Defs>

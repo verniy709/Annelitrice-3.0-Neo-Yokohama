@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef Name="Anneli_NeoYokohama_5C_NonMetal" ParentName="Anneli_5C_NonMetal" Abstract="True">
+		<thingCategories>
+			<li>Anneli_Category_NeoYokohama</li>
+		</thingCategories>
+		<recipeMaker>
+			<recipeUsers>
+				<li>Anneli_NeoYokohama_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+	</ThingDef>
+
+	<ThingDef Name="Anneli_NeoYokohama_5C_Metal" ParentName="Anneli_5C_Metal" Abstract="True">
+		<thingCategories>
+			<li>Anneli_Category_NeoYokohama</li>
+		</thingCategories>
+		<recipeMaker>
+			<recipeUsers>
+				<li>Anneli_NeoYokohama_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_LongLatexGloves-->
+	<ThingDef ParentName="Anneli_NeoYokohama_5C_NonMetal">
+		<defName>Anneli_NeoYokohama_LongLatexGloves</defName>
+		<description>Dyeable.</description>
+		<label>(NeoY)5C_LongLatexGloves</label>
+		<graphicData>
+			<texPath>5C/Anneli_NeoYokohama_LongLatexGloves</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>5C/Anneli_NeoYokohama_LongLatexGloves</wornGraphicPath>
+			<tags>
+				<li>Anneli_NeoYokohama_HomelessPerson</li>
+				<li>Anneli_NeoYokohama_Civilian</li>
+				<li>Anneli_NeoYokohama_BunnyGirl</li>
+				<li>Anneli_NeoYokohama_Hacker</li>
+				<li>Anneli_NeoYokohama_Doctor</li>
+				<li>Anneli_NeoYokohama_CyborgCombatant</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+		<generateAllowChance>0.7</generateAllowChance><!--Less Spawn-->
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_SamuraiGauntlets-->
+	<ThingDef ParentName="Anneli_NeoYokohama_5C_Metal">
+		<defName>Anneli_NeoYokohama_SamuraiGauntlets</defName>
+		<description>Dyeable.</description>
+		<label>(NeoY)5C_SamuraiGauntlets</label>
+		<graphicData>
+			<texPath>5C/Anneli_NeoYokohama_SamuraiGauntlets</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>5C/Anneli_NeoYokohama_SamuraiGauntlets</wornGraphicPath>
+			<tags>
+				<li>Anneli_NeoYokohama_ShominB</li>
+				<li>Anneli_NeoYokohama_Ronin</li>
+				<li>Anneli_NeoYokohama_Shinobi</li>
+				<li>Anneli_NeoYokohama_Samurai</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+		<generateAllowChance>0.7</generateAllowChance><!--Less Spawn-->
+	</ThingDef>
+
+</Defs>

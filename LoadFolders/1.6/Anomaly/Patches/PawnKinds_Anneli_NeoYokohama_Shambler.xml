@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+    <Operation Class="PatchOperationAdd">
+        <xpath>Defs/FactionDef[defName="Entities"]/pawnGroupMakers</xpath>
+        <value>
+            <li>
+                <!-- Anneli_Shambler -->
+                <kindDef>Shamblers</kindDef>
+                <commonality>10</commonality>
+                <options>
+                    <Anneli_NeoYokohama_Shambler_SalarypersonA>2</Anneli_NeoYokohama_Shambler_SalarypersonA>
+                    <Anneli_NeoYokohama_Shambler_SalarypersonB>2</Anneli_NeoYokohama_Shambler_SalarypersonB>
+                    <Anneli_NeoYokohama_Shambler_Cop>3</Anneli_NeoYokohama_Shambler_Cop>
+                    <Anneli_NeoYokohama_Shambler_TacticalOperator>4</Anneli_NeoYokohama_Shambler_TacticalOperator>
+                    <Anneli_NeoYokohama_Shambler_HomelessPerson>2</Anneli_NeoYokohama_Shambler_HomelessPerson>
+                    <Anneli_NeoYokohama_Shambler_Civilian>3</Anneli_NeoYokohama_Shambler_Civilian>
+                    <Anneli_NeoYokohama_Shambler_ThugA>2</Anneli_NeoYokohama_Shambler_ThugA>
+                    <Anneli_NeoYokohama_Shambler_ThugB>2</Anneli_NeoYokohama_Shambler_ThugB>
+                    <Anneli_NeoYokohama_Shambler_BunnyGirlA>2</Anneli_NeoYokohama_Shambler_BunnyGirlA>
+                    <Anneli_NeoYokohama_Shambler_BunnyGirlB>2</Anneli_NeoYokohama_Shambler_BunnyGirlB>
+                    <Anneli_NeoYokohama_Shambler_HackerA>2</Anneli_NeoYokohama_Shambler_HackerA>
+                    <Anneli_NeoYokohama_Shambler_HackerB>2</Anneli_NeoYokohama_Shambler_HackerB>
+                    <Anneli_NeoYokohama_Shambler_Doctor>3</Anneli_NeoYokohama_Shambler_Doctor>
+                    <Anneli_NeoYokohama_Shambler_CyborgCombatantA>3</Anneli_NeoYokohama_Shambler_CyborgCombatantA>
+                    <Anneli_NeoYokohama_Shambler_CyborgCombatantB>3</Anneli_NeoYokohama_Shambler_CyborgCombatantB>
+                    <Anneli_NeoYokohama_Shambler_CyborgCombatantC>3</Anneli_NeoYokohama_Shambler_CyborgCombatantC>
+                    <Anneli_NeoYokohama_Shambler_ShominA>2</Anneli_NeoYokohama_Shambler_ShominA>
+                    <Anneli_NeoYokohama_Shambler_ShominB>2</Anneli_NeoYokohama_Shambler_ShominB>
+                    <Anneli_NeoYokohama_Shambler_ShominC>1</Anneli_NeoYokohama_Shambler_ShominC>
+                    <Anneli_NeoYokohama_Shambler_Ronin>2</Anneli_NeoYokohama_Shambler_Ronin>
+                    <Anneli_NeoYokohama_Shambler_Shinobi>3</Anneli_NeoYokohama_Shambler_Shinobi>
+                    <Anneli_NeoYokohama_Shambler_GeishaA>2</Anneli_NeoYokohama_Shambler_GeishaA>
+                    <Anneli_NeoYokohama_Shambler_GeishaB>2</Anneli_NeoYokohama_Shambler_GeishaB>
+                    <Anneli_NeoYokohama_Shambler_SamuraiA>3</Anneli_NeoYokohama_Shambler_SamuraiA>
+                    <Anneli_NeoYokohama_Shambler_SamuraiB>1</Anneli_NeoYokohama_Shambler_SamuraiB>
+                </options>
+            </li>
+        </value>
+    </Operation>
+</Patch>

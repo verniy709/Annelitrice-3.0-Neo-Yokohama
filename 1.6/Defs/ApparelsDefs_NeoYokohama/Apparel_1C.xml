@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef Name="Anneli_NeoYokohama_1C" ParentName="Anneli_1C" Abstract="True">
+		<thingCategories>
+			<li>Anneli_Category_NeoYokohama</li>
+		</thingCategories>
+		<recipeMaker>
+			<recipeUsers>
+				<li>Anneli_NeoYokohama_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_FishnetPantyhose-->
+	<ThingDef ParentName="Anneli_NeoYokohama_1C">
+		<defName>Anneli_NeoYokohama_FishnetPantyhose</defName>
+		<description>Dyeable.</description>
+		<label>(NeoY)1C_FishnetPantyhose</label>
+		<graphicData>
+			<texPath>1C/Anneli_NeoYokohama_FishnetPantyhose</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>1C/Anneli_NeoYokohama_FishnetPantyhose</wornGraphicPath>
+			<tags>
+				<li>Anneli_Underwear</li>
+				<li>Anneli_NeoYokohama_BunnyGirl</li>
+				<li>Anneli_NeoYokohama_Civilian</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_FishnetStockingsA-->
+	<ThingDef ParentName="Anneli_NeoYokohama_1C">
+		<defName>Anneli_NeoYokohama_FishnetStockingsA</defName>
+		<description>Dyeable.</description>
+		<label>(NeoY)1C_FishnetStockingsA</label>
+		<graphicData>
+			<texPath>1C/Anneli_NeoYokohama_FishnetStockingsA</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>1C/Anneli_NeoYokohama_FishnetStockingsA</wornGraphicPath>
+			<tags>
+				<li>Anneli_Underwear</li>
+				<li>Anneli_NeoYokohama_Salaryperson</li>
+				<li>Anneli_NeoYokohama_HomelessPerson</li>
+				<li>Anneli_NeoYokohama_Thug</li>
+				<li>Anneli_NeoYokohama_Hacker</li>
+				<li>Anneli_NeoYokohama_Civilian</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_FishnetStockingsB-->
+	<ThingDef ParentName="Anneli_NeoYokohama_1C">
+		<defName>Anneli_NeoYokohama_FishnetStockingsB</defName>
+		<description>Dyeable.</description>
+		<label>(NeoY)1C_FishnetStockingsB</label>
+		<graphicData>
+			<texPath>1C/Anneli_NeoYokohama_FishnetStockingsB</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>1C/Anneli_NeoYokohama_FishnetStockingsB</wornGraphicPath>
+			<tags>
+				<li>Anneli_Underwear</li>
+				<li>Anneli_NeoYokohama_HomelessPerson</li>
+				<li>Anneli_NeoYokohama_Thug</li>
+				<li>Anneli_NeoYokohama_Hacker</li>
+				<li>Anneli_NeoYokohama_Civilian</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_StockingsA-->
+	<ThingDef ParentName="Anneli_NeoYokohama_1C">
+		<defName>Anneli_NeoYokohama_StockingsA</defName>
+		<description>Dyeable.</description>
+		<label>(NeoY)1C_StockingsA</label>
+		<graphicData>
+			<texPath>1C/Anneli_NeoYokohama_StockingsA</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>1C/Anneli_NeoYokohama_StockingsA</wornGraphicPath>
+			<tags>
+				<li>Anneli_Underwear</li>
+				<li>Anneli_NeoYokohama_Shomin</li>
+				<li>Anneli_NeoYokohama_Ronin</li>
+				<li>Anneli_NeoYokohama_Shinobi</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(255,245,245,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_StockingsB-->
+	<ThingDef ParentName="Anneli_NeoYokohama_1C">
+		<defName>Anneli_NeoYokohama_StockingsB</defName>
+		<description>Dyeable.</description>
+		<label>(NeoY)1C_StockingsB</label>
+		<graphicData>
+			<texPath>1C/Anneli_NeoYokohama_StockingsB</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>1C/Anneli_NeoYokohama_StockingsB</wornGraphicPath>
+			<tags>
+				<li>Anneli_Underwear</li>
+				<li>Anneli_NeoYokohama_TacticalOperator</li>
+				<li>Anneli_NeoYokohama_Hacker</li>
+				<li>Anneli_NeoYokohama_CyborgCombatant</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_NeoYokohama_Tabi-->
+	<ThingDef ParentName="Anneli_NeoYokohama_1C">
+		<defName>Anneli_NeoYokohama_Tabi</defName>
+		<description>Dyeable.</description>
+		<label>(NeoY)1C_Tabi</label>
+		<graphicData>
+			<texPath>1C/Anneli_NeoYokohama_Tabi</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>1C/Anneli_NeoYokohama_Tabi</wornGraphicPath>
+			<tags>
+				<li>Anneli_Underwear</li>
+				<li>Anneli_NeoYokohama_Shomin</li>
+				<li>Anneli_NeoYokohama_Ronin</li>
+				<li>Anneli_NeoYokohama_Geisha</li>
+				<li>Anneli_NeoYokohama_Samurai</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(255,245,245,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+</Defs>
