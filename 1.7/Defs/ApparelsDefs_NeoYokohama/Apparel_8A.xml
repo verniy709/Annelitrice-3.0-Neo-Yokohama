@@ -67,6 +67,9 @@
 		</graphicData>
 		<apparel>
 			<wornGraphicPath>8A/Anneli_NeoYokohama_ElectricGuitar</wornGraphicPath>
+			<tags>
+				<li>Anneli_NeoYokohama_Thug</li>
+			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
@@ -85,7 +88,7 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.0</generateAllowChance><!--Less Spawn-->
+		<generateAllowChance>0.3</generateAllowChance><!--Less Spawn-->
 		<costStuffCount>20</costStuffCount>
 		<stuffCategories>
 			<li>Metallic</li>

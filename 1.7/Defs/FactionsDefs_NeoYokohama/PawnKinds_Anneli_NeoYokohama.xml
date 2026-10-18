@@ -7,7 +7,7 @@
 		<forceWeaponQuality>Masterwork</forceWeaponQuality>
 		<defaultFactionType>Anneli_Faction_NeoYokohama</defaultFactionType>
 		<isFighter>true</isFighter>
-		<combatPower>190</combatPower>
+		<combatPower>180</combatPower>
 		<canBeSapper>true</canBeSapper>
 		<backstoryFiltersOverride>
 			<li>
