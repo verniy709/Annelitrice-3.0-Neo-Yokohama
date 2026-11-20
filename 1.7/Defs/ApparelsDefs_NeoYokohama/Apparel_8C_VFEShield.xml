@@ -144,10 +144,10 @@
                         <offset>(0.04, -0.07488256, 0.39)</offset>
                     </east>
                     <south>
-                        <offset>(0.16, -0.04927280, 0.35)</offset>
+                        <offset>(0.16, -0.04469963, 0.35)</offset>
                     </south>
                     <west>
-                        <offset>(-0.04, -0.04927280, 0.39)</offset>
+                        <offset>(-0.04, -0.04469963, 0.39)</offset>
                     </west>
                 </offHandHoldOffset>
             </li>
